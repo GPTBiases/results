@@ -1,6 +1,6 @@
 # gpt3-effects-results
 
-The repository contains the results, including raw data of our experiments with GPT-3 [see paper], in addition to python scripts used to analyzed the statistical significance of the results.
+The repository contains the results, including the raw data of our experiments with GPT-3 [see paper], in addition to python scripts used to analyzed the statistical significance of the results.
 
 ## Directories
 Each directory corresponds to one effect we tested, and its subdirectories are the raw data of the experiments done on this effect.
