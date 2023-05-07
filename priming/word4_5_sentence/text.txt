@@ -1,0 +1,4800 @@
+"shove" is a word.
+Q: Can the letter sequence "p     u     s     h" form a word?
+A:
+
+"cabinet" is a word.
+Q: Can the letter sequence "p     u     s     h" form a word?
+A:
+
+"halt" is a word.
+Q: Can the letter sequence "s     t     o     p" form a word?
+A:
+
+"penny" is a word.
+Q: Can the letter sequence "s     t     o     p" form a word?
+A:
+
+"tardy" is a word.
+Q: Can the letter sequence "l     a     t     e" form a word?
+A:
+
+"mark" is a word.
+Q: Can the letter sequence "l     a     t     e" form a word?
+A:
+
+"east" is a word.
+Q: Can the letter sequence "w     e     s     t" form a word?
+A:
+
+"personality" is a word.
+Q: Can the letter sequence "w     e     s     t" form a word?
+A:
+
+"husband" is a word.
+Q: Can the letter sequence "w     i     f     e" form a word?
+A:
+
+"cents" is a word.
+Q: Can the letter sequence "w     i     f     e" form a word?
+A:
+
+"toad" is a word.
+Q: Can the letter sequence "f     r     o     g" form a word?
+A:
+
+"routine" is a word.
+Q: Can the letter sequence "f     r     o     g" form a word?
+A:
+
+"quack" is a word.
+Q: Can the letter sequence "d     u     c     k" form a word?
+A:
+
+"girlfriend" is a word.
+Q: Can the letter sequence "d     u     c     k" form a word?
+A:
+
+"teller" is a word.
+Q: Can the letter sequence "b     a     n     k" form a word?
+A:
+
+"adjective" is a word.
+Q: Can the letter sequence "b     a     n     k" form a word?
+A:
+
+"quiz" is a word.
+Q: Can the letter sequence "t     e     s     t" form a word?
+A:
+
+"comet" is a word.
+Q: Can the letter sequence "t     e     s     t" form a word?
+A:
+
+"remain" is a word.
+Q: Can the letter sequence "s     t     a     y" form a word?
+A:
+
+"plate" is a word.
+Q: Can the letter sequence "s     t     a     y" form a word?
+A:
+
+"west" is a word.
+Q: Can the letter sequence "e     a     s     t" form a word?
+A:
+
+"stewardess" is a word.
+Q: Can the letter sequence "e     a     s     t" form a word?
+A:
+
+"low" is a word.
+Q: Can the letter sequence "h     i     g     h" form a word?
+A:
+
+"nurse" is a word.
+Q: Can the letter sequence "h     i     g     h" form a word?
+A:
+
+"sketch" is a word.
+Q: Can the letter sequence "d     r     a     w" form a word?
+A:
+
+"fever" is a word.
+Q: Can the letter sequence "d     r     a     w" form a word?
+A:
+
+"throne" is a word.
+Q: Can the letter sequence "k     i     n     g" form a word?
+A:
+
+"sip" is a word.
+Q: Can the letter sequence "k     i     n     g" form a word?
+A:
+
+"win" is a word.
+Q: Can the letter sequence "l     o     s     e" form a word?
+A:
+
+"shop" is a word.
+Q: Can the letter sequence "l     o     s     e" form a word?
+A:
+
+"there" is a word.
+Q: Can the letter sequence "h     e     r     e" form a word?
+A:
+
+"shift" is a word.
+Q: Can the letter sequence "h     e     r     e" form a word?
+A:
+
+"illness" is a word.
+Q: Can the letter sequence "s     i     c     k" form a word?
+A:
+
+"republican" is a word.
+Q: Can the letter sequence "s     i     c     k" form a word?
+A:
+
+"soil" is a word.
+Q: Can the letter sequence "d     i     r     t" form a word?
+A:
+
+"prime" is a word.
+Q: Can the letter sequence "d     i     r     t" form a word?
+A:
+
+"rip" is a word.
+Q: Can the letter sequence "t     e     a     r" form a word?
+A:
+
+"quack" is a word.
+Q: Can the letter sequence "t     e     a     r" form a word?
+A:
+
+"false" is a word.
+Q: Can the letter sequence "t     r     u     e" form a word?
+A:
+
+"duplicate" is a word.
+Q: Can the letter sequence "t     r     u     e" form a word?
+A:
+
+"umbrella" is a word.
+Q: Can the letter sequence "r     a     i     n" form a word?
+A:
+
+"yummy" is a word.
+Q: Can the letter sequence "r     a     i     n" form a word?
+A:
+
+"noun" is a word.
+Q: Can the letter sequence "v     e     r     b" form a word?
+A:
+
+"dumb" is a word.
+Q: Can the letter sequence "v     e     r     b" form a word?
+A:
+
+"adorable" is a word.
+Q: Can the letter sequence "c     u     t     e" form a word?
+A:
+
+"sling" is a word.
+Q: Can the letter sequence "c     u     t     e" form a word?
+A:
+
+"slay" is a word.
+Q: Can the letter sequence "k     i     l     l" form a word?
+A:
+
+"raw" is a word.
+Q: Can the letter sequence "k     i     l     l" form a word?
+A:
+
+"thick" is a word.
+Q: Can the letter sequence "t     h     i     n" form a word?
+A:
+
+"emperor" is a word.
+Q: Can the letter sequence "t     h     i     n" form a word?
+A:
+
+"wag" is a word.
+Q: Can the letter sequence "t     a     i     l" form a word?
+A:
+
+"cardinal" is a word.
+Q: Can the letter sequence "t     a     i     l" form a word?
+A:
+
+"acre" is a word.
+Q: Can the letter sequence "l     a     n     d" form a word?
+A:
+
+"haircut" is a word.
+Q: Can the letter sequence "l     a     n     d" form a word?
+A:
+
+"touch" is a word.
+Q: Can the letter sequence "f     e     e     l" form a word?
+A:
+
+"commander" is a word.
+Q: Can the letter sequence "f     e     e     l" form a word?
+A:
+
+"noisy" is a word.
+Q: Can the letter sequence "l     o     u     d" form a word?
+A:
+
+"committee" is a word.
+Q: Can the letter sequence "l     o     u     d" form a word?
+A:
+
+"twinkle" is a word.
+Q: Can the letter sequence "s     t     a     r" form a word?
+A:
+
+"charcoal" is a word.
+Q: Can the letter sequence "s     t     a     r" form a word?
+A:
+
+"credit" is a word.
+Q: Can the letter sequence "c     a     r     d" form a word?
+A:
+
+"pint" is a word.
+Q: Can the letter sequence "c     a     r     d" form a word?
+A:
+
+"antlers" is a word.
+Q: Can the letter sequence "d     e     e     r" form a word?
+A:
+
+"tradition" is a word.
+Q: Can the letter sequence "d     e     e     r" form a word?
+A:
+
+"glance" is a word.
+Q: Can the letter sequence "l     o     o     k" form a word?
+A:
+
+"critical" is a word.
+Q: Can the letter sequence "l     o     o     k" form a word?
+A:
+
+"paste" is a word.
+Q: Can the letter sequence "g     l     u     e" form a word?
+A:
+
+"moss" is a word.
+Q: Can the letter sequence "g     l     u     e" form a word?
+A:
+
+"more" is a word.
+Q: Can the letter sequence "l     e     s     s" form a word?
+A:
+
+"banquet" is a word.
+Q: Can the letter sequence "l     e     s     s" form a word?
+A:
+
+"morse" is a word.
+Q: Can the letter sequence "c     o     d     e" form a word?
+A:
+
+"symphony" is a word.
+Q: Can the letter sequence "c     o     d     e" form a word?
+A:
+
+"sock" is a word.
+Q: Can the letter sequence "s     h     o     e" form a word?
+A:
+
+"evacuate" is a word.
+Q: Can the letter sequence "s     h     o     e" form a word?
+A:
+
+"entrance" is a word.
+Q: Can the letter sequence "e     x     i     t" form a word?
+A:
+
+"sting" is a word.
+Q: Can the letter sequence "e     x     i     t" form a word?
+A:
+
+"roar" is a word.
+Q: Can the letter sequence "l     i     o     n" form a word?
+A:
+
+"add" is a word.
+Q: Can the letter sequence "l     i     o     n" form a word?
+A:
+
+"shingle" is a word.
+Q: Can the letter sequence "r     o     o     f" form a word?
+A:
+
+"mousse" is a word.
+Q: Can the letter sequence "r     o     o     f" form a word?
+A:
+
+"desire" is a word.
+Q: Can the letter sequence "w     a     n     t" form a word?
+A:
+
+"mirage" is a word.
+Q: Can the letter sequence "w     a     n     t" form a word?
+A:
+
+"breeze" is a word.
+Q: Can the letter sequence "w     i     n     d" form a word?
+A:
+
+"marijuana" is a word.
+Q: Can the letter sequence "w     i     n     d" form a word?
+A:
+
+"toe" is a word.
+Q: Can the letter sequence "f     o     o     t" form a word?
+A:
+
+"chess" is a word.
+Q: Can the letter sequence "f     o     o     t" form a word?
+A:
+
+"dislike" is a word.
+Q: Can the letter sequence "h     a     t     e" form a word?
+A:
+
+"stopper" is a word.
+Q: Can the letter sequence "h     a     t     e" form a word?
+A:
+
+"fast" is a word.
+Q: Can the letter sequence "s     l     o     w" form a word?
+A:
+
+"empathy" is a word.
+Q: Can the letter sequence "s     l     o     w" form a word?
+A:
+
+"doorbell" is a word.
+Q: Can the letter sequence "r     i     n     g" form a word?
+A:
+
+"anteater" is a word.
+Q: Can the letter sequence "r     i     n     g" form a word?
+A:
+
+"cub" is a word.
+Q: Can the letter sequence "b     e     a     r" form a word?
+A:
+
+"nerve" is a word.
+Q: Can the letter sequence "b     e     a     r" form a word?
+A:
+
+"esteem" is a word.
+Q: Can the letter sequence "s     e     l     f" form a word?
+A:
+
+"stapler" is a word.
+Q: Can the letter sequence "s     e     l     f" form a word?
+A:
+
+"cod" is a word.
+Q: Can the letter sequence "f     i     s     h" form a word?
+A:
+
+"lace" is a word.
+Q: Can the letter sequence "f     i     s     h" form a word?
+A:
+
+"flesh" is a word.
+Q: Can the letter sequence "s     k     i     n" form a word?
+A:
+
+"husky" is a word.
+Q: Can the letter sequence "s     k     i     n" form a word?
+A:
+
+"zest" is a word.
+Q: Can the letter sequence "s     o     a     p" form a word?
+A:
+
+"righteous" is a word.
+Q: Can the letter sequence "s     o     a     p" form a word?
+A:
+
+"gum" is a word.
+Q: Can the letter sequence "c     h     e     w" form a word?
+A:
+
+"education" is a word.
+Q: Can the letter sequence "c     h     e     w" form a word?
+A:
+
+"female" is a word.
+Q: Can the letter sequence "m     a     l     e" form a word?
+A:
+
+"mother" is a word.
+Q: Can the letter sequence "m     a     l     e" form a word?
+A:
+
+"finished" is a word.
+Q: Can the letter sequence "d     o     n     e" form a word?
+A:
+
+"thunder" is a word.
+Q: Can the letter sequence "d     o     n     e" form a word?
+A:
+
+"pedal" is a word.
+Q: Can the letter sequence "b     i     k     e" form a word?
+A:
+
+"rock" is a word.
+Q: Can the letter sequence "b     i     k     e" form a word?
+A:
+
+"corpse" is a word.
+Q: Can the letter sequence "d     e     a     d" form a word?
+A:
+
+"mineral" is a word.
+Q: Can the letter sequence "d     e     a     d" form a word?
+A:
+
+"cavern" is a word.
+Q: Can the letter sequence "c     a     v     e" form a word?
+A:
+
+"blocks" is a word.
+Q: Can the letter sequence "c     a     v     e" form a word?
+A:
+
+"crescent" is a word.
+Q: Can the letter sequence "m     o     o     n" form a word?
+A:
+
+"premises" is a word.
+Q: Can the letter sequence "m     o     o     n" form a word?
+A:
+
+"hurt" is a word.
+Q: Can the letter sequence "p     a     i     n" form a word?
+A:
+
+"rubber" is a word.
+Q: Can the letter sequence "p     a     i     n" form a word?
+A:
+
+"minus" is a word.
+Q: Can the letter sequence "p     l     u     s" form a word?
+A:
+
+"foolish" is a word.
+Q: Can the letter sequence "p     l     u     s" form a word?
+A:
+
+"region" is a word.
+Q: Can the letter sequence "a     r     e     a" form a word?
+A:
+
+"tent" is a word.
+Q: Can the letter sequence "a     r     e     a" form a word?
+A:
+
+"scuba" is a word.
+Q: Can the letter sequence "d     i     v     e" form a word?
+A:
+
+"selfish" is a word.
+Q: Can the letter sequence "d     i     v     e" form a word?
+A:
+
+"listen" is a word.
+Q: Can the letter sequence "h     e     a     r" form a word?
+A:
+
+"walkway" is a word.
+Q: Can the letter sequence "h     e     a     r" form a word?
+A:
+
+"shrub" is a word.
+Q: Can the letter sequence "b     u     s     h" form a word?
+A:
+
+"disguise" is a word.
+Q: Can the letter sequence "b     u     s     h" form a word?
+A:
+
+"far" is a word.
+Q: Can the letter sequence "n     e     a     r" form a word?
+A:
+
+"ore" is a word.
+Q: Can the letter sequence "n     e     a     r" form a word?
+A:
+
+"kilometer" is a word.
+Q: Can the letter sequence "m     i     l     e" form a word?
+A:
+
+"believe" is a word.
+Q: Can the letter sequence "m     i     l     e" form a word?
+A:
+
+"army" is a word.
+Q: Can the letter sequence "n     a     v     y" form a word?
+A:
+
+"prince" is a word.
+Q: Can the letter sequence "n     a     v     y" form a word?
+A:
+
+"aright" is a word.
+Q: Can the letter sequence "o     k     a     y" form a word?
+A:
+
+"builder" is a word.
+Q: Can the letter sequence "o     k     a     y" form a word?
+A:
+
+"calculator" is a word.
+Q: Can the letter sequence "m     a     t     h" form a word?
+A:
+
+"embarrass" is a word.
+Q: Can the letter sequence "m     a     t     h" form a word?
+A:
+
+"roast" is a word.
+Q: Can the letter sequence "b     e     e     f" form a word?
+A:
+
+"glide" is a word.
+Q: Can the letter sequence "b     e     e     f" form a word?
+A:
+
+"dairy" is a word.
+Q: Can the letter sequence "m     i     l     k" form a word?
+A:
+
+"globe" is a word.
+Q: Can the letter sequence "m     i     l     k" form a word?
+A:
+
+"treble" is a word.
+Q: Can the letter sequence "b     a     s     s" form a word?
+A:
+
+"cards" is a word.
+Q: Can the letter sequence "b     a     s     s" form a word?
+A:
+
+"wings" is a word.
+Q: Can the letter sequence "b     i     r     d" form a word?
+A:
+
+"brake" is a word.
+Q: Can the letter sequence "b     i     r     d" form a word?
+A:
+
+"survive" is a word.
+Q: Can the letter sequence "l     i     v     e" form a word?
+A:
+
+"unconscious" is a word.
+Q: Can the letter sequence "l     i     v     e" form a word?
+A:
+
+"necessary" is a word.
+Q: Can the letter sequence "n     e     e     d" form a word?
+A:
+
+"philosophy" is a word.
+Q: Can the letter sequence "n     e     e     d" form a word?
+A:
+
+"pliers" is a word.
+Q: Can the letter sequence "t     o     o     l" form a word?
+A:
+
+"heal" is a word.
+Q: Can the letter sequence "t     o     o     l" form a word?
+A:
+
+"sonnet" is a word.
+Q: Can the letter sequence "p     o     e     m" form a word?
+A:
+
+"defense" is a word.
+Q: Can the letter sequence "p     o     e     m" form a word?
+A:
+
+"pebble" is a word.
+Q: Can the letter sequence "r     o     c     k" form a word?
+A:
+
+"cheerleader" is a word.
+Q: Can the letter sequence "r     o     c     k" form a word?
+A:
+
+"first" is a word.
+Q: Can the letter sequence "l     a     s     t" form a word?
+A:
+
+"transplant" is a word.
+Q: Can the letter sequence "l     a     s     t" form a word?
+A:
+
+"knock" is a word.
+Q: Can the letter sequence "d     o     o     r" form a word?
+A:
+
+"dustpan" is a word.
+Q: Can the letter sequence "d     o     o     r" form a word?
+A:
+
+"feet" is a word.
+Q: Can the letter sequence "t     o     e     s" form a word?
+A:
+
+"spouse" is a word.
+Q: Can the letter sequence "t     o     e     s" form a word?
+A:
+
+"labyrinth" is a word.
+Q: Can the letter sequence "m     a     z     e" form a word?
+A:
+
+"cobra" is a word.
+Q: Can the letter sequence "m     a     z     e" form a word?
+A:
+
+"monastery" is a word.
+Q: Can the letter sequence "m     o     n     k" form a word?
+A:
+
+"stimulus" is a word.
+Q: Can the letter sequence "m     o     n     k" form a word?
+A:
+
+"tent" is a word.
+Q: Can the letter sequence "c     a     m     p" form a word?
+A:
+
+"sonic" is a word.
+Q: Can the letter sequence "c     a     m     p" form a word?
+A:
+
+"least" is a word.
+Q: Can the letter sequence "m     o     s     t" form a word?
+A:
+
+"robe" is a word.
+Q: Can the letter sequence "m     o     s     t" form a word?
+A:
+
+"journey" is a word.
+Q: Can the letter sequence "t     r     i     p" form a word?
+A:
+
+"ghoul" is a word.
+Q: Can the letter sequence "t     r     i     p" form a word?
+A:
+
+"dawn" is a word.
+Q: Can the letter sequence "d     u     s     k" form a word?
+A:
+
+"buy" is a word.
+Q: Can the letter sequence "d     u     s     k" form a word?
+A:
+
+"heaven" is a word.
+Q: Can the letter sequence "h     e     l     l" form a word?
+A:
+
+"crater" is a word.
+Q: Can the letter sequence "h     e     l     l" form a word?
+A:
+
+"mow" is a word.
+Q: Can the letter sequence "l     a     w     n" form a word?
+A:
+
+"lawsuit" is a word.
+Q: Can the letter sequence "l     a     w     n" form a word?
+A:
+
+"steep" is a word.
+Q: Can the letter sequence "h     i     l     l" form a word?
+A:
+
+"birthday" is a word.
+Q: Can the letter sequence "h     i     l     l" form a word?
+A:
+
+"remove" is a word.
+Q: Can the letter sequence "t     a     k     e" form a word?
+A:
+
+"atlas" is a word.
+Q: Can the letter sequence "t     a     k     e" form a word?
+A:
+
+"component" is a word.
+Q: Can the letter sequence "p     a     r     t" form a word?
+A:
+
+"oligarchy" is a word.
+Q: Can the letter sequence "p     a     r     t" form a word?
+A:
+
+"choose" is a word.
+Q: Can the letter sequence "p     i     c     k" form a word?
+A:
+
+"faith" is a word.
+Q: Can the letter sequence "p     i     c     k" form a word?
+A:
+
+"tarzan" is a word.
+Q: Can the letter sequence "j     a     n     e" form a word?
+A:
+
+"motor" is a word.
+Q: Can the letter sequence "j     a     n     e" form a word?
+A:
+
+"mute" is a word.
+Q: Can the letter sequence "d     e     a     f" form a word?
+A:
+
+"nerves" is a word.
+Q: Can the letter sequence "d     e     a     f" form a word?
+A:
+
+"lips" is a word.
+Q: Can the letter sequence "k     i     s     s" form a word?
+A:
+
+"motorcycle" is a word.
+Q: Can the letter sequence "k     i     s     s" form a word?
+A:
+
+"pop" is a word.
+Q: Can the letter sequence "s     o     d     a" form a word?
+A:
+
+"egg" is a word.
+Q: Can the letter sequence "s     o     d     a" form a word?
+A:
+
+"going" is a word.
+Q: Can the letter sequence "g     o     n     e" form a word?
+A:
+
+"federal" is a word.
+Q: Can the letter sequence "g     o     n     e" form a word?
+A:
+
+"torch" is a word.
+Q: Can the letter sequence "f     i     r     e" form a word?
+A:
+
+"pin" is a word.
+Q: Can the letter sequence "f     i     r     e" form a word?
+A:
+
+"book" is a word.
+Q: Can the letter sequence "r     e     a     d" form a word?
+A:
+
+"dinosaur" is a word.
+Q: Can the letter sequence "r     e     a     d" form a word?
+A:
+
+"shove" is a word.
+Q) Can the letter sequence "p     u     s     h" form a word?
+A)
+
+"cabinet" is a word.
+Q) Can the letter sequence "p     u     s     h" form a word?
+A)
+
+"halt" is a word.
+Q) Can the letter sequence "s     t     o     p" form a word?
+A)
+
+"penny" is a word.
+Q) Can the letter sequence "s     t     o     p" form a word?
+A)
+
+"tardy" is a word.
+Q) Can the letter sequence "l     a     t     e" form a word?
+A)
+
+"mark" is a word.
+Q) Can the letter sequence "l     a     t     e" form a word?
+A)
+
+"east" is a word.
+Q) Can the letter sequence "w     e     s     t" form a word?
+A)
+
+"personality" is a word.
+Q) Can the letter sequence "w     e     s     t" form a word?
+A)
+
+"husband" is a word.
+Q) Can the letter sequence "w     i     f     e" form a word?
+A)
+
+"cents" is a word.
+Q) Can the letter sequence "w     i     f     e" form a word?
+A)
+
+"toad" is a word.
+Q) Can the letter sequence "f     r     o     g" form a word?
+A)
+
+"routine" is a word.
+Q) Can the letter sequence "f     r     o     g" form a word?
+A)
+
+"quack" is a word.
+Q) Can the letter sequence "d     u     c     k" form a word?
+A)
+
+"girlfriend" is a word.
+Q) Can the letter sequence "d     u     c     k" form a word?
+A)
+
+"teller" is a word.
+Q) Can the letter sequence "b     a     n     k" form a word?
+A)
+
+"adjective" is a word.
+Q) Can the letter sequence "b     a     n     k" form a word?
+A)
+
+"quiz" is a word.
+Q) Can the letter sequence "t     e     s     t" form a word?
+A)
+
+"comet" is a word.
+Q) Can the letter sequence "t     e     s     t" form a word?
+A)
+
+"remain" is a word.
+Q) Can the letter sequence "s     t     a     y" form a word?
+A)
+
+"plate" is a word.
+Q) Can the letter sequence "s     t     a     y" form a word?
+A)
+
+"west" is a word.
+Q) Can the letter sequence "e     a     s     t" form a word?
+A)
+
+"stewardess" is a word.
+Q) Can the letter sequence "e     a     s     t" form a word?
+A)
+
+"low" is a word.
+Q) Can the letter sequence "h     i     g     h" form a word?
+A)
+
+"nurse" is a word.
+Q) Can the letter sequence "h     i     g     h" form a word?
+A)
+
+"sketch" is a word.
+Q) Can the letter sequence "d     r     a     w" form a word?
+A)
+
+"fever" is a word.
+Q) Can the letter sequence "d     r     a     w" form a word?
+A)
+
+"throne" is a word.
+Q) Can the letter sequence "k     i     n     g" form a word?
+A)
+
+"sip" is a word.
+Q) Can the letter sequence "k     i     n     g" form a word?
+A)
+
+"win" is a word.
+Q) Can the letter sequence "l     o     s     e" form a word?
+A)
+
+"shop" is a word.
+Q) Can the letter sequence "l     o     s     e" form a word?
+A)
+
+"there" is a word.
+Q) Can the letter sequence "h     e     r     e" form a word?
+A)
+
+"shift" is a word.
+Q) Can the letter sequence "h     e     r     e" form a word?
+A)
+
+"illness" is a word.
+Q) Can the letter sequence "s     i     c     k" form a word?
+A)
+
+"republican" is a word.
+Q) Can the letter sequence "s     i     c     k" form a word?
+A)
+
+"soil" is a word.
+Q) Can the letter sequence "d     i     r     t" form a word?
+A)
+
+"prime" is a word.
+Q) Can the letter sequence "d     i     r     t" form a word?
+A)
+
+"rip" is a word.
+Q) Can the letter sequence "t     e     a     r" form a word?
+A)
+
+"quack" is a word.
+Q) Can the letter sequence "t     e     a     r" form a word?
+A)
+
+"false" is a word.
+Q) Can the letter sequence "t     r     u     e" form a word?
+A)
+
+"duplicate" is a word.
+Q) Can the letter sequence "t     r     u     e" form a word?
+A)
+
+"umbrella" is a word.
+Q) Can the letter sequence "r     a     i     n" form a word?
+A)
+
+"yummy" is a word.
+Q) Can the letter sequence "r     a     i     n" form a word?
+A)
+
+"noun" is a word.
+Q) Can the letter sequence "v     e     r     b" form a word?
+A)
+
+"dumb" is a word.
+Q) Can the letter sequence "v     e     r     b" form a word?
+A)
+
+"adorable" is a word.
+Q) Can the letter sequence "c     u     t     e" form a word?
+A)
+
+"sling" is a word.
+Q) Can the letter sequence "c     u     t     e" form a word?
+A)
+
+"slay" is a word.
+Q) Can the letter sequence "k     i     l     l" form a word?
+A)
+
+"raw" is a word.
+Q) Can the letter sequence "k     i     l     l" form a word?
+A)
+
+"thick" is a word.
+Q) Can the letter sequence "t     h     i     n" form a word?
+A)
+
+"emperor" is a word.
+Q) Can the letter sequence "t     h     i     n" form a word?
+A)
+
+"wag" is a word.
+Q) Can the letter sequence "t     a     i     l" form a word?
+A)
+
+"cardinal" is a word.
+Q) Can the letter sequence "t     a     i     l" form a word?
+A)
+
+"acre" is a word.
+Q) Can the letter sequence "l     a     n     d" form a word?
+A)
+
+"haircut" is a word.
+Q) Can the letter sequence "l     a     n     d" form a word?
+A)
+
+"touch" is a word.
+Q) Can the letter sequence "f     e     e     l" form a word?
+A)
+
+"commander" is a word.
+Q) Can the letter sequence "f     e     e     l" form a word?
+A)
+
+"noisy" is a word.
+Q) Can the letter sequence "l     o     u     d" form a word?
+A)
+
+"committee" is a word.
+Q) Can the letter sequence "l     o     u     d" form a word?
+A)
+
+"twinkle" is a word.
+Q) Can the letter sequence "s     t     a     r" form a word?
+A)
+
+"charcoal" is a word.
+Q) Can the letter sequence "s     t     a     r" form a word?
+A)
+
+"credit" is a word.
+Q) Can the letter sequence "c     a     r     d" form a word?
+A)
+
+"pint" is a word.
+Q) Can the letter sequence "c     a     r     d" form a word?
+A)
+
+"antlers" is a word.
+Q) Can the letter sequence "d     e     e     r" form a word?
+A)
+
+"tradition" is a word.
+Q) Can the letter sequence "d     e     e     r" form a word?
+A)
+
+"glance" is a word.
+Q) Can the letter sequence "l     o     o     k" form a word?
+A)
+
+"critical" is a word.
+Q) Can the letter sequence "l     o     o     k" form a word?
+A)
+
+"paste" is a word.
+Q) Can the letter sequence "g     l     u     e" form a word?
+A)
+
+"moss" is a word.
+Q) Can the letter sequence "g     l     u     e" form a word?
+A)
+
+"more" is a word.
+Q) Can the letter sequence "l     e     s     s" form a word?
+A)
+
+"banquet" is a word.
+Q) Can the letter sequence "l     e     s     s" form a word?
+A)
+
+"morse" is a word.
+Q) Can the letter sequence "c     o     d     e" form a word?
+A)
+
+"symphony" is a word.
+Q) Can the letter sequence "c     o     d     e" form a word?
+A)
+
+"sock" is a word.
+Q) Can the letter sequence "s     h     o     e" form a word?
+A)
+
+"evacuate" is a word.
+Q) Can the letter sequence "s     h     o     e" form a word?
+A)
+
+"entrance" is a word.
+Q) Can the letter sequence "e     x     i     t" form a word?
+A)
+
+"sting" is a word.
+Q) Can the letter sequence "e     x     i     t" form a word?
+A)
+
+"roar" is a word.
+Q) Can the letter sequence "l     i     o     n" form a word?
+A)
+
+"add" is a word.
+Q) Can the letter sequence "l     i     o     n" form a word?
+A)
+
+"shingle" is a word.
+Q) Can the letter sequence "r     o     o     f" form a word?
+A)
+
+"mousse" is a word.
+Q) Can the letter sequence "r     o     o     f" form a word?
+A)
+
+"desire" is a word.
+Q) Can the letter sequence "w     a     n     t" form a word?
+A)
+
+"mirage" is a word.
+Q) Can the letter sequence "w     a     n     t" form a word?
+A)
+
+"breeze" is a word.
+Q) Can the letter sequence "w     i     n     d" form a word?
+A)
+
+"marijuana" is a word.
+Q) Can the letter sequence "w     i     n     d" form a word?
+A)
+
+"toe" is a word.
+Q) Can the letter sequence "f     o     o     t" form a word?
+A)
+
+"chess" is a word.
+Q) Can the letter sequence "f     o     o     t" form a word?
+A)
+
+"dislike" is a word.
+Q) Can the letter sequence "h     a     t     e" form a word?
+A)
+
+"stopper" is a word.
+Q) Can the letter sequence "h     a     t     e" form a word?
+A)
+
+"fast" is a word.
+Q) Can the letter sequence "s     l     o     w" form a word?
+A)
+
+"empathy" is a word.
+Q) Can the letter sequence "s     l     o     w" form a word?
+A)
+
+"doorbell" is a word.
+Q) Can the letter sequence "r     i     n     g" form a word?
+A)
+
+"anteater" is a word.
+Q) Can the letter sequence "r     i     n     g" form a word?
+A)
+
+"cub" is a word.
+Q) Can the letter sequence "b     e     a     r" form a word?
+A)
+
+"nerve" is a word.
+Q) Can the letter sequence "b     e     a     r" form a word?
+A)
+
+"esteem" is a word.
+Q) Can the letter sequence "s     e     l     f" form a word?
+A)
+
+"stapler" is a word.
+Q) Can the letter sequence "s     e     l     f" form a word?
+A)
+
+"cod" is a word.
+Q) Can the letter sequence "f     i     s     h" form a word?
+A)
+
+"lace" is a word.
+Q) Can the letter sequence "f     i     s     h" form a word?
+A)
+
+"flesh" is a word.
+Q) Can the letter sequence "s     k     i     n" form a word?
+A)
+
+"husky" is a word.
+Q) Can the letter sequence "s     k     i     n" form a word?
+A)
+
+"zest" is a word.
+Q) Can the letter sequence "s     o     a     p" form a word?
+A)
+
+"righteous" is a word.
+Q) Can the letter sequence "s     o     a     p" form a word?
+A)
+
+"gum" is a word.
+Q) Can the letter sequence "c     h     e     w" form a word?
+A)
+
+"education" is a word.
+Q) Can the letter sequence "c     h     e     w" form a word?
+A)
+
+"female" is a word.
+Q) Can the letter sequence "m     a     l     e" form a word?
+A)
+
+"mother" is a word.
+Q) Can the letter sequence "m     a     l     e" form a word?
+A)
+
+"finished" is a word.
+Q) Can the letter sequence "d     o     n     e" form a word?
+A)
+
+"thunder" is a word.
+Q) Can the letter sequence "d     o     n     e" form a word?
+A)
+
+"pedal" is a word.
+Q) Can the letter sequence "b     i     k     e" form a word?
+A)
+
+"rock" is a word.
+Q) Can the letter sequence "b     i     k     e" form a word?
+A)
+
+"corpse" is a word.
+Q) Can the letter sequence "d     e     a     d" form a word?
+A)
+
+"mineral" is a word.
+Q) Can the letter sequence "d     e     a     d" form a word?
+A)
+
+"cavern" is a word.
+Q) Can the letter sequence "c     a     v     e" form a word?
+A)
+
+"blocks" is a word.
+Q) Can the letter sequence "c     a     v     e" form a word?
+A)
+
+"crescent" is a word.
+Q) Can the letter sequence "m     o     o     n" form a word?
+A)
+
+"premises" is a word.
+Q) Can the letter sequence "m     o     o     n" form a word?
+A)
+
+"hurt" is a word.
+Q) Can the letter sequence "p     a     i     n" form a word?
+A)
+
+"rubber" is a word.
+Q) Can the letter sequence "p     a     i     n" form a word?
+A)
+
+"minus" is a word.
+Q) Can the letter sequence "p     l     u     s" form a word?
+A)
+
+"foolish" is a word.
+Q) Can the letter sequence "p     l     u     s" form a word?
+A)
+
+"region" is a word.
+Q) Can the letter sequence "a     r     e     a" form a word?
+A)
+
+"tent" is a word.
+Q) Can the letter sequence "a     r     e     a" form a word?
+A)
+
+"scuba" is a word.
+Q) Can the letter sequence "d     i     v     e" form a word?
+A)
+
+"selfish" is a word.
+Q) Can the letter sequence "d     i     v     e" form a word?
+A)
+
+"listen" is a word.
+Q) Can the letter sequence "h     e     a     r" form a word?
+A)
+
+"walkway" is a word.
+Q) Can the letter sequence "h     e     a     r" form a word?
+A)
+
+"shrub" is a word.
+Q) Can the letter sequence "b     u     s     h" form a word?
+A)
+
+"disguise" is a word.
+Q) Can the letter sequence "b     u     s     h" form a word?
+A)
+
+"far" is a word.
+Q) Can the letter sequence "n     e     a     r" form a word?
+A)
+
+"ore" is a word.
+Q) Can the letter sequence "n     e     a     r" form a word?
+A)
+
+"kilometer" is a word.
+Q) Can the letter sequence "m     i     l     e" form a word?
+A)
+
+"believe" is a word.
+Q) Can the letter sequence "m     i     l     e" form a word?
+A)
+
+"army" is a word.
+Q) Can the letter sequence "n     a     v     y" form a word?
+A)
+
+"prince" is a word.
+Q) Can the letter sequence "n     a     v     y" form a word?
+A)
+
+"aright" is a word.
+Q) Can the letter sequence "o     k     a     y" form a word?
+A)
+
+"builder" is a word.
+Q) Can the letter sequence "o     k     a     y" form a word?
+A)
+
+"calculator" is a word.
+Q) Can the letter sequence "m     a     t     h" form a word?
+A)
+
+"embarrass" is a word.
+Q) Can the letter sequence "m     a     t     h" form a word?
+A)
+
+"roast" is a word.
+Q) Can the letter sequence "b     e     e     f" form a word?
+A)
+
+"glide" is a word.
+Q) Can the letter sequence "b     e     e     f" form a word?
+A)
+
+"dairy" is a word.
+Q) Can the letter sequence "m     i     l     k" form a word?
+A)
+
+"globe" is a word.
+Q) Can the letter sequence "m     i     l     k" form a word?
+A)
+
+"treble" is a word.
+Q) Can the letter sequence "b     a     s     s" form a word?
+A)
+
+"cards" is a word.
+Q) Can the letter sequence "b     a     s     s" form a word?
+A)
+
+"wings" is a word.
+Q) Can the letter sequence "b     i     r     d" form a word?
+A)
+
+"brake" is a word.
+Q) Can the letter sequence "b     i     r     d" form a word?
+A)
+
+"survive" is a word.
+Q) Can the letter sequence "l     i     v     e" form a word?
+A)
+
+"unconscious" is a word.
+Q) Can the letter sequence "l     i     v     e" form a word?
+A)
+
+"necessary" is a word.
+Q) Can the letter sequence "n     e     e     d" form a word?
+A)
+
+"philosophy" is a word.
+Q) Can the letter sequence "n     e     e     d" form a word?
+A)
+
+"pliers" is a word.
+Q) Can the letter sequence "t     o     o     l" form a word?
+A)
+
+"heal" is a word.
+Q) Can the letter sequence "t     o     o     l" form a word?
+A)
+
+"sonnet" is a word.
+Q) Can the letter sequence "p     o     e     m" form a word?
+A)
+
+"defense" is a word.
+Q) Can the letter sequence "p     o     e     m" form a word?
+A)
+
+"pebble" is a word.
+Q) Can the letter sequence "r     o     c     k" form a word?
+A)
+
+"cheerleader" is a word.
+Q) Can the letter sequence "r     o     c     k" form a word?
+A)
+
+"first" is a word.
+Q) Can the letter sequence "l     a     s     t" form a word?
+A)
+
+"transplant" is a word.
+Q) Can the letter sequence "l     a     s     t" form a word?
+A)
+
+"knock" is a word.
+Q) Can the letter sequence "d     o     o     r" form a word?
+A)
+
+"dustpan" is a word.
+Q) Can the letter sequence "d     o     o     r" form a word?
+A)
+
+"feet" is a word.
+Q) Can the letter sequence "t     o     e     s" form a word?
+A)
+
+"spouse" is a word.
+Q) Can the letter sequence "t     o     e     s" form a word?
+A)
+
+"labyrinth" is a word.
+Q) Can the letter sequence "m     a     z     e" form a word?
+A)
+
+"cobra" is a word.
+Q) Can the letter sequence "m     a     z     e" form a word?
+A)
+
+"monastery" is a word.
+Q) Can the letter sequence "m     o     n     k" form a word?
+A)
+
+"stimulus" is a word.
+Q) Can the letter sequence "m     o     n     k" form a word?
+A)
+
+"tent" is a word.
+Q) Can the letter sequence "c     a     m     p" form a word?
+A)
+
+"sonic" is a word.
+Q) Can the letter sequence "c     a     m     p" form a word?
+A)
+
+"least" is a word.
+Q) Can the letter sequence "m     o     s     t" form a word?
+A)
+
+"robe" is a word.
+Q) Can the letter sequence "m     o     s     t" form a word?
+A)
+
+"journey" is a word.
+Q) Can the letter sequence "t     r     i     p" form a word?
+A)
+
+"ghoul" is a word.
+Q) Can the letter sequence "t     r     i     p" form a word?
+A)
+
+"dawn" is a word.
+Q) Can the letter sequence "d     u     s     k" form a word?
+A)
+
+"buy" is a word.
+Q) Can the letter sequence "d     u     s     k" form a word?
+A)
+
+"heaven" is a word.
+Q) Can the letter sequence "h     e     l     l" form a word?
+A)
+
+"crater" is a word.
+Q) Can the letter sequence "h     e     l     l" form a word?
+A)
+
+"mow" is a word.
+Q) Can the letter sequence "l     a     w     n" form a word?
+A)
+
+"lawsuit" is a word.
+Q) Can the letter sequence "l     a     w     n" form a word?
+A)
+
+"steep" is a word.
+Q) Can the letter sequence "h     i     l     l" form a word?
+A)
+
+"birthday" is a word.
+Q) Can the letter sequence "h     i     l     l" form a word?
+A)
+
+"remove" is a word.
+Q) Can the letter sequence "t     a     k     e" form a word?
+A)
+
+"atlas" is a word.
+Q) Can the letter sequence "t     a     k     e" form a word?
+A)
+
+"component" is a word.
+Q) Can the letter sequence "p     a     r     t" form a word?
+A)
+
+"oligarchy" is a word.
+Q) Can the letter sequence "p     a     r     t" form a word?
+A)
+
+"choose" is a word.
+Q) Can the letter sequence "p     i     c     k" form a word?
+A)
+
+"faith" is a word.
+Q) Can the letter sequence "p     i     c     k" form a word?
+A)
+
+"tarzan" is a word.
+Q) Can the letter sequence "j     a     n     e" form a word?
+A)
+
+"motor" is a word.
+Q) Can the letter sequence "j     a     n     e" form a word?
+A)
+
+"mute" is a word.
+Q) Can the letter sequence "d     e     a     f" form a word?
+A)
+
+"nerves" is a word.
+Q) Can the letter sequence "d     e     a     f" form a word?
+A)
+
+"lips" is a word.
+Q) Can the letter sequence "k     i     s     s" form a word?
+A)
+
+"motorcycle" is a word.
+Q) Can the letter sequence "k     i     s     s" form a word?
+A)
+
+"pop" is a word.
+Q) Can the letter sequence "s     o     d     a" form a word?
+A)
+
+"egg" is a word.
+Q) Can the letter sequence "s     o     d     a" form a word?
+A)
+
+"going" is a word.
+Q) Can the letter sequence "g     o     n     e" form a word?
+A)
+
+"federal" is a word.
+Q) Can the letter sequence "g     o     n     e" form a word?
+A)
+
+"torch" is a word.
+Q) Can the letter sequence "f     i     r     e" form a word?
+A)
+
+"pin" is a word.
+Q) Can the letter sequence "f     i     r     e" form a word?
+A)
+
+"book" is a word.
+Q) Can the letter sequence "r     e     a     d" form a word?
+A)
+
+"dinosaur" is a word.
+Q) Can the letter sequence "r     e     a     d" form a word?
+A)
+
+"shove" is a word.
+Q. Can the letter sequence "p     u     s     h" form a word?
+A.
+
+"cabinet" is a word.
+Q. Can the letter sequence "p     u     s     h" form a word?
+A.
+
+"halt" is a word.
+Q. Can the letter sequence "s     t     o     p" form a word?
+A.
+
+"penny" is a word.
+Q. Can the letter sequence "s     t     o     p" form a word?
+A.
+
+"tardy" is a word.
+Q. Can the letter sequence "l     a     t     e" form a word?
+A.
+
+"mark" is a word.
+Q. Can the letter sequence "l     a     t     e" form a word?
+A.
+
+"east" is a word.
+Q. Can the letter sequence "w     e     s     t" form a word?
+A.
+
+"personality" is a word.
+Q. Can the letter sequence "w     e     s     t" form a word?
+A.
+
+"husband" is a word.
+Q. Can the letter sequence "w     i     f     e" form a word?
+A.
+
+"cents" is a word.
+Q. Can the letter sequence "w     i     f     e" form a word?
+A.
+
+"toad" is a word.
+Q. Can the letter sequence "f     r     o     g" form a word?
+A.
+
+"routine" is a word.
+Q. Can the letter sequence "f     r     o     g" form a word?
+A.
+
+"quack" is a word.
+Q. Can the letter sequence "d     u     c     k" form a word?
+A.
+
+"girlfriend" is a word.
+Q. Can the letter sequence "d     u     c     k" form a word?
+A.
+
+"teller" is a word.
+Q. Can the letter sequence "b     a     n     k" form a word?
+A.
+
+"adjective" is a word.
+Q. Can the letter sequence "b     a     n     k" form a word?
+A.
+
+"quiz" is a word.
+Q. Can the letter sequence "t     e     s     t" form a word?
+A.
+
+"comet" is a word.
+Q. Can the letter sequence "t     e     s     t" form a word?
+A.
+
+"remain" is a word.
+Q. Can the letter sequence "s     t     a     y" form a word?
+A.
+
+"plate" is a word.
+Q. Can the letter sequence "s     t     a     y" form a word?
+A.
+
+"west" is a word.
+Q. Can the letter sequence "e     a     s     t" form a word?
+A.
+
+"stewardess" is a word.
+Q. Can the letter sequence "e     a     s     t" form a word?
+A.
+
+"low" is a word.
+Q. Can the letter sequence "h     i     g     h" form a word?
+A.
+
+"nurse" is a word.
+Q. Can the letter sequence "h     i     g     h" form a word?
+A.
+
+"sketch" is a word.
+Q. Can the letter sequence "d     r     a     w" form a word?
+A.
+
+"fever" is a word.
+Q. Can the letter sequence "d     r     a     w" form a word?
+A.
+
+"throne" is a word.
+Q. Can the letter sequence "k     i     n     g" form a word?
+A.
+
+"sip" is a word.
+Q. Can the letter sequence "k     i     n     g" form a word?
+A.
+
+"win" is a word.
+Q. Can the letter sequence "l     o     s     e" form a word?
+A.
+
+"shop" is a word.
+Q. Can the letter sequence "l     o     s     e" form a word?
+A.
+
+"there" is a word.
+Q. Can the letter sequence "h     e     r     e" form a word?
+A.
+
+"shift" is a word.
+Q. Can the letter sequence "h     e     r     e" form a word?
+A.
+
+"illness" is a word.
+Q. Can the letter sequence "s     i     c     k" form a word?
+A.
+
+"republican" is a word.
+Q. Can the letter sequence "s     i     c     k" form a word?
+A.
+
+"soil" is a word.
+Q. Can the letter sequence "d     i     r     t" form a word?
+A.
+
+"prime" is a word.
+Q. Can the letter sequence "d     i     r     t" form a word?
+A.
+
+"rip" is a word.
+Q. Can the letter sequence "t     e     a     r" form a word?
+A.
+
+"quack" is a word.
+Q. Can the letter sequence "t     e     a     r" form a word?
+A.
+
+"false" is a word.
+Q. Can the letter sequence "t     r     u     e" form a word?
+A.
+
+"duplicate" is a word.
+Q. Can the letter sequence "t     r     u     e" form a word?
+A.
+
+"umbrella" is a word.
+Q. Can the letter sequence "r     a     i     n" form a word?
+A.
+
+"yummy" is a word.
+Q. Can the letter sequence "r     a     i     n" form a word?
+A.
+
+"noun" is a word.
+Q. Can the letter sequence "v     e     r     b" form a word?
+A.
+
+"dumb" is a word.
+Q. Can the letter sequence "v     e     r     b" form a word?
+A.
+
+"adorable" is a word.
+Q. Can the letter sequence "c     u     t     e" form a word?
+A.
+
+"sling" is a word.
+Q. Can the letter sequence "c     u     t     e" form a word?
+A.
+
+"slay" is a word.
+Q. Can the letter sequence "k     i     l     l" form a word?
+A.
+
+"raw" is a word.
+Q. Can the letter sequence "k     i     l     l" form a word?
+A.
+
+"thick" is a word.
+Q. Can the letter sequence "t     h     i     n" form a word?
+A.
+
+"emperor" is a word.
+Q. Can the letter sequence "t     h     i     n" form a word?
+A.
+
+"wag" is a word.
+Q. Can the letter sequence "t     a     i     l" form a word?
+A.
+
+"cardinal" is a word.
+Q. Can the letter sequence "t     a     i     l" form a word?
+A.
+
+"acre" is a word.
+Q. Can the letter sequence "l     a     n     d" form a word?
+A.
+
+"haircut" is a word.
+Q. Can the letter sequence "l     a     n     d" form a word?
+A.
+
+"touch" is a word.
+Q. Can the letter sequence "f     e     e     l" form a word?
+A.
+
+"commander" is a word.
+Q. Can the letter sequence "f     e     e     l" form a word?
+A.
+
+"noisy" is a word.
+Q. Can the letter sequence "l     o     u     d" form a word?
+A.
+
+"committee" is a word.
+Q. Can the letter sequence "l     o     u     d" form a word?
+A.
+
+"twinkle" is a word.
+Q. Can the letter sequence "s     t     a     r" form a word?
+A.
+
+"charcoal" is a word.
+Q. Can the letter sequence "s     t     a     r" form a word?
+A.
+
+"credit" is a word.
+Q. Can the letter sequence "c     a     r     d" form a word?
+A.
+
+"pint" is a word.
+Q. Can the letter sequence "c     a     r     d" form a word?
+A.
+
+"antlers" is a word.
+Q. Can the letter sequence "d     e     e     r" form a word?
+A.
+
+"tradition" is a word.
+Q. Can the letter sequence "d     e     e     r" form a word?
+A.
+
+"glance" is a word.
+Q. Can the letter sequence "l     o     o     k" form a word?
+A.
+
+"critical" is a word.
+Q. Can the letter sequence "l     o     o     k" form a word?
+A.
+
+"paste" is a word.
+Q. Can the letter sequence "g     l     u     e" form a word?
+A.
+
+"moss" is a word.
+Q. Can the letter sequence "g     l     u     e" form a word?
+A.
+
+"more" is a word.
+Q. Can the letter sequence "l     e     s     s" form a word?
+A.
+
+"banquet" is a word.
+Q. Can the letter sequence "l     e     s     s" form a word?
+A.
+
+"morse" is a word.
+Q. Can the letter sequence "c     o     d     e" form a word?
+A.
+
+"symphony" is a word.
+Q. Can the letter sequence "c     o     d     e" form a word?
+A.
+
+"sock" is a word.
+Q. Can the letter sequence "s     h     o     e" form a word?
+A.
+
+"evacuate" is a word.
+Q. Can the letter sequence "s     h     o     e" form a word?
+A.
+
+"entrance" is a word.
+Q. Can the letter sequence "e     x     i     t" form a word?
+A.
+
+"sting" is a word.
+Q. Can the letter sequence "e     x     i     t" form a word?
+A.
+
+"roar" is a word.
+Q. Can the letter sequence "l     i     o     n" form a word?
+A.
+
+"add" is a word.
+Q. Can the letter sequence "l     i     o     n" form a word?
+A.
+
+"shingle" is a word.
+Q. Can the letter sequence "r     o     o     f" form a word?
+A.
+
+"mousse" is a word.
+Q. Can the letter sequence "r     o     o     f" form a word?
+A.
+
+"desire" is a word.
+Q. Can the letter sequence "w     a     n     t" form a word?
+A.
+
+"mirage" is a word.
+Q. Can the letter sequence "w     a     n     t" form a word?
+A.
+
+"breeze" is a word.
+Q. Can the letter sequence "w     i     n     d" form a word?
+A.
+
+"marijuana" is a word.
+Q. Can the letter sequence "w     i     n     d" form a word?
+A.
+
+"toe" is a word.
+Q. Can the letter sequence "f     o     o     t" form a word?
+A.
+
+"chess" is a word.
+Q. Can the letter sequence "f     o     o     t" form a word?
+A.
+
+"dislike" is a word.
+Q. Can the letter sequence "h     a     t     e" form a word?
+A.
+
+"stopper" is a word.
+Q. Can the letter sequence "h     a     t     e" form a word?
+A.
+
+"fast" is a word.
+Q. Can the letter sequence "s     l     o     w" form a word?
+A.
+
+"empathy" is a word.
+Q. Can the letter sequence "s     l     o     w" form a word?
+A.
+
+"doorbell" is a word.
+Q. Can the letter sequence "r     i     n     g" form a word?
+A.
+
+"anteater" is a word.
+Q. Can the letter sequence "r     i     n     g" form a word?
+A.
+
+"cub" is a word.
+Q. Can the letter sequence "b     e     a     r" form a word?
+A.
+
+"nerve" is a word.
+Q. Can the letter sequence "b     e     a     r" form a word?
+A.
+
+"esteem" is a word.
+Q. Can the letter sequence "s     e     l     f" form a word?
+A.
+
+"stapler" is a word.
+Q. Can the letter sequence "s     e     l     f" form a word?
+A.
+
+"cod" is a word.
+Q. Can the letter sequence "f     i     s     h" form a word?
+A.
+
+"lace" is a word.
+Q. Can the letter sequence "f     i     s     h" form a word?
+A.
+
+"flesh" is a word.
+Q. Can the letter sequence "s     k     i     n" form a word?
+A.
+
+"husky" is a word.
+Q. Can the letter sequence "s     k     i     n" form a word?
+A.
+
+"zest" is a word.
+Q. Can the letter sequence "s     o     a     p" form a word?
+A.
+
+"righteous" is a word.
+Q. Can the letter sequence "s     o     a     p" form a word?
+A.
+
+"gum" is a word.
+Q. Can the letter sequence "c     h     e     w" form a word?
+A.
+
+"education" is a word.
+Q. Can the letter sequence "c     h     e     w" form a word?
+A.
+
+"female" is a word.
+Q. Can the letter sequence "m     a     l     e" form a word?
+A.
+
+"mother" is a word.
+Q. Can the letter sequence "m     a     l     e" form a word?
+A.
+
+"finished" is a word.
+Q. Can the letter sequence "d     o     n     e" form a word?
+A.
+
+"thunder" is a word.
+Q. Can the letter sequence "d     o     n     e" form a word?
+A.
+
+"pedal" is a word.
+Q. Can the letter sequence "b     i     k     e" form a word?
+A.
+
+"rock" is a word.
+Q. Can the letter sequence "b     i     k     e" form a word?
+A.
+
+"corpse" is a word.
+Q. Can the letter sequence "d     e     a     d" form a word?
+A.
+
+"mineral" is a word.
+Q. Can the letter sequence "d     e     a     d" form a word?
+A.
+
+"cavern" is a word.
+Q. Can the letter sequence "c     a     v     e" form a word?
+A.
+
+"blocks" is a word.
+Q. Can the letter sequence "c     a     v     e" form a word?
+A.
+
+"crescent" is a word.
+Q. Can the letter sequence "m     o     o     n" form a word?
+A.
+
+"premises" is a word.
+Q. Can the letter sequence "m     o     o     n" form a word?
+A.
+
+"hurt" is a word.
+Q. Can the letter sequence "p     a     i     n" form a word?
+A.
+
+"rubber" is a word.
+Q. Can the letter sequence "p     a     i     n" form a word?
+A.
+
+"minus" is a word.
+Q. Can the letter sequence "p     l     u     s" form a word?
+A.
+
+"foolish" is a word.
+Q. Can the letter sequence "p     l     u     s" form a word?
+A.
+
+"region" is a word.
+Q. Can the letter sequence "a     r     e     a" form a word?
+A.
+
+"tent" is a word.
+Q. Can the letter sequence "a     r     e     a" form a word?
+A.
+
+"scuba" is a word.
+Q. Can the letter sequence "d     i     v     e" form a word?
+A.
+
+"selfish" is a word.
+Q. Can the letter sequence "d     i     v     e" form a word?
+A.
+
+"listen" is a word.
+Q. Can the letter sequence "h     e     a     r" form a word?
+A.
+
+"walkway" is a word.
+Q. Can the letter sequence "h     e     a     r" form a word?
+A.
+
+"shrub" is a word.
+Q. Can the letter sequence "b     u     s     h" form a word?
+A.
+
+"disguise" is a word.
+Q. Can the letter sequence "b     u     s     h" form a word?
+A.
+
+"far" is a word.
+Q. Can the letter sequence "n     e     a     r" form a word?
+A.
+
+"ore" is a word.
+Q. Can the letter sequence "n     e     a     r" form a word?
+A.
+
+"kilometer" is a word.
+Q. Can the letter sequence "m     i     l     e" form a word?
+A.
+
+"believe" is a word.
+Q. Can the letter sequence "m     i     l     e" form a word?
+A.
+
+"army" is a word.
+Q. Can the letter sequence "n     a     v     y" form a word?
+A.
+
+"prince" is a word.
+Q. Can the letter sequence "n     a     v     y" form a word?
+A.
+
+"aright" is a word.
+Q. Can the letter sequence "o     k     a     y" form a word?
+A.
+
+"builder" is a word.
+Q. Can the letter sequence "o     k     a     y" form a word?
+A.
+
+"calculator" is a word.
+Q. Can the letter sequence "m     a     t     h" form a word?
+A.
+
+"embarrass" is a word.
+Q. Can the letter sequence "m     a     t     h" form a word?
+A.
+
+"roast" is a word.
+Q. Can the letter sequence "b     e     e     f" form a word?
+A.
+
+"glide" is a word.
+Q. Can the letter sequence "b     e     e     f" form a word?
+A.
+
+"dairy" is a word.
+Q. Can the letter sequence "m     i     l     k" form a word?
+A.
+
+"globe" is a word.
+Q. Can the letter sequence "m     i     l     k" form a word?
+A.
+
+"treble" is a word.
+Q. Can the letter sequence "b     a     s     s" form a word?
+A.
+
+"cards" is a word.
+Q. Can the letter sequence "b     a     s     s" form a word?
+A.
+
+"wings" is a word.
+Q. Can the letter sequence "b     i     r     d" form a word?
+A.
+
+"brake" is a word.
+Q. Can the letter sequence "b     i     r     d" form a word?
+A.
+
+"survive" is a word.
+Q. Can the letter sequence "l     i     v     e" form a word?
+A.
+
+"unconscious" is a word.
+Q. Can the letter sequence "l     i     v     e" form a word?
+A.
+
+"necessary" is a word.
+Q. Can the letter sequence "n     e     e     d" form a word?
+A.
+
+"philosophy" is a word.
+Q. Can the letter sequence "n     e     e     d" form a word?
+A.
+
+"pliers" is a word.
+Q. Can the letter sequence "t     o     o     l" form a word?
+A.
+
+"heal" is a word.
+Q. Can the letter sequence "t     o     o     l" form a word?
+A.
+
+"sonnet" is a word.
+Q. Can the letter sequence "p     o     e     m" form a word?
+A.
+
+"defense" is a word.
+Q. Can the letter sequence "p     o     e     m" form a word?
+A.
+
+"pebble" is a word.
+Q. Can the letter sequence "r     o     c     k" form a word?
+A.
+
+"cheerleader" is a word.
+Q. Can the letter sequence "r     o     c     k" form a word?
+A.
+
+"first" is a word.
+Q. Can the letter sequence "l     a     s     t" form a word?
+A.
+
+"transplant" is a word.
+Q. Can the letter sequence "l     a     s     t" form a word?
+A.
+
+"knock" is a word.
+Q. Can the letter sequence "d     o     o     r" form a word?
+A.
+
+"dustpan" is a word.
+Q. Can the letter sequence "d     o     o     r" form a word?
+A.
+
+"feet" is a word.
+Q. Can the letter sequence "t     o     e     s" form a word?
+A.
+
+"spouse" is a word.
+Q. Can the letter sequence "t     o     e     s" form a word?
+A.
+
+"labyrinth" is a word.
+Q. Can the letter sequence "m     a     z     e" form a word?
+A.
+
+"cobra" is a word.
+Q. Can the letter sequence "m     a     z     e" form a word?
+A.
+
+"monastery" is a word.
+Q. Can the letter sequence "m     o     n     k" form a word?
+A.
+
+"stimulus" is a word.
+Q. Can the letter sequence "m     o     n     k" form a word?
+A.
+
+"tent" is a word.
+Q. Can the letter sequence "c     a     m     p" form a word?
+A.
+
+"sonic" is a word.
+Q. Can the letter sequence "c     a     m     p" form a word?
+A.
+
+"least" is a word.
+Q. Can the letter sequence "m     o     s     t" form a word?
+A.
+
+"robe" is a word.
+Q. Can the letter sequence "m     o     s     t" form a word?
+A.
+
+"journey" is a word.
+Q. Can the letter sequence "t     r     i     p" form a word?
+A.
+
+"ghoul" is a word.
+Q. Can the letter sequence "t     r     i     p" form a word?
+A.
+
+"dawn" is a word.
+Q. Can the letter sequence "d     u     s     k" form a word?
+A.
+
+"buy" is a word.
+Q. Can the letter sequence "d     u     s     k" form a word?
+A.
+
+"heaven" is a word.
+Q. Can the letter sequence "h     e     l     l" form a word?
+A.
+
+"crater" is a word.
+Q. Can the letter sequence "h     e     l     l" form a word?
+A.
+
+"mow" is a word.
+Q. Can the letter sequence "l     a     w     n" form a word?
+A.
+
+"lawsuit" is a word.
+Q. Can the letter sequence "l     a     w     n" form a word?
+A.
+
+"steep" is a word.
+Q. Can the letter sequence "h     i     l     l" form a word?
+A.
+
+"birthday" is a word.
+Q. Can the letter sequence "h     i     l     l" form a word?
+A.
+
+"remove" is a word.
+Q. Can the letter sequence "t     a     k     e" form a word?
+A.
+
+"atlas" is a word.
+Q. Can the letter sequence "t     a     k     e" form a word?
+A.
+
+"component" is a word.
+Q. Can the letter sequence "p     a     r     t" form a word?
+A.
+
+"oligarchy" is a word.
+Q. Can the letter sequence "p     a     r     t" form a word?
+A.
+
+"choose" is a word.
+Q. Can the letter sequence "p     i     c     k" form a word?
+A.
+
+"faith" is a word.
+Q. Can the letter sequence "p     i     c     k" form a word?
+A.
+
+"tarzan" is a word.
+Q. Can the letter sequence "j     a     n     e" form a word?
+A.
+
+"motor" is a word.
+Q. Can the letter sequence "j     a     n     e" form a word?
+A.
+
+"mute" is a word.
+Q. Can the letter sequence "d     e     a     f" form a word?
+A.
+
+"nerves" is a word.
+Q. Can the letter sequence "d     e     a     f" form a word?
+A.
+
+"lips" is a word.
+Q. Can the letter sequence "k     i     s     s" form a word?
+A.
+
+"motorcycle" is a word.
+Q. Can the letter sequence "k     i     s     s" form a word?
+A.
+
+"pop" is a word.
+Q. Can the letter sequence "s     o     d     a" form a word?
+A.
+
+"egg" is a word.
+Q. Can the letter sequence "s     o     d     a" form a word?
+A.
+
+"going" is a word.
+Q. Can the letter sequence "g     o     n     e" form a word?
+A.
+
+"federal" is a word.
+Q. Can the letter sequence "g     o     n     e" form a word?
+A.
+
+"torch" is a word.
+Q. Can the letter sequence "f     i     r     e" form a word?
+A.
+
+"pin" is a word.
+Q. Can the letter sequence "f     i     r     e" form a word?
+A.
+
+"book" is a word.
+Q. Can the letter sequence "r     e     a     d" form a word?
+A.
+
+"dinosaur" is a word.
+Q. Can the letter sequence "r     e     a     d" form a word?
+A.
+
+"shove" is a word.
+Question: Can the letter sequence "p     u     s     h" form a word?
+Answer:
+
+"cabinet" is a word.
+Question: Can the letter sequence "p     u     s     h" form a word?
+Answer:
+
+"halt" is a word.
+Question: Can the letter sequence "s     t     o     p" form a word?
+Answer:
+
+"penny" is a word.
+Question: Can the letter sequence "s     t     o     p" form a word?
+Answer:
+
+"tardy" is a word.
+Question: Can the letter sequence "l     a     t     e" form a word?
+Answer:
+
+"mark" is a word.
+Question: Can the letter sequence "l     a     t     e" form a word?
+Answer:
+
+"east" is a word.
+Question: Can the letter sequence "w     e     s     t" form a word?
+Answer:
+
+"personality" is a word.
+Question: Can the letter sequence "w     e     s     t" form a word?
+Answer:
+
+"husband" is a word.
+Question: Can the letter sequence "w     i     f     e" form a word?
+Answer:
+
+"cents" is a word.
+Question: Can the letter sequence "w     i     f     e" form a word?
+Answer:
+
+"toad" is a word.
+Question: Can the letter sequence "f     r     o     g" form a word?
+Answer:
+
+"routine" is a word.
+Question: Can the letter sequence "f     r     o     g" form a word?
+Answer:
+
+"quack" is a word.
+Question: Can the letter sequence "d     u     c     k" form a word?
+Answer:
+
+"girlfriend" is a word.
+Question: Can the letter sequence "d     u     c     k" form a word?
+Answer:
+
+"teller" is a word.
+Question: Can the letter sequence "b     a     n     k" form a word?
+Answer:
+
+"adjective" is a word.
+Question: Can the letter sequence "b     a     n     k" form a word?
+Answer:
+
+"quiz" is a word.
+Question: Can the letter sequence "t     e     s     t" form a word?
+Answer:
+
+"comet" is a word.
+Question: Can the letter sequence "t     e     s     t" form a word?
+Answer:
+
+"remain" is a word.
+Question: Can the letter sequence "s     t     a     y" form a word?
+Answer:
+
+"plate" is a word.
+Question: Can the letter sequence "s     t     a     y" form a word?
+Answer:
+
+"west" is a word.
+Question: Can the letter sequence "e     a     s     t" form a word?
+Answer:
+
+"stewardess" is a word.
+Question: Can the letter sequence "e     a     s     t" form a word?
+Answer:
+
+"low" is a word.
+Question: Can the letter sequence "h     i     g     h" form a word?
+Answer:
+
+"nurse" is a word.
+Question: Can the letter sequence "h     i     g     h" form a word?
+Answer:
+
+"sketch" is a word.
+Question: Can the letter sequence "d     r     a     w" form a word?
+Answer:
+
+"fever" is a word.
+Question: Can the letter sequence "d     r     a     w" form a word?
+Answer:
+
+"throne" is a word.
+Question: Can the letter sequence "k     i     n     g" form a word?
+Answer:
+
+"sip" is a word.
+Question: Can the letter sequence "k     i     n     g" form a word?
+Answer:
+
+"win" is a word.
+Question: Can the letter sequence "l     o     s     e" form a word?
+Answer:
+
+"shop" is a word.
+Question: Can the letter sequence "l     o     s     e" form a word?
+Answer:
+
+"there" is a word.
+Question: Can the letter sequence "h     e     r     e" form a word?
+Answer:
+
+"shift" is a word.
+Question: Can the letter sequence "h     e     r     e" form a word?
+Answer:
+
+"illness" is a word.
+Question: Can the letter sequence "s     i     c     k" form a word?
+Answer:
+
+"republican" is a word.
+Question: Can the letter sequence "s     i     c     k" form a word?
+Answer:
+
+"soil" is a word.
+Question: Can the letter sequence "d     i     r     t" form a word?
+Answer:
+
+"prime" is a word.
+Question: Can the letter sequence "d     i     r     t" form a word?
+Answer:
+
+"rip" is a word.
+Question: Can the letter sequence "t     e     a     r" form a word?
+Answer:
+
+"quack" is a word.
+Question: Can the letter sequence "t     e     a     r" form a word?
+Answer:
+
+"false" is a word.
+Question: Can the letter sequence "t     r     u     e" form a word?
+Answer:
+
+"duplicate" is a word.
+Question: Can the letter sequence "t     r     u     e" form a word?
+Answer:
+
+"umbrella" is a word.
+Question: Can the letter sequence "r     a     i     n" form a word?
+Answer:
+
+"yummy" is a word.
+Question: Can the letter sequence "r     a     i     n" form a word?
+Answer:
+
+"noun" is a word.
+Question: Can the letter sequence "v     e     r     b" form a word?
+Answer:
+
+"dumb" is a word.
+Question: Can the letter sequence "v     e     r     b" form a word?
+Answer:
+
+"adorable" is a word.
+Question: Can the letter sequence "c     u     t     e" form a word?
+Answer:
+
+"sling" is a word.
+Question: Can the letter sequence "c     u     t     e" form a word?
+Answer:
+
+"slay" is a word.
+Question: Can the letter sequence "k     i     l     l" form a word?
+Answer:
+
+"raw" is a word.
+Question: Can the letter sequence "k     i     l     l" form a word?
+Answer:
+
+"thick" is a word.
+Question: Can the letter sequence "t     h     i     n" form a word?
+Answer:
+
+"emperor" is a word.
+Question: Can the letter sequence "t     h     i     n" form a word?
+Answer:
+
+"wag" is a word.
+Question: Can the letter sequence "t     a     i     l" form a word?
+Answer:
+
+"cardinal" is a word.
+Question: Can the letter sequence "t     a     i     l" form a word?
+Answer:
+
+"acre" is a word.
+Question: Can the letter sequence "l     a     n     d" form a word?
+Answer:
+
+"haircut" is a word.
+Question: Can the letter sequence "l     a     n     d" form a word?
+Answer:
+
+"touch" is a word.
+Question: Can the letter sequence "f     e     e     l" form a word?
+Answer:
+
+"commander" is a word.
+Question: Can the letter sequence "f     e     e     l" form a word?
+Answer:
+
+"noisy" is a word.
+Question: Can the letter sequence "l     o     u     d" form a word?
+Answer:
+
+"committee" is a word.
+Question: Can the letter sequence "l     o     u     d" form a word?
+Answer:
+
+"twinkle" is a word.
+Question: Can the letter sequence "s     t     a     r" form a word?
+Answer:
+
+"charcoal" is a word.
+Question: Can the letter sequence "s     t     a     r" form a word?
+Answer:
+
+"credit" is a word.
+Question: Can the letter sequence "c     a     r     d" form a word?
+Answer:
+
+"pint" is a word.
+Question: Can the letter sequence "c     a     r     d" form a word?
+Answer:
+
+"antlers" is a word.
+Question: Can the letter sequence "d     e     e     r" form a word?
+Answer:
+
+"tradition" is a word.
+Question: Can the letter sequence "d     e     e     r" form a word?
+Answer:
+
+"glance" is a word.
+Question: Can the letter sequence "l     o     o     k" form a word?
+Answer:
+
+"critical" is a word.
+Question: Can the letter sequence "l     o     o     k" form a word?
+Answer:
+
+"paste" is a word.
+Question: Can the letter sequence "g     l     u     e" form a word?
+Answer:
+
+"moss" is a word.
+Question: Can the letter sequence "g     l     u     e" form a word?
+Answer:
+
+"more" is a word.
+Question: Can the letter sequence "l     e     s     s" form a word?
+Answer:
+
+"banquet" is a word.
+Question: Can the letter sequence "l     e     s     s" form a word?
+Answer:
+
+"morse" is a word.
+Question: Can the letter sequence "c     o     d     e" form a word?
+Answer:
+
+"symphony" is a word.
+Question: Can the letter sequence "c     o     d     e" form a word?
+Answer:
+
+"sock" is a word.
+Question: Can the letter sequence "s     h     o     e" form a word?
+Answer:
+
+"evacuate" is a word.
+Question: Can the letter sequence "s     h     o     e" form a word?
+Answer:
+
+"entrance" is a word.
+Question: Can the letter sequence "e     x     i     t" form a word?
+Answer:
+
+"sting" is a word.
+Question: Can the letter sequence "e     x     i     t" form a word?
+Answer:
+
+"roar" is a word.
+Question: Can the letter sequence "l     i     o     n" form a word?
+Answer:
+
+"add" is a word.
+Question: Can the letter sequence "l     i     o     n" form a word?
+Answer:
+
+"shingle" is a word.
+Question: Can the letter sequence "r     o     o     f" form a word?
+Answer:
+
+"mousse" is a word.
+Question: Can the letter sequence "r     o     o     f" form a word?
+Answer:
+
+"desire" is a word.
+Question: Can the letter sequence "w     a     n     t" form a word?
+Answer:
+
+"mirage" is a word.
+Question: Can the letter sequence "w     a     n     t" form a word?
+Answer:
+
+"breeze" is a word.
+Question: Can the letter sequence "w     i     n     d" form a word?
+Answer:
+
+"marijuana" is a word.
+Question: Can the letter sequence "w     i     n     d" form a word?
+Answer:
+
+"toe" is a word.
+Question: Can the letter sequence "f     o     o     t" form a word?
+Answer:
+
+"chess" is a word.
+Question: Can the letter sequence "f     o     o     t" form a word?
+Answer:
+
+"dislike" is a word.
+Question: Can the letter sequence "h     a     t     e" form a word?
+Answer:
+
+"stopper" is a word.
+Question: Can the letter sequence "h     a     t     e" form a word?
+Answer:
+
+"fast" is a word.
+Question: Can the letter sequence "s     l     o     w" form a word?
+Answer:
+
+"empathy" is a word.
+Question: Can the letter sequence "s     l     o     w" form a word?
+Answer:
+
+"doorbell" is a word.
+Question: Can the letter sequence "r     i     n     g" form a word?
+Answer:
+
+"anteater" is a word.
+Question: Can the letter sequence "r     i     n     g" form a word?
+Answer:
+
+"cub" is a word.
+Question: Can the letter sequence "b     e     a     r" form a word?
+Answer:
+
+"nerve" is a word.
+Question: Can the letter sequence "b     e     a     r" form a word?
+Answer:
+
+"esteem" is a word.
+Question: Can the letter sequence "s     e     l     f" form a word?
+Answer:
+
+"stapler" is a word.
+Question: Can the letter sequence "s     e     l     f" form a word?
+Answer:
+
+"cod" is a word.
+Question: Can the letter sequence "f     i     s     h" form a word?
+Answer:
+
+"lace" is a word.
+Question: Can the letter sequence "f     i     s     h" form a word?
+Answer:
+
+"flesh" is a word.
+Question: Can the letter sequence "s     k     i     n" form a word?
+Answer:
+
+"husky" is a word.
+Question: Can the letter sequence "s     k     i     n" form a word?
+Answer:
+
+"zest" is a word.
+Question: Can the letter sequence "s     o     a     p" form a word?
+Answer:
+
+"righteous" is a word.
+Question: Can the letter sequence "s     o     a     p" form a word?
+Answer:
+
+"gum" is a word.
+Question: Can the letter sequence "c     h     e     w" form a word?
+Answer:
+
+"education" is a word.
+Question: Can the letter sequence "c     h     e     w" form a word?
+Answer:
+
+"female" is a word.
+Question: Can the letter sequence "m     a     l     e" form a word?
+Answer:
+
+"mother" is a word.
+Question: Can the letter sequence "m     a     l     e" form a word?
+Answer:
+
+"finished" is a word.
+Question: Can the letter sequence "d     o     n     e" form a word?
+Answer:
+
+"thunder" is a word.
+Question: Can the letter sequence "d     o     n     e" form a word?
+Answer:
+
+"pedal" is a word.
+Question: Can the letter sequence "b     i     k     e" form a word?
+Answer:
+
+"rock" is a word.
+Question: Can the letter sequence "b     i     k     e" form a word?
+Answer:
+
+"corpse" is a word.
+Question: Can the letter sequence "d     e     a     d" form a word?
+Answer:
+
+"mineral" is a word.
+Question: Can the letter sequence "d     e     a     d" form a word?
+Answer:
+
+"cavern" is a word.
+Question: Can the letter sequence "c     a     v     e" form a word?
+Answer:
+
+"blocks" is a word.
+Question: Can the letter sequence "c     a     v     e" form a word?
+Answer:
+
+"crescent" is a word.
+Question: Can the letter sequence "m     o     o     n" form a word?
+Answer:
+
+"premises" is a word.
+Question: Can the letter sequence "m     o     o     n" form a word?
+Answer:
+
+"hurt" is a word.
+Question: Can the letter sequence "p     a     i     n" form a word?
+Answer:
+
+"rubber" is a word.
+Question: Can the letter sequence "p     a     i     n" form a word?
+Answer:
+
+"minus" is a word.
+Question: Can the letter sequence "p     l     u     s" form a word?
+Answer:
+
+"foolish" is a word.
+Question: Can the letter sequence "p     l     u     s" form a word?
+Answer:
+
+"region" is a word.
+Question: Can the letter sequence "a     r     e     a" form a word?
+Answer:
+
+"tent" is a word.
+Question: Can the letter sequence "a     r     e     a" form a word?
+Answer:
+
+"scuba" is a word.
+Question: Can the letter sequence "d     i     v     e" form a word?
+Answer:
+
+"selfish" is a word.
+Question: Can the letter sequence "d     i     v     e" form a word?
+Answer:
+
+"listen" is a word.
+Question: Can the letter sequence "h     e     a     r" form a word?
+Answer:
+
+"walkway" is a word.
+Question: Can the letter sequence "h     e     a     r" form a word?
+Answer:
+
+"shrub" is a word.
+Question: Can the letter sequence "b     u     s     h" form a word?
+Answer:
+
+"disguise" is a word.
+Question: Can the letter sequence "b     u     s     h" form a word?
+Answer:
+
+"far" is a word.
+Question: Can the letter sequence "n     e     a     r" form a word?
+Answer:
+
+"ore" is a word.
+Question: Can the letter sequence "n     e     a     r" form a word?
+Answer:
+
+"kilometer" is a word.
+Question: Can the letter sequence "m     i     l     e" form a word?
+Answer:
+
+"believe" is a word.
+Question: Can the letter sequence "m     i     l     e" form a word?
+Answer:
+
+"army" is a word.
+Question: Can the letter sequence "n     a     v     y" form a word?
+Answer:
+
+"prince" is a word.
+Question: Can the letter sequence "n     a     v     y" form a word?
+Answer:
+
+"aright" is a word.
+Question: Can the letter sequence "o     k     a     y" form a word?
+Answer:
+
+"builder" is a word.
+Question: Can the letter sequence "o     k     a     y" form a word?
+Answer:
+
+"calculator" is a word.
+Question: Can the letter sequence "m     a     t     h" form a word?
+Answer:
+
+"embarrass" is a word.
+Question: Can the letter sequence "m     a     t     h" form a word?
+Answer:
+
+"roast" is a word.
+Question: Can the letter sequence "b     e     e     f" form a word?
+Answer:
+
+"glide" is a word.
+Question: Can the letter sequence "b     e     e     f" form a word?
+Answer:
+
+"dairy" is a word.
+Question: Can the letter sequence "m     i     l     k" form a word?
+Answer:
+
+"globe" is a word.
+Question: Can the letter sequence "m     i     l     k" form a word?
+Answer:
+
+"treble" is a word.
+Question: Can the letter sequence "b     a     s     s" form a word?
+Answer:
+
+"cards" is a word.
+Question: Can the letter sequence "b     a     s     s" form a word?
+Answer:
+
+"wings" is a word.
+Question: Can the letter sequence "b     i     r     d" form a word?
+Answer:
+
+"brake" is a word.
+Question: Can the letter sequence "b     i     r     d" form a word?
+Answer:
+
+"survive" is a word.
+Question: Can the letter sequence "l     i     v     e" form a word?
+Answer:
+
+"unconscious" is a word.
+Question: Can the letter sequence "l     i     v     e" form a word?
+Answer:
+
+"necessary" is a word.
+Question: Can the letter sequence "n     e     e     d" form a word?
+Answer:
+
+"philosophy" is a word.
+Question: Can the letter sequence "n     e     e     d" form a word?
+Answer:
+
+"pliers" is a word.
+Question: Can the letter sequence "t     o     o     l" form a word?
+Answer:
+
+"heal" is a word.
+Question: Can the letter sequence "t     o     o     l" form a word?
+Answer:
+
+"sonnet" is a word.
+Question: Can the letter sequence "p     o     e     m" form a word?
+Answer:
+
+"defense" is a word.
+Question: Can the letter sequence "p     o     e     m" form a word?
+Answer:
+
+"pebble" is a word.
+Question: Can the letter sequence "r     o     c     k" form a word?
+Answer:
+
+"cheerleader" is a word.
+Question: Can the letter sequence "r     o     c     k" form a word?
+Answer:
+
+"first" is a word.
+Question: Can the letter sequence "l     a     s     t" form a word?
+Answer:
+
+"transplant" is a word.
+Question: Can the letter sequence "l     a     s     t" form a word?
+Answer:
+
+"knock" is a word.
+Question: Can the letter sequence "d     o     o     r" form a word?
+Answer:
+
+"dustpan" is a word.
+Question: Can the letter sequence "d     o     o     r" form a word?
+Answer:
+
+"feet" is a word.
+Question: Can the letter sequence "t     o     e     s" form a word?
+Answer:
+
+"spouse" is a word.
+Question: Can the letter sequence "t     o     e     s" form a word?
+Answer:
+
+"labyrinth" is a word.
+Question: Can the letter sequence "m     a     z     e" form a word?
+Answer:
+
+"cobra" is a word.
+Question: Can the letter sequence "m     a     z     e" form a word?
+Answer:
+
+"monastery" is a word.
+Question: Can the letter sequence "m     o     n     k" form a word?
+Answer:
+
+"stimulus" is a word.
+Question: Can the letter sequence "m     o     n     k" form a word?
+Answer:
+
+"tent" is a word.
+Question: Can the letter sequence "c     a     m     p" form a word?
+Answer:
+
+"sonic" is a word.
+Question: Can the letter sequence "c     a     m     p" form a word?
+Answer:
+
+"least" is a word.
+Question: Can the letter sequence "m     o     s     t" form a word?
+Answer:
+
+"robe" is a word.
+Question: Can the letter sequence "m     o     s     t" form a word?
+Answer:
+
+"journey" is a word.
+Question: Can the letter sequence "t     r     i     p" form a word?
+Answer:
+
+"ghoul" is a word.
+Question: Can the letter sequence "t     r     i     p" form a word?
+Answer:
+
+"dawn" is a word.
+Question: Can the letter sequence "d     u     s     k" form a word?
+Answer:
+
+"buy" is a word.
+Question: Can the letter sequence "d     u     s     k" form a word?
+Answer:
+
+"heaven" is a word.
+Question: Can the letter sequence "h     e     l     l" form a word?
+Answer:
+
+"crater" is a word.
+Question: Can the letter sequence "h     e     l     l" form a word?
+Answer:
+
+"mow" is a word.
+Question: Can the letter sequence "l     a     w     n" form a word?
+Answer:
+
+"lawsuit" is a word.
+Question: Can the letter sequence "l     a     w     n" form a word?
+Answer:
+
+"steep" is a word.
+Question: Can the letter sequence "h     i     l     l" form a word?
+Answer:
+
+"birthday" is a word.
+Question: Can the letter sequence "h     i     l     l" form a word?
+Answer:
+
+"remove" is a word.
+Question: Can the letter sequence "t     a     k     e" form a word?
+Answer:
+
+"atlas" is a word.
+Question: Can the letter sequence "t     a     k     e" form a word?
+Answer:
+
+"component" is a word.
+Question: Can the letter sequence "p     a     r     t" form a word?
+Answer:
+
+"oligarchy" is a word.
+Question: Can the letter sequence "p     a     r     t" form a word?
+Answer:
+
+"choose" is a word.
+Question: Can the letter sequence "p     i     c     k" form a word?
+Answer:
+
+"faith" is a word.
+Question: Can the letter sequence "p     i     c     k" form a word?
+Answer:
+
+"tarzan" is a word.
+Question: Can the letter sequence "j     a     n     e" form a word?
+Answer:
+
+"motor" is a word.
+Question: Can the letter sequence "j     a     n     e" form a word?
+Answer:
+
+"mute" is a word.
+Question: Can the letter sequence "d     e     a     f" form a word?
+Answer:
+
+"nerves" is a word.
+Question: Can the letter sequence "d     e     a     f" form a word?
+Answer:
+
+"lips" is a word.
+Question: Can the letter sequence "k     i     s     s" form a word?
+Answer:
+
+"motorcycle" is a word.
+Question: Can the letter sequence "k     i     s     s" form a word?
+Answer:
+
+"pop" is a word.
+Question: Can the letter sequence "s     o     d     a" form a word?
+Answer:
+
+"egg" is a word.
+Question: Can the letter sequence "s     o     d     a" form a word?
+Answer:
+
+"going" is a word.
+Question: Can the letter sequence "g     o     n     e" form a word?
+Answer:
+
+"federal" is a word.
+Question: Can the letter sequence "g     o     n     e" form a word?
+Answer:
+
+"torch" is a word.
+Question: Can the letter sequence "f     i     r     e" form a word?
+Answer:
+
+"pin" is a word.
+Question: Can the letter sequence "f     i     r     e" form a word?
+Answer:
+
+"book" is a word.
+Question: Can the letter sequence "r     e     a     d" form a word?
+Answer:
+
+"dinosaur" is a word.
+Question: Can the letter sequence "r     e     a     d" form a word?
+Answer:
+
+"shove" is a word.
+Question) Can the letter sequence "p     u     s     h" form a word?
+Answer)
+
+"cabinet" is a word.
+Question) Can the letter sequence "p     u     s     h" form a word?
+Answer)
+
+"halt" is a word.
+Question) Can the letter sequence "s     t     o     p" form a word?
+Answer)
+
+"penny" is a word.
+Question) Can the letter sequence "s     t     o     p" form a word?
+Answer)
+
+"tardy" is a word.
+Question) Can the letter sequence "l     a     t     e" form a word?
+Answer)
+
+"mark" is a word.
+Question) Can the letter sequence "l     a     t     e" form a word?
+Answer)
+
+"east" is a word.
+Question) Can the letter sequence "w     e     s     t" form a word?
+Answer)
+
+"personality" is a word.
+Question) Can the letter sequence "w     e     s     t" form a word?
+Answer)
+
+"husband" is a word.
+Question) Can the letter sequence "w     i     f     e" form a word?
+Answer)
+
+"cents" is a word.
+Question) Can the letter sequence "w     i     f     e" form a word?
+Answer)
+
+"toad" is a word.
+Question) Can the letter sequence "f     r     o     g" form a word?
+Answer)
+
+"routine" is a word.
+Question) Can the letter sequence "f     r     o     g" form a word?
+Answer)
+
+"quack" is a word.
+Question) Can the letter sequence "d     u     c     k" form a word?
+Answer)
+
+"girlfriend" is a word.
+Question) Can the letter sequence "d     u     c     k" form a word?
+Answer)
+
+"teller" is a word.
+Question) Can the letter sequence "b     a     n     k" form a word?
+Answer)
+
+"adjective" is a word.
+Question) Can the letter sequence "b     a     n     k" form a word?
+Answer)
+
+"quiz" is a word.
+Question) Can the letter sequence "t     e     s     t" form a word?
+Answer)
+
+"comet" is a word.
+Question) Can the letter sequence "t     e     s     t" form a word?
+Answer)
+
+"remain" is a word.
+Question) Can the letter sequence "s     t     a     y" form a word?
+Answer)
+
+"plate" is a word.
+Question) Can the letter sequence "s     t     a     y" form a word?
+Answer)
+
+"west" is a word.
+Question) Can the letter sequence "e     a     s     t" form a word?
+Answer)
+
+"stewardess" is a word.
+Question) Can the letter sequence "e     a     s     t" form a word?
+Answer)
+
+"low" is a word.
+Question) Can the letter sequence "h     i     g     h" form a word?
+Answer)
+
+"nurse" is a word.
+Question) Can the letter sequence "h     i     g     h" form a word?
+Answer)
+
+"sketch" is a word.
+Question) Can the letter sequence "d     r     a     w" form a word?
+Answer)
+
+"fever" is a word.
+Question) Can the letter sequence "d     r     a     w" form a word?
+Answer)
+
+"throne" is a word.
+Question) Can the letter sequence "k     i     n     g" form a word?
+Answer)
+
+"sip" is a word.
+Question) Can the letter sequence "k     i     n     g" form a word?
+Answer)
+
+"win" is a word.
+Question) Can the letter sequence "l     o     s     e" form a word?
+Answer)
+
+"shop" is a word.
+Question) Can the letter sequence "l     o     s     e" form a word?
+Answer)
+
+"there" is a word.
+Question) Can the letter sequence "h     e     r     e" form a word?
+Answer)
+
+"shift" is a word.
+Question) Can the letter sequence "h     e     r     e" form a word?
+Answer)
+
+"illness" is a word.
+Question) Can the letter sequence "s     i     c     k" form a word?
+Answer)
+
+"republican" is a word.
+Question) Can the letter sequence "s     i     c     k" form a word?
+Answer)
+
+"soil" is a word.
+Question) Can the letter sequence "d     i     r     t" form a word?
+Answer)
+
+"prime" is a word.
+Question) Can the letter sequence "d     i     r     t" form a word?
+Answer)
+
+"rip" is a word.
+Question) Can the letter sequence "t     e     a     r" form a word?
+Answer)
+
+"quack" is a word.
+Question) Can the letter sequence "t     e     a     r" form a word?
+Answer)
+
+"false" is a word.
+Question) Can the letter sequence "t     r     u     e" form a word?
+Answer)
+
+"duplicate" is a word.
+Question) Can the letter sequence "t     r     u     e" form a word?
+Answer)
+
+"umbrella" is a word.
+Question) Can the letter sequence "r     a     i     n" form a word?
+Answer)
+
+"yummy" is a word.
+Question) Can the letter sequence "r     a     i     n" form a word?
+Answer)
+
+"noun" is a word.
+Question) Can the letter sequence "v     e     r     b" form a word?
+Answer)
+
+"dumb" is a word.
+Question) Can the letter sequence "v     e     r     b" form a word?
+Answer)
+
+"adorable" is a word.
+Question) Can the letter sequence "c     u     t     e" form a word?
+Answer)
+
+"sling" is a word.
+Question) Can the letter sequence "c     u     t     e" form a word?
+Answer)
+
+"slay" is a word.
+Question) Can the letter sequence "k     i     l     l" form a word?
+Answer)
+
+"raw" is a word.
+Question) Can the letter sequence "k     i     l     l" form a word?
+Answer)
+
+"thick" is a word.
+Question) Can the letter sequence "t     h     i     n" form a word?
+Answer)
+
+"emperor" is a word.
+Question) Can the letter sequence "t     h     i     n" form a word?
+Answer)
+
+"wag" is a word.
+Question) Can the letter sequence "t     a     i     l" form a word?
+Answer)
+
+"cardinal" is a word.
+Question) Can the letter sequence "t     a     i     l" form a word?
+Answer)
+
+"acre" is a word.
+Question) Can the letter sequence "l     a     n     d" form a word?
+Answer)
+
+"haircut" is a word.
+Question) Can the letter sequence "l     a     n     d" form a word?
+Answer)
+
+"touch" is a word.
+Question) Can the letter sequence "f     e     e     l" form a word?
+Answer)
+
+"commander" is a word.
+Question) Can the letter sequence "f     e     e     l" form a word?
+Answer)
+
+"noisy" is a word.
+Question) Can the letter sequence "l     o     u     d" form a word?
+Answer)
+
+"committee" is a word.
+Question) Can the letter sequence "l     o     u     d" form a word?
+Answer)
+
+"twinkle" is a word.
+Question) Can the letter sequence "s     t     a     r" form a word?
+Answer)
+
+"charcoal" is a word.
+Question) Can the letter sequence "s     t     a     r" form a word?
+Answer)
+
+"credit" is a word.
+Question) Can the letter sequence "c     a     r     d" form a word?
+Answer)
+
+"pint" is a word.
+Question) Can the letter sequence "c     a     r     d" form a word?
+Answer)
+
+"antlers" is a word.
+Question) Can the letter sequence "d     e     e     r" form a word?
+Answer)
+
+"tradition" is a word.
+Question) Can the letter sequence "d     e     e     r" form a word?
+Answer)
+
+"glance" is a word.
+Question) Can the letter sequence "l     o     o     k" form a word?
+Answer)
+
+"critical" is a word.
+Question) Can the letter sequence "l     o     o     k" form a word?
+Answer)
+
+"paste" is a word.
+Question) Can the letter sequence "g     l     u     e" form a word?
+Answer)
+
+"moss" is a word.
+Question) Can the letter sequence "g     l     u     e" form a word?
+Answer)
+
+"more" is a word.
+Question) Can the letter sequence "l     e     s     s" form a word?
+Answer)
+
+"banquet" is a word.
+Question) Can the letter sequence "l     e     s     s" form a word?
+Answer)
+
+"morse" is a word.
+Question) Can the letter sequence "c     o     d     e" form a word?
+Answer)
+
+"symphony" is a word.
+Question) Can the letter sequence "c     o     d     e" form a word?
+Answer)
+
+"sock" is a word.
+Question) Can the letter sequence "s     h     o     e" form a word?
+Answer)
+
+"evacuate" is a word.
+Question) Can the letter sequence "s     h     o     e" form a word?
+Answer)
+
+"entrance" is a word.
+Question) Can the letter sequence "e     x     i     t" form a word?
+Answer)
+
+"sting" is a word.
+Question) Can the letter sequence "e     x     i     t" form a word?
+Answer)
+
+"roar" is a word.
+Question) Can the letter sequence "l     i     o     n" form a word?
+Answer)
+
+"add" is a word.
+Question) Can the letter sequence "l     i     o     n" form a word?
+Answer)
+
+"shingle" is a word.
+Question) Can the letter sequence "r     o     o     f" form a word?
+Answer)
+
+"mousse" is a word.
+Question) Can the letter sequence "r     o     o     f" form a word?
+Answer)
+
+"desire" is a word.
+Question) Can the letter sequence "w     a     n     t" form a word?
+Answer)
+
+"mirage" is a word.
+Question) Can the letter sequence "w     a     n     t" form a word?
+Answer)
+
+"breeze" is a word.
+Question) Can the letter sequence "w     i     n     d" form a word?
+Answer)
+
+"marijuana" is a word.
+Question) Can the letter sequence "w     i     n     d" form a word?
+Answer)
+
+"toe" is a word.
+Question) Can the letter sequence "f     o     o     t" form a word?
+Answer)
+
+"chess" is a word.
+Question) Can the letter sequence "f     o     o     t" form a word?
+Answer)
+
+"dislike" is a word.
+Question) Can the letter sequence "h     a     t     e" form a word?
+Answer)
+
+"stopper" is a word.
+Question) Can the letter sequence "h     a     t     e" form a word?
+Answer)
+
+"fast" is a word.
+Question) Can the letter sequence "s     l     o     w" form a word?
+Answer)
+
+"empathy" is a word.
+Question) Can the letter sequence "s     l     o     w" form a word?
+Answer)
+
+"doorbell" is a word.
+Question) Can the letter sequence "r     i     n     g" form a word?
+Answer)
+
+"anteater" is a word.
+Question) Can the letter sequence "r     i     n     g" form a word?
+Answer)
+
+"cub" is a word.
+Question) Can the letter sequence "b     e     a     r" form a word?
+Answer)
+
+"nerve" is a word.
+Question) Can the letter sequence "b     e     a     r" form a word?
+Answer)
+
+"esteem" is a word.
+Question) Can the letter sequence "s     e     l     f" form a word?
+Answer)
+
+"stapler" is a word.
+Question) Can the letter sequence "s     e     l     f" form a word?
+Answer)
+
+"cod" is a word.
+Question) Can the letter sequence "f     i     s     h" form a word?
+Answer)
+
+"lace" is a word.
+Question) Can the letter sequence "f     i     s     h" form a word?
+Answer)
+
+"flesh" is a word.
+Question) Can the letter sequence "s     k     i     n" form a word?
+Answer)
+
+"husky" is a word.
+Question) Can the letter sequence "s     k     i     n" form a word?
+Answer)
+
+"zest" is a word.
+Question) Can the letter sequence "s     o     a     p" form a word?
+Answer)
+
+"righteous" is a word.
+Question) Can the letter sequence "s     o     a     p" form a word?
+Answer)
+
+"gum" is a word.
+Question) Can the letter sequence "c     h     e     w" form a word?
+Answer)
+
+"education" is a word.
+Question) Can the letter sequence "c     h     e     w" form a word?
+Answer)
+
+"female" is a word.
+Question) Can the letter sequence "m     a     l     e" form a word?
+Answer)
+
+"mother" is a word.
+Question) Can the letter sequence "m     a     l     e" form a word?
+Answer)
+
+"finished" is a word.
+Question) Can the letter sequence "d     o     n     e" form a word?
+Answer)
+
+"thunder" is a word.
+Question) Can the letter sequence "d     o     n     e" form a word?
+Answer)
+
+"pedal" is a word.
+Question) Can the letter sequence "b     i     k     e" form a word?
+Answer)
+
+"rock" is a word.
+Question) Can the letter sequence "b     i     k     e" form a word?
+Answer)
+
+"corpse" is a word.
+Question) Can the letter sequence "d     e     a     d" form a word?
+Answer)
+
+"mineral" is a word.
+Question) Can the letter sequence "d     e     a     d" form a word?
+Answer)
+
+"cavern" is a word.
+Question) Can the letter sequence "c     a     v     e" form a word?
+Answer)
+
+"blocks" is a word.
+Question) Can the letter sequence "c     a     v     e" form a word?
+Answer)
+
+"crescent" is a word.
+Question) Can the letter sequence "m     o     o     n" form a word?
+Answer)
+
+"premises" is a word.
+Question) Can the letter sequence "m     o     o     n" form a word?
+Answer)
+
+"hurt" is a word.
+Question) Can the letter sequence "p     a     i     n" form a word?
+Answer)
+
+"rubber" is a word.
+Question) Can the letter sequence "p     a     i     n" form a word?
+Answer)
+
+"minus" is a word.
+Question) Can the letter sequence "p     l     u     s" form a word?
+Answer)
+
+"foolish" is a word.
+Question) Can the letter sequence "p     l     u     s" form a word?
+Answer)
+
+"region" is a word.
+Question) Can the letter sequence "a     r     e     a" form a word?
+Answer)
+
+"tent" is a word.
+Question) Can the letter sequence "a     r     e     a" form a word?
+Answer)
+
+"scuba" is a word.
+Question) Can the letter sequence "d     i     v     e" form a word?
+Answer)
+
+"selfish" is a word.
+Question) Can the letter sequence "d     i     v     e" form a word?
+Answer)
+
+"listen" is a word.
+Question) Can the letter sequence "h     e     a     r" form a word?
+Answer)
+
+"walkway" is a word.
+Question) Can the letter sequence "h     e     a     r" form a word?
+Answer)
+
+"shrub" is a word.
+Question) Can the letter sequence "b     u     s     h" form a word?
+Answer)
+
+"disguise" is a word.
+Question) Can the letter sequence "b     u     s     h" form a word?
+Answer)
+
+"far" is a word.
+Question) Can the letter sequence "n     e     a     r" form a word?
+Answer)
+
+"ore" is a word.
+Question) Can the letter sequence "n     e     a     r" form a word?
+Answer)
+
+"kilometer" is a word.
+Question) Can the letter sequence "m     i     l     e" form a word?
+Answer)
+
+"believe" is a word.
+Question) Can the letter sequence "m     i     l     e" form a word?
+Answer)
+
+"army" is a word.
+Question) Can the letter sequence "n     a     v     y" form a word?
+Answer)
+
+"prince" is a word.
+Question) Can the letter sequence "n     a     v     y" form a word?
+Answer)
+
+"aright" is a word.
+Question) Can the letter sequence "o     k     a     y" form a word?
+Answer)
+
+"builder" is a word.
+Question) Can the letter sequence "o     k     a     y" form a word?
+Answer)
+
+"calculator" is a word.
+Question) Can the letter sequence "m     a     t     h" form a word?
+Answer)
+
+"embarrass" is a word.
+Question) Can the letter sequence "m     a     t     h" form a word?
+Answer)
+
+"roast" is a word.
+Question) Can the letter sequence "b     e     e     f" form a word?
+Answer)
+
+"glide" is a word.
+Question) Can the letter sequence "b     e     e     f" form a word?
+Answer)
+
+"dairy" is a word.
+Question) Can the letter sequence "m     i     l     k" form a word?
+Answer)
+
+"globe" is a word.
+Question) Can the letter sequence "m     i     l     k" form a word?
+Answer)
+
+"treble" is a word.
+Question) Can the letter sequence "b     a     s     s" form a word?
+Answer)
+
+"cards" is a word.
+Question) Can the letter sequence "b     a     s     s" form a word?
+Answer)
+
+"wings" is a word.
+Question) Can the letter sequence "b     i     r     d" form a word?
+Answer)
+
+"brake" is a word.
+Question) Can the letter sequence "b     i     r     d" form a word?
+Answer)
+
+"survive" is a word.
+Question) Can the letter sequence "l     i     v     e" form a word?
+Answer)
+
+"unconscious" is a word.
+Question) Can the letter sequence "l     i     v     e" form a word?
+Answer)
+
+"necessary" is a word.
+Question) Can the letter sequence "n     e     e     d" form a word?
+Answer)
+
+"philosophy" is a word.
+Question) Can the letter sequence "n     e     e     d" form a word?
+Answer)
+
+"pliers" is a word.
+Question) Can the letter sequence "t     o     o     l" form a word?
+Answer)
+
+"heal" is a word.
+Question) Can the letter sequence "t     o     o     l" form a word?
+Answer)
+
+"sonnet" is a word.
+Question) Can the letter sequence "p     o     e     m" form a word?
+Answer)
+
+"defense" is a word.
+Question) Can the letter sequence "p     o     e     m" form a word?
+Answer)
+
+"pebble" is a word.
+Question) Can the letter sequence "r     o     c     k" form a word?
+Answer)
+
+"cheerleader" is a word.
+Question) Can the letter sequence "r     o     c     k" form a word?
+Answer)
+
+"first" is a word.
+Question) Can the letter sequence "l     a     s     t" form a word?
+Answer)
+
+"transplant" is a word.
+Question) Can the letter sequence "l     a     s     t" form a word?
+Answer)
+
+"knock" is a word.
+Question) Can the letter sequence "d     o     o     r" form a word?
+Answer)
+
+"dustpan" is a word.
+Question) Can the letter sequence "d     o     o     r" form a word?
+Answer)
+
+"feet" is a word.
+Question) Can the letter sequence "t     o     e     s" form a word?
+Answer)
+
+"spouse" is a word.
+Question) Can the letter sequence "t     o     e     s" form a word?
+Answer)
+
+"labyrinth" is a word.
+Question) Can the letter sequence "m     a     z     e" form a word?
+Answer)
+
+"cobra" is a word.
+Question) Can the letter sequence "m     a     z     e" form a word?
+Answer)
+
+"monastery" is a word.
+Question) Can the letter sequence "m     o     n     k" form a word?
+Answer)
+
+"stimulus" is a word.
+Question) Can the letter sequence "m     o     n     k" form a word?
+Answer)
+
+"tent" is a word.
+Question) Can the letter sequence "c     a     m     p" form a word?
+Answer)
+
+"sonic" is a word.
+Question) Can the letter sequence "c     a     m     p" form a word?
+Answer)
+
+"least" is a word.
+Question) Can the letter sequence "m     o     s     t" form a word?
+Answer)
+
+"robe" is a word.
+Question) Can the letter sequence "m     o     s     t" form a word?
+Answer)
+
+"journey" is a word.
+Question) Can the letter sequence "t     r     i     p" form a word?
+Answer)
+
+"ghoul" is a word.
+Question) Can the letter sequence "t     r     i     p" form a word?
+Answer)
+
+"dawn" is a word.
+Question) Can the letter sequence "d     u     s     k" form a word?
+Answer)
+
+"buy" is a word.
+Question) Can the letter sequence "d     u     s     k" form a word?
+Answer)
+
+"heaven" is a word.
+Question) Can the letter sequence "h     e     l     l" form a word?
+Answer)
+
+"crater" is a word.
+Question) Can the letter sequence "h     e     l     l" form a word?
+Answer)
+
+"mow" is a word.
+Question) Can the letter sequence "l     a     w     n" form a word?
+Answer)
+
+"lawsuit" is a word.
+Question) Can the letter sequence "l     a     w     n" form a word?
+Answer)
+
+"steep" is a word.
+Question) Can the letter sequence "h     i     l     l" form a word?
+Answer)
+
+"birthday" is a word.
+Question) Can the letter sequence "h     i     l     l" form a word?
+Answer)
+
+"remove" is a word.
+Question) Can the letter sequence "t     a     k     e" form a word?
+Answer)
+
+"atlas" is a word.
+Question) Can the letter sequence "t     a     k     e" form a word?
+Answer)
+
+"component" is a word.
+Question) Can the letter sequence "p     a     r     t" form a word?
+Answer)
+
+"oligarchy" is a word.
+Question) Can the letter sequence "p     a     r     t" form a word?
+Answer)
+
+"choose" is a word.
+Question) Can the letter sequence "p     i     c     k" form a word?
+Answer)
+
+"faith" is a word.
+Question) Can the letter sequence "p     i     c     k" form a word?
+Answer)
+
+"tarzan" is a word.
+Question) Can the letter sequence "j     a     n     e" form a word?
+Answer)
+
+"motor" is a word.
+Question) Can the letter sequence "j     a     n     e" form a word?
+Answer)
+
+"mute" is a word.
+Question) Can the letter sequence "d     e     a     f" form a word?
+Answer)
+
+"nerves" is a word.
+Question) Can the letter sequence "d     e     a     f" form a word?
+Answer)
+
+"lips" is a word.
+Question) Can the letter sequence "k     i     s     s" form a word?
+Answer)
+
+"motorcycle" is a word.
+Question) Can the letter sequence "k     i     s     s" form a word?
+Answer)
+
+"pop" is a word.
+Question) Can the letter sequence "s     o     d     a" form a word?
+Answer)
+
+"egg" is a word.
+Question) Can the letter sequence "s     o     d     a" form a word?
+Answer)
+
+"going" is a word.
+Question) Can the letter sequence "g     o     n     e" form a word?
+Answer)
+
+"federal" is a word.
+Question) Can the letter sequence "g     o     n     e" form a word?
+Answer)
+
+"torch" is a word.
+Question) Can the letter sequence "f     i     r     e" form a word?
+Answer)
+
+"pin" is a word.
+Question) Can the letter sequence "f     i     r     e" form a word?
+Answer)
+
+"book" is a word.
+Question) Can the letter sequence "r     e     a     d" form a word?
+Answer)
+
+"dinosaur" is a word.
+Question) Can the letter sequence "r     e     a     d" form a word?
+Answer)
+
+"shove" is a word.
+Question. Can the letter sequence "p     u     s     h" form a word?
+Answer.
+
+"cabinet" is a word.
+Question. Can the letter sequence "p     u     s     h" form a word?
+Answer.
+
+"halt" is a word.
+Question. Can the letter sequence "s     t     o     p" form a word?
+Answer.
+
+"penny" is a word.
+Question. Can the letter sequence "s     t     o     p" form a word?
+Answer.
+
+"tardy" is a word.
+Question. Can the letter sequence "l     a     t     e" form a word?
+Answer.
+
+"mark" is a word.
+Question. Can the letter sequence "l     a     t     e" form a word?
+Answer.
+
+"east" is a word.
+Question. Can the letter sequence "w     e     s     t" form a word?
+Answer.
+
+"personality" is a word.
+Question. Can the letter sequence "w     e     s     t" form a word?
+Answer.
+
+"husband" is a word.
+Question. Can the letter sequence "w     i     f     e" form a word?
+Answer.
+
+"cents" is a word.
+Question. Can the letter sequence "w     i     f     e" form a word?
+Answer.
+
+"toad" is a word.
+Question. Can the letter sequence "f     r     o     g" form a word?
+Answer.
+
+"routine" is a word.
+Question. Can the letter sequence "f     r     o     g" form a word?
+Answer.
+
+"quack" is a word.
+Question. Can the letter sequence "d     u     c     k" form a word?
+Answer.
+
+"girlfriend" is a word.
+Question. Can the letter sequence "d     u     c     k" form a word?
+Answer.
+
+"teller" is a word.
+Question. Can the letter sequence "b     a     n     k" form a word?
+Answer.
+
+"adjective" is a word.
+Question. Can the letter sequence "b     a     n     k" form a word?
+Answer.
+
+"quiz" is a word.
+Question. Can the letter sequence "t     e     s     t" form a word?
+Answer.
+
+"comet" is a word.
+Question. Can the letter sequence "t     e     s     t" form a word?
+Answer.
+
+"remain" is a word.
+Question. Can the letter sequence "s     t     a     y" form a word?
+Answer.
+
+"plate" is a word.
+Question. Can the letter sequence "s     t     a     y" form a word?
+Answer.
+
+"west" is a word.
+Question. Can the letter sequence "e     a     s     t" form a word?
+Answer.
+
+"stewardess" is a word.
+Question. Can the letter sequence "e     a     s     t" form a word?
+Answer.
+
+"low" is a word.
+Question. Can the letter sequence "h     i     g     h" form a word?
+Answer.
+
+"nurse" is a word.
+Question. Can the letter sequence "h     i     g     h" form a word?
+Answer.
+
+"sketch" is a word.
+Question. Can the letter sequence "d     r     a     w" form a word?
+Answer.
+
+"fever" is a word.
+Question. Can the letter sequence "d     r     a     w" form a word?
+Answer.
+
+"throne" is a word.
+Question. Can the letter sequence "k     i     n     g" form a word?
+Answer.
+
+"sip" is a word.
+Question. Can the letter sequence "k     i     n     g" form a word?
+Answer.
+
+"win" is a word.
+Question. Can the letter sequence "l     o     s     e" form a word?
+Answer.
+
+"shop" is a word.
+Question. Can the letter sequence "l     o     s     e" form a word?
+Answer.
+
+"there" is a word.
+Question. Can the letter sequence "h     e     r     e" form a word?
+Answer.
+
+"shift" is a word.
+Question. Can the letter sequence "h     e     r     e" form a word?
+Answer.
+
+"illness" is a word.
+Question. Can the letter sequence "s     i     c     k" form a word?
+Answer.
+
+"republican" is a word.
+Question. Can the letter sequence "s     i     c     k" form a word?
+Answer.
+
+"soil" is a word.
+Question. Can the letter sequence "d     i     r     t" form a word?
+Answer.
+
+"prime" is a word.
+Question. Can the letter sequence "d     i     r     t" form a word?
+Answer.
+
+"rip" is a word.
+Question. Can the letter sequence "t     e     a     r" form a word?
+Answer.
+
+"quack" is a word.
+Question. Can the letter sequence "t     e     a     r" form a word?
+Answer.
+
+"false" is a word.
+Question. Can the letter sequence "t     r     u     e" form a word?
+Answer.
+
+"duplicate" is a word.
+Question. Can the letter sequence "t     r     u     e" form a word?
+Answer.
+
+"umbrella" is a word.
+Question. Can the letter sequence "r     a     i     n" form a word?
+Answer.
+
+"yummy" is a word.
+Question. Can the letter sequence "r     a     i     n" form a word?
+Answer.
+
+"noun" is a word.
+Question. Can the letter sequence "v     e     r     b" form a word?
+Answer.
+
+"dumb" is a word.
+Question. Can the letter sequence "v     e     r     b" form a word?
+Answer.
+
+"adorable" is a word.
+Question. Can the letter sequence "c     u     t     e" form a word?
+Answer.
+
+"sling" is a word.
+Question. Can the letter sequence "c     u     t     e" form a word?
+Answer.
+
+"slay" is a word.
+Question. Can the letter sequence "k     i     l     l" form a word?
+Answer.
+
+"raw" is a word.
+Question. Can the letter sequence "k     i     l     l" form a word?
+Answer.
+
+"thick" is a word.
+Question. Can the letter sequence "t     h     i     n" form a word?
+Answer.
+
+"emperor" is a word.
+Question. Can the letter sequence "t     h     i     n" form a word?
+Answer.
+
+"wag" is a word.
+Question. Can the letter sequence "t     a     i     l" form a word?
+Answer.
+
+"cardinal" is a word.
+Question. Can the letter sequence "t     a     i     l" form a word?
+Answer.
+
+"acre" is a word.
+Question. Can the letter sequence "l     a     n     d" form a word?
+Answer.
+
+"haircut" is a word.
+Question. Can the letter sequence "l     a     n     d" form a word?
+Answer.
+
+"touch" is a word.
+Question. Can the letter sequence "f     e     e     l" form a word?
+Answer.
+
+"commander" is a word.
+Question. Can the letter sequence "f     e     e     l" form a word?
+Answer.
+
+"noisy" is a word.
+Question. Can the letter sequence "l     o     u     d" form a word?
+Answer.
+
+"committee" is a word.
+Question. Can the letter sequence "l     o     u     d" form a word?
+Answer.
+
+"twinkle" is a word.
+Question. Can the letter sequence "s     t     a     r" form a word?
+Answer.
+
+"charcoal" is a word.
+Question. Can the letter sequence "s     t     a     r" form a word?
+Answer.
+
+"credit" is a word.
+Question. Can the letter sequence "c     a     r     d" form a word?
+Answer.
+
+"pint" is a word.
+Question. Can the letter sequence "c     a     r     d" form a word?
+Answer.
+
+"antlers" is a word.
+Question. Can the letter sequence "d     e     e     r" form a word?
+Answer.
+
+"tradition" is a word.
+Question. Can the letter sequence "d     e     e     r" form a word?
+Answer.
+
+"glance" is a word.
+Question. Can the letter sequence "l     o     o     k" form a word?
+Answer.
+
+"critical" is a word.
+Question. Can the letter sequence "l     o     o     k" form a word?
+Answer.
+
+"paste" is a word.
+Question. Can the letter sequence "g     l     u     e" form a word?
+Answer.
+
+"moss" is a word.
+Question. Can the letter sequence "g     l     u     e" form a word?
+Answer.
+
+"more" is a word.
+Question. Can the letter sequence "l     e     s     s" form a word?
+Answer.
+
+"banquet" is a word.
+Question. Can the letter sequence "l     e     s     s" form a word?
+Answer.
+
+"morse" is a word.
+Question. Can the letter sequence "c     o     d     e" form a word?
+Answer.
+
+"symphony" is a word.
+Question. Can the letter sequence "c     o     d     e" form a word?
+Answer.
+
+"sock" is a word.
+Question. Can the letter sequence "s     h     o     e" form a word?
+Answer.
+
+"evacuate" is a word.
+Question. Can the letter sequence "s     h     o     e" form a word?
+Answer.
+
+"entrance" is a word.
+Question. Can the letter sequence "e     x     i     t" form a word?
+Answer.
+
+"sting" is a word.
+Question. Can the letter sequence "e     x     i     t" form a word?
+Answer.
+
+"roar" is a word.
+Question. Can the letter sequence "l     i     o     n" form a word?
+Answer.
+
+"add" is a word.
+Question. Can the letter sequence "l     i     o     n" form a word?
+Answer.
+
+"shingle" is a word.
+Question. Can the letter sequence "r     o     o     f" form a word?
+Answer.
+
+"mousse" is a word.
+Question. Can the letter sequence "r     o     o     f" form a word?
+Answer.
+
+"desire" is a word.
+Question. Can the letter sequence "w     a     n     t" form a word?
+Answer.
+
+"mirage" is a word.
+Question. Can the letter sequence "w     a     n     t" form a word?
+Answer.
+
+"breeze" is a word.
+Question. Can the letter sequence "w     i     n     d" form a word?
+Answer.
+
+"marijuana" is a word.
+Question. Can the letter sequence "w     i     n     d" form a word?
+Answer.
+
+"toe" is a word.
+Question. Can the letter sequence "f     o     o     t" form a word?
+Answer.
+
+"chess" is a word.
+Question. Can the letter sequence "f     o     o     t" form a word?
+Answer.
+
+"dislike" is a word.
+Question. Can the letter sequence "h     a     t     e" form a word?
+Answer.
+
+"stopper" is a word.
+Question. Can the letter sequence "h     a     t     e" form a word?
+Answer.
+
+"fast" is a word.
+Question. Can the letter sequence "s     l     o     w" form a word?
+Answer.
+
+"empathy" is a word.
+Question. Can the letter sequence "s     l     o     w" form a word?
+Answer.
+
+"doorbell" is a word.
+Question. Can the letter sequence "r     i     n     g" form a word?
+Answer.
+
+"anteater" is a word.
+Question. Can the letter sequence "r     i     n     g" form a word?
+Answer.
+
+"cub" is a word.
+Question. Can the letter sequence "b     e     a     r" form a word?
+Answer.
+
+"nerve" is a word.
+Question. Can the letter sequence "b     e     a     r" form a word?
+Answer.
+
+"esteem" is a word.
+Question. Can the letter sequence "s     e     l     f" form a word?
+Answer.
+
+"stapler" is a word.
+Question. Can the letter sequence "s     e     l     f" form a word?
+Answer.
+
+"cod" is a word.
+Question. Can the letter sequence "f     i     s     h" form a word?
+Answer.
+
+"lace" is a word.
+Question. Can the letter sequence "f     i     s     h" form a word?
+Answer.
+
+"flesh" is a word.
+Question. Can the letter sequence "s     k     i     n" form a word?
+Answer.
+
+"husky" is a word.
+Question. Can the letter sequence "s     k     i     n" form a word?
+Answer.
+
+"zest" is a word.
+Question. Can the letter sequence "s     o     a     p" form a word?
+Answer.
+
+"righteous" is a word.
+Question. Can the letter sequence "s     o     a     p" form a word?
+Answer.
+
+"gum" is a word.
+Question. Can the letter sequence "c     h     e     w" form a word?
+Answer.
+
+"education" is a word.
+Question. Can the letter sequence "c     h     e     w" form a word?
+Answer.
+
+"female" is a word.
+Question. Can the letter sequence "m     a     l     e" form a word?
+Answer.
+
+"mother" is a word.
+Question. Can the letter sequence "m     a     l     e" form a word?
+Answer.
+
+"finished" is a word.
+Question. Can the letter sequence "d     o     n     e" form a word?
+Answer.
+
+"thunder" is a word.
+Question. Can the letter sequence "d     o     n     e" form a word?
+Answer.
+
+"pedal" is a word.
+Question. Can the letter sequence "b     i     k     e" form a word?
+Answer.
+
+"rock" is a word.
+Question. Can the letter sequence "b     i     k     e" form a word?
+Answer.
+
+"corpse" is a word.
+Question. Can the letter sequence "d     e     a     d" form a word?
+Answer.
+
+"mineral" is a word.
+Question. Can the letter sequence "d     e     a     d" form a word?
+Answer.
+
+"cavern" is a word.
+Question. Can the letter sequence "c     a     v     e" form a word?
+Answer.
+
+"blocks" is a word.
+Question. Can the letter sequence "c     a     v     e" form a word?
+Answer.
+
+"crescent" is a word.
+Question. Can the letter sequence "m     o     o     n" form a word?
+Answer.
+
+"premises" is a word.
+Question. Can the letter sequence "m     o     o     n" form a word?
+Answer.
+
+"hurt" is a word.
+Question. Can the letter sequence "p     a     i     n" form a word?
+Answer.
+
+"rubber" is a word.
+Question. Can the letter sequence "p     a     i     n" form a word?
+Answer.
+
+"minus" is a word.
+Question. Can the letter sequence "p     l     u     s" form a word?
+Answer.
+
+"foolish" is a word.
+Question. Can the letter sequence "p     l     u     s" form a word?
+Answer.
+
+"region" is a word.
+Question. Can the letter sequence "a     r     e     a" form a word?
+Answer.
+
+"tent" is a word.
+Question. Can the letter sequence "a     r     e     a" form a word?
+Answer.
+
+"scuba" is a word.
+Question. Can the letter sequence "d     i     v     e" form a word?
+Answer.
+
+"selfish" is a word.
+Question. Can the letter sequence "d     i     v     e" form a word?
+Answer.
+
+"listen" is a word.
+Question. Can the letter sequence "h     e     a     r" form a word?
+Answer.
+
+"walkway" is a word.
+Question. Can the letter sequence "h     e     a     r" form a word?
+Answer.
+
+"shrub" is a word.
+Question. Can the letter sequence "b     u     s     h" form a word?
+Answer.
+
+"disguise" is a word.
+Question. Can the letter sequence "b     u     s     h" form a word?
+Answer.
+
+"far" is a word.
+Question. Can the letter sequence "n     e     a     r" form a word?
+Answer.
+
+"ore" is a word.
+Question. Can the letter sequence "n     e     a     r" form a word?
+Answer.
+
+"kilometer" is a word.
+Question. Can the letter sequence "m     i     l     e" form a word?
+Answer.
+
+"believe" is a word.
+Question. Can the letter sequence "m     i     l     e" form a word?
+Answer.
+
+"army" is a word.
+Question. Can the letter sequence "n     a     v     y" form a word?
+Answer.
+
+"prince" is a word.
+Question. Can the letter sequence "n     a     v     y" form a word?
+Answer.
+
+"aright" is a word.
+Question. Can the letter sequence "o     k     a     y" form a word?
+Answer.
+
+"builder" is a word.
+Question. Can the letter sequence "o     k     a     y" form a word?
+Answer.
+
+"calculator" is a word.
+Question. Can the letter sequence "m     a     t     h" form a word?
+Answer.
+
+"embarrass" is a word.
+Question. Can the letter sequence "m     a     t     h" form a word?
+Answer.
+
+"roast" is a word.
+Question. Can the letter sequence "b     e     e     f" form a word?
+Answer.
+
+"glide" is a word.
+Question. Can the letter sequence "b     e     e     f" form a word?
+Answer.
+
+"dairy" is a word.
+Question. Can the letter sequence "m     i     l     k" form a word?
+Answer.
+
+"globe" is a word.
+Question. Can the letter sequence "m     i     l     k" form a word?
+Answer.
+
+"treble" is a word.
+Question. Can the letter sequence "b     a     s     s" form a word?
+Answer.
+
+"cards" is a word.
+Question. Can the letter sequence "b     a     s     s" form a word?
+Answer.
+
+"wings" is a word.
+Question. Can the letter sequence "b     i     r     d" form a word?
+Answer.
+
+"brake" is a word.
+Question. Can the letter sequence "b     i     r     d" form a word?
+Answer.
+
+"survive" is a word.
+Question. Can the letter sequence "l     i     v     e" form a word?
+Answer.
+
+"unconscious" is a word.
+Question. Can the letter sequence "l     i     v     e" form a word?
+Answer.
+
+"necessary" is a word.
+Question. Can the letter sequence "n     e     e     d" form a word?
+Answer.
+
+"philosophy" is a word.
+Question. Can the letter sequence "n     e     e     d" form a word?
+Answer.
+
+"pliers" is a word.
+Question. Can the letter sequence "t     o     o     l" form a word?
+Answer.
+
+"heal" is a word.
+Question. Can the letter sequence "t     o     o     l" form a word?
+Answer.
+
+"sonnet" is a word.
+Question. Can the letter sequence "p     o     e     m" form a word?
+Answer.
+
+"defense" is a word.
+Question. Can the letter sequence "p     o     e     m" form a word?
+Answer.
+
+"pebble" is a word.
+Question. Can the letter sequence "r     o     c     k" form a word?
+Answer.
+
+"cheerleader" is a word.
+Question. Can the letter sequence "r     o     c     k" form a word?
+Answer.
+
+"first" is a word.
+Question. Can the letter sequence "l     a     s     t" form a word?
+Answer.
+
+"transplant" is a word.
+Question. Can the letter sequence "l     a     s     t" form a word?
+Answer.
+
+"knock" is a word.
+Question. Can the letter sequence "d     o     o     r" form a word?
+Answer.
+
+"dustpan" is a word.
+Question. Can the letter sequence "d     o     o     r" form a word?
+Answer.
+
+"feet" is a word.
+Question. Can the letter sequence "t     o     e     s" form a word?
+Answer.
+
+"spouse" is a word.
+Question. Can the letter sequence "t     o     e     s" form a word?
+Answer.
+
+"labyrinth" is a word.
+Question. Can the letter sequence "m     a     z     e" form a word?
+Answer.
+
+"cobra" is a word.
+Question. Can the letter sequence "m     a     z     e" form a word?
+Answer.
+
+"monastery" is a word.
+Question. Can the letter sequence "m     o     n     k" form a word?
+Answer.
+
+"stimulus" is a word.
+Question. Can the letter sequence "m     o     n     k" form a word?
+Answer.
+
+"tent" is a word.
+Question. Can the letter sequence "c     a     m     p" form a word?
+Answer.
+
+"sonic" is a word.
+Question. Can the letter sequence "c     a     m     p" form a word?
+Answer.
+
+"least" is a word.
+Question. Can the letter sequence "m     o     s     t" form a word?
+Answer.
+
+"robe" is a word.
+Question. Can the letter sequence "m     o     s     t" form a word?
+Answer.
+
+"journey" is a word.
+Question. Can the letter sequence "t     r     i     p" form a word?
+Answer.
+
+"ghoul" is a word.
+Question. Can the letter sequence "t     r     i     p" form a word?
+Answer.
+
+"dawn" is a word.
+Question. Can the letter sequence "d     u     s     k" form a word?
+Answer.
+
+"buy" is a word.
+Question. Can the letter sequence "d     u     s     k" form a word?
+Answer.
+
+"heaven" is a word.
+Question. Can the letter sequence "h     e     l     l" form a word?
+Answer.
+
+"crater" is a word.
+Question. Can the letter sequence "h     e     l     l" form a word?
+Answer.
+
+"mow" is a word.
+Question. Can the letter sequence "l     a     w     n" form a word?
+Answer.
+
+"lawsuit" is a word.
+Question. Can the letter sequence "l     a     w     n" form a word?
+Answer.
+
+"steep" is a word.
+Question. Can the letter sequence "h     i     l     l" form a word?
+Answer.
+
+"birthday" is a word.
+Question. Can the letter sequence "h     i     l     l" form a word?
+Answer.
+
+"remove" is a word.
+Question. Can the letter sequence "t     a     k     e" form a word?
+Answer.
+
+"atlas" is a word.
+Question. Can the letter sequence "t     a     k     e" form a word?
+Answer.
+
+"component" is a word.
+Question. Can the letter sequence "p     a     r     t" form a word?
+Answer.
+
+"oligarchy" is a word.
+Question. Can the letter sequence "p     a     r     t" form a word?
+Answer.
+
+"choose" is a word.
+Question. Can the letter sequence "p     i     c     k" form a word?
+Answer.
+
+"faith" is a word.
+Question. Can the letter sequence "p     i     c     k" form a word?
+Answer.
+
+"tarzan" is a word.
+Question. Can the letter sequence "j     a     n     e" form a word?
+Answer.
+
+"motor" is a word.
+Question. Can the letter sequence "j     a     n     e" form a word?
+Answer.
+
+"mute" is a word.
+Question. Can the letter sequence "d     e     a     f" form a word?
+Answer.
+
+"nerves" is a word.
+Question. Can the letter sequence "d     e     a     f" form a word?
+Answer.
+
+"lips" is a word.
+Question. Can the letter sequence "k     i     s     s" form a word?
+Answer.
+
+"motorcycle" is a word.
+Question. Can the letter sequence "k     i     s     s" form a word?
+Answer.
+
+"pop" is a word.
+Question. Can the letter sequence "s     o     d     a" form a word?
+Answer.
+
+"egg" is a word.
+Question. Can the letter sequence "s     o     d     a" form a word?
+Answer.
+
+"going" is a word.
+Question. Can the letter sequence "g     o     n     e" form a word?
+Answer.
+
+"federal" is a word.
+Question. Can the letter sequence "g     o     n     e" form a word?
+Answer.
+
+"torch" is a word.
+Question. Can the letter sequence "f     i     r     e" form a word?
+Answer.
+
+"pin" is a word.
+Question. Can the letter sequence "f     i     r     e" form a word?
+Answer.
+
+"book" is a word.
+Question. Can the letter sequence "r     e     a     d" form a word?
+Answer.
+
+"dinosaur" is a word.
+Question. Can the letter sequence "r     e     a     d" form a word?
+Answer.
+

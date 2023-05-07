@@ -1,0 +1,4800 @@
+Left.
+Q: Can the letter sequence "r     i     g     h     t" form a word?
+A:
+
+Liquid.
+Q: Can the letter sequence "r     i     g     h     t" form a word?
+A:
+
+Pepperoni.
+Q: Can the letter sequence "p     i     z     z     a" form a word?
+A:
+
+Dangerous.
+Q: Can the letter sequence "p     i     z     z     a" form a word?
+A:
+
+Cobra.
+Q: Can the letter sequence "s     n     a     k     e" form a word?
+A:
+
+Chimpanzee.
+Q: Can the letter sequence "s     n     a     k     e" form a word?
+A:
+
+Giggle.
+Q: Can the letter sequence "l     a     u     g     h" form a word?
+A:
+
+Vocabulary.
+Q: Can the letter sequence "l     a     u     g     h" form a word?
+A:
+
+King.
+Q: Can the letter sequence "q     u     e     e     n" form a word?
+A:
+
+Breakfast.
+Q: Can the letter sequence "q     u     e     e     n" form a word?
+A:
+
+North.
+Q: Can the letter sequence "s     o     u     t     h" form a word?
+A:
+
+Cigar.
+Q: Can the letter sequence "s     o     u     t     h" form a word?
+A:
+
+Airport.
+Q: Can the letter sequence "p     l     a     n     e" form a word?
+A:
+
+Inhale.
+Q: Can the letter sequence "p     l     a     n     e" form a word?
+A:
+
+Lost.
+Q: Can the letter sequence "f     o     u     n     d" form a word?
+A:
+
+Pedal.
+Q: Can the letter sequence "f     o     u     n     d" form a word?
+A:
+
+Aunt.
+Q: Can the letter sequence "u     n     c     l     e" form a word?
+A:
+
+Cereal.
+Q: Can the letter sequence "u     n     c     l     e" form a word?
+A:
+
+Postage.
+Q: Can the letter sequence "s     t     a     m     p" form a word?
+A:
+
+Drunk.
+Q: Can the letter sequence "s     t     a     m     p" form a word?
+A:
+
+Nap.
+Q: Can the letter sequence "s     l     e     e     p" form a word?
+A:
+
+Farmer.
+Q: Can the letter sequence "s     l     e     e     p" form a word?
+A:
+
+Open.
+Q: Can the letter sequence "c     l     o     s     e" form a word?
+A:
+
+Information.
+Q: Can the letter sequence "c     l     o     s     e" form a word?
+A:
+
+Gums.
+Q: Can the letter sequence "t     e     e     t     h" form a word?
+A:
+
+Invent.
+Q: Can the letter sequence "t     e     e     t     h" form a word?
+A:
+
+Tall.
+Q: Can the letter sequence "s     h     o     r     t" form a word?
+A:
+
+Nickel.
+Q: Can the letter sequence "s     h     o     r     t" form a word?
+A:
+
+Intoxicated.
+Q: Can the letter sequence "d     r     u     n     k" form a word?
+A:
+
+Diminish.
+Q: Can the letter sequence "d     r     u     n     k" form a word?
+A:
+
+Plus.
+Q: Can the letter sequence "m     i     n     u     s" form a word?
+A:
+
+Ancestor.
+Q: Can the letter sequence "m     i     n     u     s" form a word?
+A:
+
+Globe.
+Q: Can the letter sequence "w     o     r     l     d" form a word?
+A:
+
+Softball.
+Q: Can the letter sequence "w     o     r     l     d" form a word?
+A:
+
+Blackboard.
+Q: Can the letter sequence "c     h     a     l     k" form a word?
+A:
+
+Orchid.
+Q: Can the letter sequence "c     h     a     l     k" form a word?
+A:
+
+Man.
+Q: Can the letter sequence "w     o     m     a     n" form a word?
+A:
+
+Grade.
+Q: Can the letter sequence "w     o     m     a     n" form a word?
+A:
+
+Celebration.
+Q: Can the letter sequence "p     a     r     t     y" form a word?
+A:
+
+Parsley.
+Q: Can the letter sequence "p     a     r     t     y" form a word?
+A:
+
+White.
+Q: Can the letter sequence "b     l     a     c     k" form a word?
+A:
+
+Selection.
+Q: Can the letter sequence "b     l     a     c     k" form a word?
+A:
+
+Socks.
+Q: Can the letter sequence "s     h     o     e     s" form a word?
+A:
+
+Friar.
+Q: Can the letter sequence "s     h     o     e     s" form a word?
+A:
+
+Ghoul.
+Q: Can the letter sequence "g     h     o     s     t" form a word?
+A:
+
+Otter.
+Q: Can the letter sequence "g     h     o     s     t" form a word?
+A:
+
+Blouse.
+Q: Can the letter sequence "s     h     i     r     t" form a word?
+A:
+
+Human.
+Q: Can the letter sequence "s     h     i     r     t" form a word?
+A:
+
+Slacks.
+Q: Can the letter sequence "p     a     n     t     s" form a word?
+A:
+
+Spree.
+Q: Can the letter sequence "p     a     n     t     s" form a word?
+A:
+
+Bulletin.
+Q: Can the letter sequence "b     o     a     r     d" form a word?
+A:
+
+Brittle.
+Q: Can the letter sequence "b     o     a     r     d" form a word?
+A:
+
+Vacate.
+Q: Can the letter sequence "l     e     a     v     e" form a word?
+A:
+
+Trot.
+Q: Can the letter sequence "l     e     a     v     e" form a word?
+A:
+
+Here.
+Q: Can the letter sequence "t     h     e     r     e" form a word?
+A:
+
+Security.
+Q: Can the letter sequence "t     h     e     r     e" form a word?
+A:
+
+Escargot.
+Q: Can the letter sequence "s     n     a     i     l" form a word?
+A:
+
+Happiness.
+Q: Can the letter sequence "s     n     a     i     l" form a word?
+A:
+
+Groom.
+Q: Can the letter sequence "b     r     i     d     e" form a word?
+A:
+
+Belong.
+Q: Can the letter sequence "b     r     i     d     e" form a word?
+A:
+
+Toss.
+Q: Can the letter sequence "t     h     r     o     w" form a word?
+A:
+
+Knight.
+Q: Can the letter sequence "t     h     r     o     w" form a word?
+A:
+
+Men.
+Q: Can the letter sequence "w     o     m     e     n" form a word?
+A:
+
+Suffocate.
+Q: Can the letter sequence "w     o     m     e     n" form a word?
+A:
+
+Sprain.
+Q: Can the letter sequence "a     n     k     l     e" form a word?
+A:
+
+Term.
+Q: Can the letter sequence "a     n     k     l     e" form a word?
+A:
+
+Winner.
+Q: Can the letter sequence "l     o     s     e     r" form a word?
+A:
+
+Vent.
+Q: Can the letter sequence "l     o     s     e     r" form a word?
+A:
+
+Circus.
+Q: Can the letter sequence "c     l     o     w     n" form a word?
+A:
+
+Medical.
+Q: Can the letter sequence "c     l     o     w     n" form a word?
+A:
+
+Jaws.
+Q: Can the letter sequence "s     h     a     r     k" form a word?
+A:
+
+Bouillon.
+Q: Can the letter sequence "s     h     a     r     k" form a word?
+A:
+
+Lime.
+Q: Can the letter sequence "l     e     m     o     n" form a word?
+A:
+
+Escape.
+Q: Can the letter sequence "l     e     m     o     n" form a word?
+A:
+
+Loose.
+Q: Can the letter sequence "t     i     g     h     t" form a word?
+A:
+
+Check.
+Q: Can the letter sequence "t     i     g     h     t" form a word?
+A:
+
+Above.
+Q: Can the letter sequence "b     e     l     o     w" form a word?
+A:
+
+Stamp.
+Q: Can the letter sequence "b     e     l     o     w" form a word?
+A:
+
+Stench.
+Q: Can the letter sequence "s     m     e     l     l" form a word?
+A:
+
+Attitude.
+Q: Can the letter sequence "s     m     e     l     l" form a word?
+A:
+
+Mine.
+Q: Can the letter sequence "y     o     u     r     s" form a word?
+A:
+
+Rules.
+Q: Can the letter sequence "y     o     u     r     s" form a word?
+A:
+
+Correct.
+Q: Can the letter sequence "w     r     o     n     g" form a word?
+A:
+
+Harvest.
+Q: Can the letter sequence "w     r     o     n     g" form a word?
+A:
+
+Demon.
+Q: Can the letter sequence "d     e     v     i     l" form a word?
+A:
+
+Almanac.
+Q: Can the letter sequence "d     e     v     i     l" form a word?
+A:
+
+Hue.
+Q: Can the letter sequence "c     o     l     o     r" form a word?
+A:
+
+Hanger.
+Q: Can the letter sequence "c     o     l     o     r" form a word?
+A:
+
+Minor.
+Q: Can the letter sequence "m     a     j     o     r" form a word?
+A:
+
+Fury.
+Q: Can the letter sequence "m     a     j     o     r" form a word?
+A:
+
+Best.
+Q: Can the letter sequence "w     o     r     s     t" form a word?
+A:
+
+Hydrogen.
+Q: Can the letter sequence "w     o     r     s     t" form a word?
+A:
+
+Ounce.
+Q: Can the letter sequence "p     o     u     n     d" form a word?
+A:
+
+Grief.
+Q: Can the letter sequence "p     o     u     n     d" form a word?
+A:
+
+Clean.
+Q: Can the letter sequence "d     i     r     t     y" form a word?
+A:
+
+Gymnastics.
+Q: Can the letter sequence "d     i     r     t     y" form a word?
+A:
+
+Astronaut.
+Q: Can the letter sequence "s     p     a     c     e" form a word?
+A:
+
+Fighter.
+Q: Can the letter sequence "s     p     a     c     e" form a word?
+A:
+
+Volcano.
+Q: Can the letter sequence "e     r     u     p     t" form a word?
+A:
+
+Mediocre.
+Q: Can the letter sequence "e     r     u     p     t" form a word?
+A:
+
+Marsh.
+Q: Can the letter sequence "s     w     a     m     p" form a word?
+A:
+
+Drugs.
+Q: Can the letter sequence "s     w     a     m     p" form a word?
+A:
+
+Knight.
+Q: Can the letter sequence "a     r     m     o     r" form a word?
+A:
+
+Week.
+Q: Can the letter sequence "a     r     m     o     r" form a word?
+A:
+
+Precise.
+Q: Can the letter sequence "e     x     a     c     t" form a word?
+A:
+
+Wear.
+Q: Can the letter sequence "e     x     a     c     t" form a word?
+A:
+
+Motionless.
+Q: Can the letter sequence "s     t     i     l     l" form a word?
+A:
+
+Flow.
+Q: Can the letter sequence "s     t     i     l     l" form a word?
+A:
+
+Goodbye.
+Q: Can the letter sequence "h     e     l     l     o" form a word?
+A:
+
+Male.
+Q: Can the letter sequence "h     e     l     l     o" form a word?
+A:
+
+Pocketbook.
+Q: Can the letter sequence "p     u     r     s     e" form a word?
+A:
+
+Grind.
+Q: Can the letter sequence "p     u     r     s     e" form a word?
+A:
+
+Actress.
+Q: Can the letter sequence "a     c     t     o     r" form a word?
+A:
+
+Coast.
+Q: Can the letter sequence "a     c     t     o     r" form a word?
+A:
+
+Cigar.
+Q: Can the letter sequence "s     m     o     k     e" form a word?
+A:
+
+Lane.
+Q: Can the letter sequence "s     m     o     k     e" form a word?
+A:
+
+Below.
+Q: Can the letter sequence "a     b     o     v     e" form a word?
+A:
+
+Postage.
+Q: Can the letter sequence "a     b     o     v     e" form a word?
+A:
+
+Untrue.
+Q: Can the letter sequence "f     a     l     s     e" form a word?
+A:
+
+Rung.
+Q: Can the letter sequence "f     a     l     s     e" form a word?
+A:
+
+Observe.
+Q: Can the letter sequence "w     a     t     c     h" form a word?
+A:
+
+Wasp.
+Q: Can the letter sequence "w     a     t     c     h" form a word?
+A:
+
+Oregano.
+Q: Can the letter sequence "s     p     i     c     e" form a word?
+A:
+
+Knock.
+Q: Can the letter sequence "s     p     i     c     e" form a word?
+A:
+
+Beneath.
+Q: Can the letter sequence "u     n     d     e     r" form a word?
+A:
+
+Tricycle.
+Q: Can the letter sequence "u     n     d     e     r" form a word?
+A:
+
+Crevice.
+Q: Can the letter sequence "c     r     a     c     k" form a word?
+A:
+
+Annoy.
+Q: Can the letter sequence "c     r     a     c     k" form a word?
+A:
+
+Debate.
+Q: Can the letter sequence "a     r     g     u     e" form a word?
+A:
+
+Treasure.
+Q: Can the letter sequence "a     r     g     u     e" form a word?
+A:
+
+Kid.
+Q: Can the letter sequence "c     h     i     l     d" form a word?
+A:
+
+Ruler.
+Q: Can the letter sequence "c     h     i     l     d" form a word?
+A:
+
+Late.
+Q: Can the letter sequence "e     a     r     l     y" form a word?
+A:
+
+Core.
+Q: Can the letter sequence "e     a     r     l     y" form a word?
+A:
+
+Gander.
+Q: Can the letter sequence "g     o     o     s     e" form a word?
+A:
+
+Crescent.
+Q: Can the letter sequence "g     o     o     s     e" form a word?
+A:
+
+Sea.
+Q: Can the letter sequence "o     c     e     a     n" form a word?
+A:
+
+Salute.
+Q: Can the letter sequence "o     c     e     a     n" form a word?
+A:
+
+Garbage.
+Q: Can the letter sequence "t     r     a     s     h" form a word?
+A:
+
+Chapter.
+Q: Can the letter sequence "t     r     a     s     h" form a word?
+A:
+
+Disgusting.
+Q: Can the letter sequence "g     r     o     s     s" form a word?
+A:
+
+Astrology.
+Q: Can the letter sequence "g     r     o     s     s" form a word?
+A:
+
+Dial.
+Q: Can the letter sequence "p     h     o     n     e" form a word?
+A:
+
+Husk.
+Q: Can the letter sequence "p     h     o     n     e" form a word?
+A:
+
+Sentry.
+Q: Can the letter sequence "g     u     a     r     d" form a word?
+A:
+
+Underground.
+Q: Can the letter sequence "g     u     a     r     d" form a word?
+A:
+
+Honey.
+Q: Can the letter sequence "s     w     e     e     t" form a word?
+A:
+
+Physician.
+Q: Can the letter sequence "s     w     e     e     t" form a word?
+A:
+
+Weed.
+Q: Can the letter sequence "g     r     a     s     s" form a word?
+A:
+
+Complain.
+Q: Can the letter sequence "g     r     a     s     s" form a word?
+A:
+
+Mustache.
+Q: Can the letter sequence "b     e     a     r     d" form a word?
+A:
+
+Weights.
+Q: Can the letter sequence "b     e     a     r     d" form a word?
+A:
+
+Guys.
+Q: Can the letter sequence "g     i     r     l     s" form a word?
+A:
+
+Reprimand.
+Q: Can the letter sequence "g     i     r     l     s" form a word?
+A:
+
+Dim.
+Q: Can the letter sequence "l     i     g     h     t" form a word?
+A:
+
+Adjourn.
+Q: Can the letter sequence "l     i     g     h     t" form a word?
+A:
+
+Fork.
+Q: Can the letter sequence "s     p     o     o     n" form a word?
+A:
+
+Point.
+Q: Can the letter sequence "s     p     o     o     n" form a word?
+A:
+
+Tight.
+Q: Can the letter sequence "l     o     o     s     e" form a word?
+A:
+
+Associate.
+Q: Can the letter sequence "l     o     o     s     e" form a word?
+A:
+
+Seed.
+Q: Can the letter sequence "p     l     a     n     t" form a word?
+A:
+
+Lightning.
+Q: Can the letter sequence "p     l     a     n     t" form a word?
+A:
+
+Six.
+Q: Can the letter sequence "s     e     v     e     n" form a word?
+A:
+
+Fade.
+Q: Can the letter sequence "s     e     v     e     n" form a word?
+A:
+
+Bleach.
+Q: Can the letter sequence "w     h     i     t     e" form a word?
+A:
+
+Launch.
+Q: Can the letter sequence "w     h     i     t     e" form a word?
+A:
+
+Sandpaper.
+Q: Can the letter sequence "r     o     u     g     h" form a word?
+A:
+
+Slander.
+Q: Can the letter sequence "r     o     u     g     h" form a word?
+A:
+
+Ballet.
+Q: Can the letter sequence "d     a     n     c     e" form a word?
+A:
+
+Merit.
+Q: Can the letter sequence "d     a     n     c     e" form a word?
+A:
+
+Dressing.
+Q: Can the letter sequence "s     a     l     a     d" form a word?
+A:
+
+Car.
+Q: Can the letter sequence "s     a     l     a     d" form a word?
+A:
+
+Appearance.
+Q: Can the letter sequence "l     o     o     k     s" form a word?
+A:
+
+Floor.
+Q: Can the letter sequence "l     o     o     k     s" form a word?
+A:
+
+Grocery.
+Q: Can the letter sequence "s     t     o     r     e" form a word?
+A:
+
+English.
+Q: Can the letter sequence "s     t     o     r     e" form a word?
+A:
+
+Shatter.
+Q: Can the letter sequence "b     r     e     a     k" form a word?
+A:
+
+Yearly.
+Q: Can the letter sequence "b     r     e     a     k" form a word?
+A:
+
+Components.
+Q: Can the letter sequence "p     a     r     t     s" form a word?
+A:
+
+Fox.
+Q: Can the letter sequence "p     a     r     t     s" form a word?
+A:
+
+Push.
+Q: Can the letter sequence "s     h     o     v     e" form a word?
+A:
+
+Kleenex.
+Q: Can the letter sequence "s     h     o     v     e" form a word?
+A:
+
+Pancakes.
+Q: Can the letter sequence "s     y     r     u     p" form a word?
+A:
+
+Tortoise.
+Q: Can the letter sequence "s     y     r     u     p" form a word?
+A:
+
+Teach.
+Q: Can the letter sequence "l     e     a     r     n" form a word?
+A:
+
+Chop.
+Q: Can the letter sequence "l     e     a     r     n" form a word?
+A:
+
+Major.
+Q: Can the letter sequence "m     i     n     o     r" form a word?
+A:
+
+Trail.
+Q: Can the letter sequence "m     i     n     o     r" form a word?
+A:
+
+When.
+Q: Can the letter sequence "w     h     e     r     e" form a word?
+A:
+
+Gross.
+Q: Can the letter sequence "w     h     e     r     e" form a word?
+A:
+
+Bow.
+Q: Can the letter sequence "a     r     r     o     w" form a word?
+A:
+
+Parade.
+Q: Can the letter sequence "a     r     r     o     w" form a word?
+A:
+
+Link.
+Q: Can the letter sequence "c     h     a     i     n" form a word?
+A:
+
+Elements.
+Q: Can the letter sequence "c     h     a     i     n" form a word?
+A:
+
+Reef.
+Q: Can the letter sequence "c     o     r     a     l" form a word?
+A:
+
+Snob.
+Q: Can the letter sequence "c     o     r     a     l" form a word?
+A:
+
+Transplant.
+Q: Can the letter sequence "h     e     a     r     t" form a word?
+A:
+
+Hostage.
+Q: Can the letter sequence "h     e     a     r     t" form a word?
+A:
+
+Trot.
+Q: Can the letter sequence "h     o     r     s     e" form a word?
+A:
+
+Eight.
+Q: Can the letter sequence "h     o     r     s     e" form a word?
+A:
+
+Left.
+Q) Can the letter sequence "r     i     g     h     t" form a word?
+A)
+
+Liquid.
+Q) Can the letter sequence "r     i     g     h     t" form a word?
+A)
+
+Pepperoni.
+Q) Can the letter sequence "p     i     z     z     a" form a word?
+A)
+
+Dangerous.
+Q) Can the letter sequence "p     i     z     z     a" form a word?
+A)
+
+Cobra.
+Q) Can the letter sequence "s     n     a     k     e" form a word?
+A)
+
+Chimpanzee.
+Q) Can the letter sequence "s     n     a     k     e" form a word?
+A)
+
+Giggle.
+Q) Can the letter sequence "l     a     u     g     h" form a word?
+A)
+
+Vocabulary.
+Q) Can the letter sequence "l     a     u     g     h" form a word?
+A)
+
+King.
+Q) Can the letter sequence "q     u     e     e     n" form a word?
+A)
+
+Breakfast.
+Q) Can the letter sequence "q     u     e     e     n" form a word?
+A)
+
+North.
+Q) Can the letter sequence "s     o     u     t     h" form a word?
+A)
+
+Cigar.
+Q) Can the letter sequence "s     o     u     t     h" form a word?
+A)
+
+Airport.
+Q) Can the letter sequence "p     l     a     n     e" form a word?
+A)
+
+Inhale.
+Q) Can the letter sequence "p     l     a     n     e" form a word?
+A)
+
+Lost.
+Q) Can the letter sequence "f     o     u     n     d" form a word?
+A)
+
+Pedal.
+Q) Can the letter sequence "f     o     u     n     d" form a word?
+A)
+
+Aunt.
+Q) Can the letter sequence "u     n     c     l     e" form a word?
+A)
+
+Cereal.
+Q) Can the letter sequence "u     n     c     l     e" form a word?
+A)
+
+Postage.
+Q) Can the letter sequence "s     t     a     m     p" form a word?
+A)
+
+Drunk.
+Q) Can the letter sequence "s     t     a     m     p" form a word?
+A)
+
+Nap.
+Q) Can the letter sequence "s     l     e     e     p" form a word?
+A)
+
+Farmer.
+Q) Can the letter sequence "s     l     e     e     p" form a word?
+A)
+
+Open.
+Q) Can the letter sequence "c     l     o     s     e" form a word?
+A)
+
+Information.
+Q) Can the letter sequence "c     l     o     s     e" form a word?
+A)
+
+Gums.
+Q) Can the letter sequence "t     e     e     t     h" form a word?
+A)
+
+Invent.
+Q) Can the letter sequence "t     e     e     t     h" form a word?
+A)
+
+Tall.
+Q) Can the letter sequence "s     h     o     r     t" form a word?
+A)
+
+Nickel.
+Q) Can the letter sequence "s     h     o     r     t" form a word?
+A)
+
+Intoxicated.
+Q) Can the letter sequence "d     r     u     n     k" form a word?
+A)
+
+Diminish.
+Q) Can the letter sequence "d     r     u     n     k" form a word?
+A)
+
+Plus.
+Q) Can the letter sequence "m     i     n     u     s" form a word?
+A)
+
+Ancestor.
+Q) Can the letter sequence "m     i     n     u     s" form a word?
+A)
+
+Globe.
+Q) Can the letter sequence "w     o     r     l     d" form a word?
+A)
+
+Softball.
+Q) Can the letter sequence "w     o     r     l     d" form a word?
+A)
+
+Blackboard.
+Q) Can the letter sequence "c     h     a     l     k" form a word?
+A)
+
+Orchid.
+Q) Can the letter sequence "c     h     a     l     k" form a word?
+A)
+
+Man.
+Q) Can the letter sequence "w     o     m     a     n" form a word?
+A)
+
+Grade.
+Q) Can the letter sequence "w     o     m     a     n" form a word?
+A)
+
+Celebration.
+Q) Can the letter sequence "p     a     r     t     y" form a word?
+A)
+
+Parsley.
+Q) Can the letter sequence "p     a     r     t     y" form a word?
+A)
+
+White.
+Q) Can the letter sequence "b     l     a     c     k" form a word?
+A)
+
+Selection.
+Q) Can the letter sequence "b     l     a     c     k" form a word?
+A)
+
+Socks.
+Q) Can the letter sequence "s     h     o     e     s" form a word?
+A)
+
+Friar.
+Q) Can the letter sequence "s     h     o     e     s" form a word?
+A)
+
+Ghoul.
+Q) Can the letter sequence "g     h     o     s     t" form a word?
+A)
+
+Otter.
+Q) Can the letter sequence "g     h     o     s     t" form a word?
+A)
+
+Blouse.
+Q) Can the letter sequence "s     h     i     r     t" form a word?
+A)
+
+Human.
+Q) Can the letter sequence "s     h     i     r     t" form a word?
+A)
+
+Slacks.
+Q) Can the letter sequence "p     a     n     t     s" form a word?
+A)
+
+Spree.
+Q) Can the letter sequence "p     a     n     t     s" form a word?
+A)
+
+Bulletin.
+Q) Can the letter sequence "b     o     a     r     d" form a word?
+A)
+
+Brittle.
+Q) Can the letter sequence "b     o     a     r     d" form a word?
+A)
+
+Vacate.
+Q) Can the letter sequence "l     e     a     v     e" form a word?
+A)
+
+Trot.
+Q) Can the letter sequence "l     e     a     v     e" form a word?
+A)
+
+Here.
+Q) Can the letter sequence "t     h     e     r     e" form a word?
+A)
+
+Security.
+Q) Can the letter sequence "t     h     e     r     e" form a word?
+A)
+
+Escargot.
+Q) Can the letter sequence "s     n     a     i     l" form a word?
+A)
+
+Happiness.
+Q) Can the letter sequence "s     n     a     i     l" form a word?
+A)
+
+Groom.
+Q) Can the letter sequence "b     r     i     d     e" form a word?
+A)
+
+Belong.
+Q) Can the letter sequence "b     r     i     d     e" form a word?
+A)
+
+Toss.
+Q) Can the letter sequence "t     h     r     o     w" form a word?
+A)
+
+Knight.
+Q) Can the letter sequence "t     h     r     o     w" form a word?
+A)
+
+Men.
+Q) Can the letter sequence "w     o     m     e     n" form a word?
+A)
+
+Suffocate.
+Q) Can the letter sequence "w     o     m     e     n" form a word?
+A)
+
+Sprain.
+Q) Can the letter sequence "a     n     k     l     e" form a word?
+A)
+
+Term.
+Q) Can the letter sequence "a     n     k     l     e" form a word?
+A)
+
+Winner.
+Q) Can the letter sequence "l     o     s     e     r" form a word?
+A)
+
+Vent.
+Q) Can the letter sequence "l     o     s     e     r" form a word?
+A)
+
+Circus.
+Q) Can the letter sequence "c     l     o     w     n" form a word?
+A)
+
+Medical.
+Q) Can the letter sequence "c     l     o     w     n" form a word?
+A)
+
+Jaws.
+Q) Can the letter sequence "s     h     a     r     k" form a word?
+A)
+
+Bouillon.
+Q) Can the letter sequence "s     h     a     r     k" form a word?
+A)
+
+Lime.
+Q) Can the letter sequence "l     e     m     o     n" form a word?
+A)
+
+Escape.
+Q) Can the letter sequence "l     e     m     o     n" form a word?
+A)
+
+Loose.
+Q) Can the letter sequence "t     i     g     h     t" form a word?
+A)
+
+Check.
+Q) Can the letter sequence "t     i     g     h     t" form a word?
+A)
+
+Above.
+Q) Can the letter sequence "b     e     l     o     w" form a word?
+A)
+
+Stamp.
+Q) Can the letter sequence "b     e     l     o     w" form a word?
+A)
+
+Stench.
+Q) Can the letter sequence "s     m     e     l     l" form a word?
+A)
+
+Attitude.
+Q) Can the letter sequence "s     m     e     l     l" form a word?
+A)
+
+Mine.
+Q) Can the letter sequence "y     o     u     r     s" form a word?
+A)
+
+Rules.
+Q) Can the letter sequence "y     o     u     r     s" form a word?
+A)
+
+Correct.
+Q) Can the letter sequence "w     r     o     n     g" form a word?
+A)
+
+Harvest.
+Q) Can the letter sequence "w     r     o     n     g" form a word?
+A)
+
+Demon.
+Q) Can the letter sequence "d     e     v     i     l" form a word?
+A)
+
+Almanac.
+Q) Can the letter sequence "d     e     v     i     l" form a word?
+A)
+
+Hue.
+Q) Can the letter sequence "c     o     l     o     r" form a word?
+A)
+
+Hanger.
+Q) Can the letter sequence "c     o     l     o     r" form a word?
+A)
+
+Minor.
+Q) Can the letter sequence "m     a     j     o     r" form a word?
+A)
+
+Fury.
+Q) Can the letter sequence "m     a     j     o     r" form a word?
+A)
+
+Best.
+Q) Can the letter sequence "w     o     r     s     t" form a word?
+A)
+
+Hydrogen.
+Q) Can the letter sequence "w     o     r     s     t" form a word?
+A)
+
+Ounce.
+Q) Can the letter sequence "p     o     u     n     d" form a word?
+A)
+
+Grief.
+Q) Can the letter sequence "p     o     u     n     d" form a word?
+A)
+
+Clean.
+Q) Can the letter sequence "d     i     r     t     y" form a word?
+A)
+
+Gymnastics.
+Q) Can the letter sequence "d     i     r     t     y" form a word?
+A)
+
+Astronaut.
+Q) Can the letter sequence "s     p     a     c     e" form a word?
+A)
+
+Fighter.
+Q) Can the letter sequence "s     p     a     c     e" form a word?
+A)
+
+Volcano.
+Q) Can the letter sequence "e     r     u     p     t" form a word?
+A)
+
+Mediocre.
+Q) Can the letter sequence "e     r     u     p     t" form a word?
+A)
+
+Marsh.
+Q) Can the letter sequence "s     w     a     m     p" form a word?
+A)
+
+Drugs.
+Q) Can the letter sequence "s     w     a     m     p" form a word?
+A)
+
+Knight.
+Q) Can the letter sequence "a     r     m     o     r" form a word?
+A)
+
+Week.
+Q) Can the letter sequence "a     r     m     o     r" form a word?
+A)
+
+Precise.
+Q) Can the letter sequence "e     x     a     c     t" form a word?
+A)
+
+Wear.
+Q) Can the letter sequence "e     x     a     c     t" form a word?
+A)
+
+Motionless.
+Q) Can the letter sequence "s     t     i     l     l" form a word?
+A)
+
+Flow.
+Q) Can the letter sequence "s     t     i     l     l" form a word?
+A)
+
+Goodbye.
+Q) Can the letter sequence "h     e     l     l     o" form a word?
+A)
+
+Male.
+Q) Can the letter sequence "h     e     l     l     o" form a word?
+A)
+
+Pocketbook.
+Q) Can the letter sequence "p     u     r     s     e" form a word?
+A)
+
+Grind.
+Q) Can the letter sequence "p     u     r     s     e" form a word?
+A)
+
+Actress.
+Q) Can the letter sequence "a     c     t     o     r" form a word?
+A)
+
+Coast.
+Q) Can the letter sequence "a     c     t     o     r" form a word?
+A)
+
+Cigar.
+Q) Can the letter sequence "s     m     o     k     e" form a word?
+A)
+
+Lane.
+Q) Can the letter sequence "s     m     o     k     e" form a word?
+A)
+
+Below.
+Q) Can the letter sequence "a     b     o     v     e" form a word?
+A)
+
+Postage.
+Q) Can the letter sequence "a     b     o     v     e" form a word?
+A)
+
+Untrue.
+Q) Can the letter sequence "f     a     l     s     e" form a word?
+A)
+
+Rung.
+Q) Can the letter sequence "f     a     l     s     e" form a word?
+A)
+
+Observe.
+Q) Can the letter sequence "w     a     t     c     h" form a word?
+A)
+
+Wasp.
+Q) Can the letter sequence "w     a     t     c     h" form a word?
+A)
+
+Oregano.
+Q) Can the letter sequence "s     p     i     c     e" form a word?
+A)
+
+Knock.
+Q) Can the letter sequence "s     p     i     c     e" form a word?
+A)
+
+Beneath.
+Q) Can the letter sequence "u     n     d     e     r" form a word?
+A)
+
+Tricycle.
+Q) Can the letter sequence "u     n     d     e     r" form a word?
+A)
+
+Crevice.
+Q) Can the letter sequence "c     r     a     c     k" form a word?
+A)
+
+Annoy.
+Q) Can the letter sequence "c     r     a     c     k" form a word?
+A)
+
+Debate.
+Q) Can the letter sequence "a     r     g     u     e" form a word?
+A)
+
+Treasure.
+Q) Can the letter sequence "a     r     g     u     e" form a word?
+A)
+
+Kid.
+Q) Can the letter sequence "c     h     i     l     d" form a word?
+A)
+
+Ruler.
+Q) Can the letter sequence "c     h     i     l     d" form a word?
+A)
+
+Late.
+Q) Can the letter sequence "e     a     r     l     y" form a word?
+A)
+
+Core.
+Q) Can the letter sequence "e     a     r     l     y" form a word?
+A)
+
+Gander.
+Q) Can the letter sequence "g     o     o     s     e" form a word?
+A)
+
+Crescent.
+Q) Can the letter sequence "g     o     o     s     e" form a word?
+A)
+
+Sea.
+Q) Can the letter sequence "o     c     e     a     n" form a word?
+A)
+
+Salute.
+Q) Can the letter sequence "o     c     e     a     n" form a word?
+A)
+
+Garbage.
+Q) Can the letter sequence "t     r     a     s     h" form a word?
+A)
+
+Chapter.
+Q) Can the letter sequence "t     r     a     s     h" form a word?
+A)
+
+Disgusting.
+Q) Can the letter sequence "g     r     o     s     s" form a word?
+A)
+
+Astrology.
+Q) Can the letter sequence "g     r     o     s     s" form a word?
+A)
+
+Dial.
+Q) Can the letter sequence "p     h     o     n     e" form a word?
+A)
+
+Husk.
+Q) Can the letter sequence "p     h     o     n     e" form a word?
+A)
+
+Sentry.
+Q) Can the letter sequence "g     u     a     r     d" form a word?
+A)
+
+Underground.
+Q) Can the letter sequence "g     u     a     r     d" form a word?
+A)
+
+Honey.
+Q) Can the letter sequence "s     w     e     e     t" form a word?
+A)
+
+Physician.
+Q) Can the letter sequence "s     w     e     e     t" form a word?
+A)
+
+Weed.
+Q) Can the letter sequence "g     r     a     s     s" form a word?
+A)
+
+Complain.
+Q) Can the letter sequence "g     r     a     s     s" form a word?
+A)
+
+Mustache.
+Q) Can the letter sequence "b     e     a     r     d" form a word?
+A)
+
+Weights.
+Q) Can the letter sequence "b     e     a     r     d" form a word?
+A)
+
+Guys.
+Q) Can the letter sequence "g     i     r     l     s" form a word?
+A)
+
+Reprimand.
+Q) Can the letter sequence "g     i     r     l     s" form a word?
+A)
+
+Dim.
+Q) Can the letter sequence "l     i     g     h     t" form a word?
+A)
+
+Adjourn.
+Q) Can the letter sequence "l     i     g     h     t" form a word?
+A)
+
+Fork.
+Q) Can the letter sequence "s     p     o     o     n" form a word?
+A)
+
+Point.
+Q) Can the letter sequence "s     p     o     o     n" form a word?
+A)
+
+Tight.
+Q) Can the letter sequence "l     o     o     s     e" form a word?
+A)
+
+Associate.
+Q) Can the letter sequence "l     o     o     s     e" form a word?
+A)
+
+Seed.
+Q) Can the letter sequence "p     l     a     n     t" form a word?
+A)
+
+Lightning.
+Q) Can the letter sequence "p     l     a     n     t" form a word?
+A)
+
+Six.
+Q) Can the letter sequence "s     e     v     e     n" form a word?
+A)
+
+Fade.
+Q) Can the letter sequence "s     e     v     e     n" form a word?
+A)
+
+Bleach.
+Q) Can the letter sequence "w     h     i     t     e" form a word?
+A)
+
+Launch.
+Q) Can the letter sequence "w     h     i     t     e" form a word?
+A)
+
+Sandpaper.
+Q) Can the letter sequence "r     o     u     g     h" form a word?
+A)
+
+Slander.
+Q) Can the letter sequence "r     o     u     g     h" form a word?
+A)
+
+Ballet.
+Q) Can the letter sequence "d     a     n     c     e" form a word?
+A)
+
+Merit.
+Q) Can the letter sequence "d     a     n     c     e" form a word?
+A)
+
+Dressing.
+Q) Can the letter sequence "s     a     l     a     d" form a word?
+A)
+
+Car.
+Q) Can the letter sequence "s     a     l     a     d" form a word?
+A)
+
+Appearance.
+Q) Can the letter sequence "l     o     o     k     s" form a word?
+A)
+
+Floor.
+Q) Can the letter sequence "l     o     o     k     s" form a word?
+A)
+
+Grocery.
+Q) Can the letter sequence "s     t     o     r     e" form a word?
+A)
+
+English.
+Q) Can the letter sequence "s     t     o     r     e" form a word?
+A)
+
+Shatter.
+Q) Can the letter sequence "b     r     e     a     k" form a word?
+A)
+
+Yearly.
+Q) Can the letter sequence "b     r     e     a     k" form a word?
+A)
+
+Components.
+Q) Can the letter sequence "p     a     r     t     s" form a word?
+A)
+
+Fox.
+Q) Can the letter sequence "p     a     r     t     s" form a word?
+A)
+
+Push.
+Q) Can the letter sequence "s     h     o     v     e" form a word?
+A)
+
+Kleenex.
+Q) Can the letter sequence "s     h     o     v     e" form a word?
+A)
+
+Pancakes.
+Q) Can the letter sequence "s     y     r     u     p" form a word?
+A)
+
+Tortoise.
+Q) Can the letter sequence "s     y     r     u     p" form a word?
+A)
+
+Teach.
+Q) Can the letter sequence "l     e     a     r     n" form a word?
+A)
+
+Chop.
+Q) Can the letter sequence "l     e     a     r     n" form a word?
+A)
+
+Major.
+Q) Can the letter sequence "m     i     n     o     r" form a word?
+A)
+
+Trail.
+Q) Can the letter sequence "m     i     n     o     r" form a word?
+A)
+
+When.
+Q) Can the letter sequence "w     h     e     r     e" form a word?
+A)
+
+Gross.
+Q) Can the letter sequence "w     h     e     r     e" form a word?
+A)
+
+Bow.
+Q) Can the letter sequence "a     r     r     o     w" form a word?
+A)
+
+Parade.
+Q) Can the letter sequence "a     r     r     o     w" form a word?
+A)
+
+Link.
+Q) Can the letter sequence "c     h     a     i     n" form a word?
+A)
+
+Elements.
+Q) Can the letter sequence "c     h     a     i     n" form a word?
+A)
+
+Reef.
+Q) Can the letter sequence "c     o     r     a     l" form a word?
+A)
+
+Snob.
+Q) Can the letter sequence "c     o     r     a     l" form a word?
+A)
+
+Transplant.
+Q) Can the letter sequence "h     e     a     r     t" form a word?
+A)
+
+Hostage.
+Q) Can the letter sequence "h     e     a     r     t" form a word?
+A)
+
+Trot.
+Q) Can the letter sequence "h     o     r     s     e" form a word?
+A)
+
+Eight.
+Q) Can the letter sequence "h     o     r     s     e" form a word?
+A)
+
+Left.
+Q. Can the letter sequence "r     i     g     h     t" form a word?
+A.
+
+Liquid.
+Q. Can the letter sequence "r     i     g     h     t" form a word?
+A.
+
+Pepperoni.
+Q. Can the letter sequence "p     i     z     z     a" form a word?
+A.
+
+Dangerous.
+Q. Can the letter sequence "p     i     z     z     a" form a word?
+A.
+
+Cobra.
+Q. Can the letter sequence "s     n     a     k     e" form a word?
+A.
+
+Chimpanzee.
+Q. Can the letter sequence "s     n     a     k     e" form a word?
+A.
+
+Giggle.
+Q. Can the letter sequence "l     a     u     g     h" form a word?
+A.
+
+Vocabulary.
+Q. Can the letter sequence "l     a     u     g     h" form a word?
+A.
+
+King.
+Q. Can the letter sequence "q     u     e     e     n" form a word?
+A.
+
+Breakfast.
+Q. Can the letter sequence "q     u     e     e     n" form a word?
+A.
+
+North.
+Q. Can the letter sequence "s     o     u     t     h" form a word?
+A.
+
+Cigar.
+Q. Can the letter sequence "s     o     u     t     h" form a word?
+A.
+
+Airport.
+Q. Can the letter sequence "p     l     a     n     e" form a word?
+A.
+
+Inhale.
+Q. Can the letter sequence "p     l     a     n     e" form a word?
+A.
+
+Lost.
+Q. Can the letter sequence "f     o     u     n     d" form a word?
+A.
+
+Pedal.
+Q. Can the letter sequence "f     o     u     n     d" form a word?
+A.
+
+Aunt.
+Q. Can the letter sequence "u     n     c     l     e" form a word?
+A.
+
+Cereal.
+Q. Can the letter sequence "u     n     c     l     e" form a word?
+A.
+
+Postage.
+Q. Can the letter sequence "s     t     a     m     p" form a word?
+A.
+
+Drunk.
+Q. Can the letter sequence "s     t     a     m     p" form a word?
+A.
+
+Nap.
+Q. Can the letter sequence "s     l     e     e     p" form a word?
+A.
+
+Farmer.
+Q. Can the letter sequence "s     l     e     e     p" form a word?
+A.
+
+Open.
+Q. Can the letter sequence "c     l     o     s     e" form a word?
+A.
+
+Information.
+Q. Can the letter sequence "c     l     o     s     e" form a word?
+A.
+
+Gums.
+Q. Can the letter sequence "t     e     e     t     h" form a word?
+A.
+
+Invent.
+Q. Can the letter sequence "t     e     e     t     h" form a word?
+A.
+
+Tall.
+Q. Can the letter sequence "s     h     o     r     t" form a word?
+A.
+
+Nickel.
+Q. Can the letter sequence "s     h     o     r     t" form a word?
+A.
+
+Intoxicated.
+Q. Can the letter sequence "d     r     u     n     k" form a word?
+A.
+
+Diminish.
+Q. Can the letter sequence "d     r     u     n     k" form a word?
+A.
+
+Plus.
+Q. Can the letter sequence "m     i     n     u     s" form a word?
+A.
+
+Ancestor.
+Q. Can the letter sequence "m     i     n     u     s" form a word?
+A.
+
+Globe.
+Q. Can the letter sequence "w     o     r     l     d" form a word?
+A.
+
+Softball.
+Q. Can the letter sequence "w     o     r     l     d" form a word?
+A.
+
+Blackboard.
+Q. Can the letter sequence "c     h     a     l     k" form a word?
+A.
+
+Orchid.
+Q. Can the letter sequence "c     h     a     l     k" form a word?
+A.
+
+Man.
+Q. Can the letter sequence "w     o     m     a     n" form a word?
+A.
+
+Grade.
+Q. Can the letter sequence "w     o     m     a     n" form a word?
+A.
+
+Celebration.
+Q. Can the letter sequence "p     a     r     t     y" form a word?
+A.
+
+Parsley.
+Q. Can the letter sequence "p     a     r     t     y" form a word?
+A.
+
+White.
+Q. Can the letter sequence "b     l     a     c     k" form a word?
+A.
+
+Selection.
+Q. Can the letter sequence "b     l     a     c     k" form a word?
+A.
+
+Socks.
+Q. Can the letter sequence "s     h     o     e     s" form a word?
+A.
+
+Friar.
+Q. Can the letter sequence "s     h     o     e     s" form a word?
+A.
+
+Ghoul.
+Q. Can the letter sequence "g     h     o     s     t" form a word?
+A.
+
+Otter.
+Q. Can the letter sequence "g     h     o     s     t" form a word?
+A.
+
+Blouse.
+Q. Can the letter sequence "s     h     i     r     t" form a word?
+A.
+
+Human.
+Q. Can the letter sequence "s     h     i     r     t" form a word?
+A.
+
+Slacks.
+Q. Can the letter sequence "p     a     n     t     s" form a word?
+A.
+
+Spree.
+Q. Can the letter sequence "p     a     n     t     s" form a word?
+A.
+
+Bulletin.
+Q. Can the letter sequence "b     o     a     r     d" form a word?
+A.
+
+Brittle.
+Q. Can the letter sequence "b     o     a     r     d" form a word?
+A.
+
+Vacate.
+Q. Can the letter sequence "l     e     a     v     e" form a word?
+A.
+
+Trot.
+Q. Can the letter sequence "l     e     a     v     e" form a word?
+A.
+
+Here.
+Q. Can the letter sequence "t     h     e     r     e" form a word?
+A.
+
+Security.
+Q. Can the letter sequence "t     h     e     r     e" form a word?
+A.
+
+Escargot.
+Q. Can the letter sequence "s     n     a     i     l" form a word?
+A.
+
+Happiness.
+Q. Can the letter sequence "s     n     a     i     l" form a word?
+A.
+
+Groom.
+Q. Can the letter sequence "b     r     i     d     e" form a word?
+A.
+
+Belong.
+Q. Can the letter sequence "b     r     i     d     e" form a word?
+A.
+
+Toss.
+Q. Can the letter sequence "t     h     r     o     w" form a word?
+A.
+
+Knight.
+Q. Can the letter sequence "t     h     r     o     w" form a word?
+A.
+
+Men.
+Q. Can the letter sequence "w     o     m     e     n" form a word?
+A.
+
+Suffocate.
+Q. Can the letter sequence "w     o     m     e     n" form a word?
+A.
+
+Sprain.
+Q. Can the letter sequence "a     n     k     l     e" form a word?
+A.
+
+Term.
+Q. Can the letter sequence "a     n     k     l     e" form a word?
+A.
+
+Winner.
+Q. Can the letter sequence "l     o     s     e     r" form a word?
+A.
+
+Vent.
+Q. Can the letter sequence "l     o     s     e     r" form a word?
+A.
+
+Circus.
+Q. Can the letter sequence "c     l     o     w     n" form a word?
+A.
+
+Medical.
+Q. Can the letter sequence "c     l     o     w     n" form a word?
+A.
+
+Jaws.
+Q. Can the letter sequence "s     h     a     r     k" form a word?
+A.
+
+Bouillon.
+Q. Can the letter sequence "s     h     a     r     k" form a word?
+A.
+
+Lime.
+Q. Can the letter sequence "l     e     m     o     n" form a word?
+A.
+
+Escape.
+Q. Can the letter sequence "l     e     m     o     n" form a word?
+A.
+
+Loose.
+Q. Can the letter sequence "t     i     g     h     t" form a word?
+A.
+
+Check.
+Q. Can the letter sequence "t     i     g     h     t" form a word?
+A.
+
+Above.
+Q. Can the letter sequence "b     e     l     o     w" form a word?
+A.
+
+Stamp.
+Q. Can the letter sequence "b     e     l     o     w" form a word?
+A.
+
+Stench.
+Q. Can the letter sequence "s     m     e     l     l" form a word?
+A.
+
+Attitude.
+Q. Can the letter sequence "s     m     e     l     l" form a word?
+A.
+
+Mine.
+Q. Can the letter sequence "y     o     u     r     s" form a word?
+A.
+
+Rules.
+Q. Can the letter sequence "y     o     u     r     s" form a word?
+A.
+
+Correct.
+Q. Can the letter sequence "w     r     o     n     g" form a word?
+A.
+
+Harvest.
+Q. Can the letter sequence "w     r     o     n     g" form a word?
+A.
+
+Demon.
+Q. Can the letter sequence "d     e     v     i     l" form a word?
+A.
+
+Almanac.
+Q. Can the letter sequence "d     e     v     i     l" form a word?
+A.
+
+Hue.
+Q. Can the letter sequence "c     o     l     o     r" form a word?
+A.
+
+Hanger.
+Q. Can the letter sequence "c     o     l     o     r" form a word?
+A.
+
+Minor.
+Q. Can the letter sequence "m     a     j     o     r" form a word?
+A.
+
+Fury.
+Q. Can the letter sequence "m     a     j     o     r" form a word?
+A.
+
+Best.
+Q. Can the letter sequence "w     o     r     s     t" form a word?
+A.
+
+Hydrogen.
+Q. Can the letter sequence "w     o     r     s     t" form a word?
+A.
+
+Ounce.
+Q. Can the letter sequence "p     o     u     n     d" form a word?
+A.
+
+Grief.
+Q. Can the letter sequence "p     o     u     n     d" form a word?
+A.
+
+Clean.
+Q. Can the letter sequence "d     i     r     t     y" form a word?
+A.
+
+Gymnastics.
+Q. Can the letter sequence "d     i     r     t     y" form a word?
+A.
+
+Astronaut.
+Q. Can the letter sequence "s     p     a     c     e" form a word?
+A.
+
+Fighter.
+Q. Can the letter sequence "s     p     a     c     e" form a word?
+A.
+
+Volcano.
+Q. Can the letter sequence "e     r     u     p     t" form a word?
+A.
+
+Mediocre.
+Q. Can the letter sequence "e     r     u     p     t" form a word?
+A.
+
+Marsh.
+Q. Can the letter sequence "s     w     a     m     p" form a word?
+A.
+
+Drugs.
+Q. Can the letter sequence "s     w     a     m     p" form a word?
+A.
+
+Knight.
+Q. Can the letter sequence "a     r     m     o     r" form a word?
+A.
+
+Week.
+Q. Can the letter sequence "a     r     m     o     r" form a word?
+A.
+
+Precise.
+Q. Can the letter sequence "e     x     a     c     t" form a word?
+A.
+
+Wear.
+Q. Can the letter sequence "e     x     a     c     t" form a word?
+A.
+
+Motionless.
+Q. Can the letter sequence "s     t     i     l     l" form a word?
+A.
+
+Flow.
+Q. Can the letter sequence "s     t     i     l     l" form a word?
+A.
+
+Goodbye.
+Q. Can the letter sequence "h     e     l     l     o" form a word?
+A.
+
+Male.
+Q. Can the letter sequence "h     e     l     l     o" form a word?
+A.
+
+Pocketbook.
+Q. Can the letter sequence "p     u     r     s     e" form a word?
+A.
+
+Grind.
+Q. Can the letter sequence "p     u     r     s     e" form a word?
+A.
+
+Actress.
+Q. Can the letter sequence "a     c     t     o     r" form a word?
+A.
+
+Coast.
+Q. Can the letter sequence "a     c     t     o     r" form a word?
+A.
+
+Cigar.
+Q. Can the letter sequence "s     m     o     k     e" form a word?
+A.
+
+Lane.
+Q. Can the letter sequence "s     m     o     k     e" form a word?
+A.
+
+Below.
+Q. Can the letter sequence "a     b     o     v     e" form a word?
+A.
+
+Postage.
+Q. Can the letter sequence "a     b     o     v     e" form a word?
+A.
+
+Untrue.
+Q. Can the letter sequence "f     a     l     s     e" form a word?
+A.
+
+Rung.
+Q. Can the letter sequence "f     a     l     s     e" form a word?
+A.
+
+Observe.
+Q. Can the letter sequence "w     a     t     c     h" form a word?
+A.
+
+Wasp.
+Q. Can the letter sequence "w     a     t     c     h" form a word?
+A.
+
+Oregano.
+Q. Can the letter sequence "s     p     i     c     e" form a word?
+A.
+
+Knock.
+Q. Can the letter sequence "s     p     i     c     e" form a word?
+A.
+
+Beneath.
+Q. Can the letter sequence "u     n     d     e     r" form a word?
+A.
+
+Tricycle.
+Q. Can the letter sequence "u     n     d     e     r" form a word?
+A.
+
+Crevice.
+Q. Can the letter sequence "c     r     a     c     k" form a word?
+A.
+
+Annoy.
+Q. Can the letter sequence "c     r     a     c     k" form a word?
+A.
+
+Debate.
+Q. Can the letter sequence "a     r     g     u     e" form a word?
+A.
+
+Treasure.
+Q. Can the letter sequence "a     r     g     u     e" form a word?
+A.
+
+Kid.
+Q. Can the letter sequence "c     h     i     l     d" form a word?
+A.
+
+Ruler.
+Q. Can the letter sequence "c     h     i     l     d" form a word?
+A.
+
+Late.
+Q. Can the letter sequence "e     a     r     l     y" form a word?
+A.
+
+Core.
+Q. Can the letter sequence "e     a     r     l     y" form a word?
+A.
+
+Gander.
+Q. Can the letter sequence "g     o     o     s     e" form a word?
+A.
+
+Crescent.
+Q. Can the letter sequence "g     o     o     s     e" form a word?
+A.
+
+Sea.
+Q. Can the letter sequence "o     c     e     a     n" form a word?
+A.
+
+Salute.
+Q. Can the letter sequence "o     c     e     a     n" form a word?
+A.
+
+Garbage.
+Q. Can the letter sequence "t     r     a     s     h" form a word?
+A.
+
+Chapter.
+Q. Can the letter sequence "t     r     a     s     h" form a word?
+A.
+
+Disgusting.
+Q. Can the letter sequence "g     r     o     s     s" form a word?
+A.
+
+Astrology.
+Q. Can the letter sequence "g     r     o     s     s" form a word?
+A.
+
+Dial.
+Q. Can the letter sequence "p     h     o     n     e" form a word?
+A.
+
+Husk.
+Q. Can the letter sequence "p     h     o     n     e" form a word?
+A.
+
+Sentry.
+Q. Can the letter sequence "g     u     a     r     d" form a word?
+A.
+
+Underground.
+Q. Can the letter sequence "g     u     a     r     d" form a word?
+A.
+
+Honey.
+Q. Can the letter sequence "s     w     e     e     t" form a word?
+A.
+
+Physician.
+Q. Can the letter sequence "s     w     e     e     t" form a word?
+A.
+
+Weed.
+Q. Can the letter sequence "g     r     a     s     s" form a word?
+A.
+
+Complain.
+Q. Can the letter sequence "g     r     a     s     s" form a word?
+A.
+
+Mustache.
+Q. Can the letter sequence "b     e     a     r     d" form a word?
+A.
+
+Weights.
+Q. Can the letter sequence "b     e     a     r     d" form a word?
+A.
+
+Guys.
+Q. Can the letter sequence "g     i     r     l     s" form a word?
+A.
+
+Reprimand.
+Q. Can the letter sequence "g     i     r     l     s" form a word?
+A.
+
+Dim.
+Q. Can the letter sequence "l     i     g     h     t" form a word?
+A.
+
+Adjourn.
+Q. Can the letter sequence "l     i     g     h     t" form a word?
+A.
+
+Fork.
+Q. Can the letter sequence "s     p     o     o     n" form a word?
+A.
+
+Point.
+Q. Can the letter sequence "s     p     o     o     n" form a word?
+A.
+
+Tight.
+Q. Can the letter sequence "l     o     o     s     e" form a word?
+A.
+
+Associate.
+Q. Can the letter sequence "l     o     o     s     e" form a word?
+A.
+
+Seed.
+Q. Can the letter sequence "p     l     a     n     t" form a word?
+A.
+
+Lightning.
+Q. Can the letter sequence "p     l     a     n     t" form a word?
+A.
+
+Six.
+Q. Can the letter sequence "s     e     v     e     n" form a word?
+A.
+
+Fade.
+Q. Can the letter sequence "s     e     v     e     n" form a word?
+A.
+
+Bleach.
+Q. Can the letter sequence "w     h     i     t     e" form a word?
+A.
+
+Launch.
+Q. Can the letter sequence "w     h     i     t     e" form a word?
+A.
+
+Sandpaper.
+Q. Can the letter sequence "r     o     u     g     h" form a word?
+A.
+
+Slander.
+Q. Can the letter sequence "r     o     u     g     h" form a word?
+A.
+
+Ballet.
+Q. Can the letter sequence "d     a     n     c     e" form a word?
+A.
+
+Merit.
+Q. Can the letter sequence "d     a     n     c     e" form a word?
+A.
+
+Dressing.
+Q. Can the letter sequence "s     a     l     a     d" form a word?
+A.
+
+Car.
+Q. Can the letter sequence "s     a     l     a     d" form a word?
+A.
+
+Appearance.
+Q. Can the letter sequence "l     o     o     k     s" form a word?
+A.
+
+Floor.
+Q. Can the letter sequence "l     o     o     k     s" form a word?
+A.
+
+Grocery.
+Q. Can the letter sequence "s     t     o     r     e" form a word?
+A.
+
+English.
+Q. Can the letter sequence "s     t     o     r     e" form a word?
+A.
+
+Shatter.
+Q. Can the letter sequence "b     r     e     a     k" form a word?
+A.
+
+Yearly.
+Q. Can the letter sequence "b     r     e     a     k" form a word?
+A.
+
+Components.
+Q. Can the letter sequence "p     a     r     t     s" form a word?
+A.
+
+Fox.
+Q. Can the letter sequence "p     a     r     t     s" form a word?
+A.
+
+Push.
+Q. Can the letter sequence "s     h     o     v     e" form a word?
+A.
+
+Kleenex.
+Q. Can the letter sequence "s     h     o     v     e" form a word?
+A.
+
+Pancakes.
+Q. Can the letter sequence "s     y     r     u     p" form a word?
+A.
+
+Tortoise.
+Q. Can the letter sequence "s     y     r     u     p" form a word?
+A.
+
+Teach.
+Q. Can the letter sequence "l     e     a     r     n" form a word?
+A.
+
+Chop.
+Q. Can the letter sequence "l     e     a     r     n" form a word?
+A.
+
+Major.
+Q. Can the letter sequence "m     i     n     o     r" form a word?
+A.
+
+Trail.
+Q. Can the letter sequence "m     i     n     o     r" form a word?
+A.
+
+When.
+Q. Can the letter sequence "w     h     e     r     e" form a word?
+A.
+
+Gross.
+Q. Can the letter sequence "w     h     e     r     e" form a word?
+A.
+
+Bow.
+Q. Can the letter sequence "a     r     r     o     w" form a word?
+A.
+
+Parade.
+Q. Can the letter sequence "a     r     r     o     w" form a word?
+A.
+
+Link.
+Q. Can the letter sequence "c     h     a     i     n" form a word?
+A.
+
+Elements.
+Q. Can the letter sequence "c     h     a     i     n" form a word?
+A.
+
+Reef.
+Q. Can the letter sequence "c     o     r     a     l" form a word?
+A.
+
+Snob.
+Q. Can the letter sequence "c     o     r     a     l" form a word?
+A.
+
+Transplant.
+Q. Can the letter sequence "h     e     a     r     t" form a word?
+A.
+
+Hostage.
+Q. Can the letter sequence "h     e     a     r     t" form a word?
+A.
+
+Trot.
+Q. Can the letter sequence "h     o     r     s     e" form a word?
+A.
+
+Eight.
+Q. Can the letter sequence "h     o     r     s     e" form a word?
+A.
+
+Left.
+Question: Can the letter sequence "r     i     g     h     t" form a word?
+Answer:
+
+Liquid.
+Question: Can the letter sequence "r     i     g     h     t" form a word?
+Answer:
+
+Pepperoni.
+Question: Can the letter sequence "p     i     z     z     a" form a word?
+Answer:
+
+Dangerous.
+Question: Can the letter sequence "p     i     z     z     a" form a word?
+Answer:
+
+Cobra.
+Question: Can the letter sequence "s     n     a     k     e" form a word?
+Answer:
+
+Chimpanzee.
+Question: Can the letter sequence "s     n     a     k     e" form a word?
+Answer:
+
+Giggle.
+Question: Can the letter sequence "l     a     u     g     h" form a word?
+Answer:
+
+Vocabulary.
+Question: Can the letter sequence "l     a     u     g     h" form a word?
+Answer:
+
+King.
+Question: Can the letter sequence "q     u     e     e     n" form a word?
+Answer:
+
+Breakfast.
+Question: Can the letter sequence "q     u     e     e     n" form a word?
+Answer:
+
+North.
+Question: Can the letter sequence "s     o     u     t     h" form a word?
+Answer:
+
+Cigar.
+Question: Can the letter sequence "s     o     u     t     h" form a word?
+Answer:
+
+Airport.
+Question: Can the letter sequence "p     l     a     n     e" form a word?
+Answer:
+
+Inhale.
+Question: Can the letter sequence "p     l     a     n     e" form a word?
+Answer:
+
+Lost.
+Question: Can the letter sequence "f     o     u     n     d" form a word?
+Answer:
+
+Pedal.
+Question: Can the letter sequence "f     o     u     n     d" form a word?
+Answer:
+
+Aunt.
+Question: Can the letter sequence "u     n     c     l     e" form a word?
+Answer:
+
+Cereal.
+Question: Can the letter sequence "u     n     c     l     e" form a word?
+Answer:
+
+Postage.
+Question: Can the letter sequence "s     t     a     m     p" form a word?
+Answer:
+
+Drunk.
+Question: Can the letter sequence "s     t     a     m     p" form a word?
+Answer:
+
+Nap.
+Question: Can the letter sequence "s     l     e     e     p" form a word?
+Answer:
+
+Farmer.
+Question: Can the letter sequence "s     l     e     e     p" form a word?
+Answer:
+
+Open.
+Question: Can the letter sequence "c     l     o     s     e" form a word?
+Answer:
+
+Information.
+Question: Can the letter sequence "c     l     o     s     e" form a word?
+Answer:
+
+Gums.
+Question: Can the letter sequence "t     e     e     t     h" form a word?
+Answer:
+
+Invent.
+Question: Can the letter sequence "t     e     e     t     h" form a word?
+Answer:
+
+Tall.
+Question: Can the letter sequence "s     h     o     r     t" form a word?
+Answer:
+
+Nickel.
+Question: Can the letter sequence "s     h     o     r     t" form a word?
+Answer:
+
+Intoxicated.
+Question: Can the letter sequence "d     r     u     n     k" form a word?
+Answer:
+
+Diminish.
+Question: Can the letter sequence "d     r     u     n     k" form a word?
+Answer:
+
+Plus.
+Question: Can the letter sequence "m     i     n     u     s" form a word?
+Answer:
+
+Ancestor.
+Question: Can the letter sequence "m     i     n     u     s" form a word?
+Answer:
+
+Globe.
+Question: Can the letter sequence "w     o     r     l     d" form a word?
+Answer:
+
+Softball.
+Question: Can the letter sequence "w     o     r     l     d" form a word?
+Answer:
+
+Blackboard.
+Question: Can the letter sequence "c     h     a     l     k" form a word?
+Answer:
+
+Orchid.
+Question: Can the letter sequence "c     h     a     l     k" form a word?
+Answer:
+
+Man.
+Question: Can the letter sequence "w     o     m     a     n" form a word?
+Answer:
+
+Grade.
+Question: Can the letter sequence "w     o     m     a     n" form a word?
+Answer:
+
+Celebration.
+Question: Can the letter sequence "p     a     r     t     y" form a word?
+Answer:
+
+Parsley.
+Question: Can the letter sequence "p     a     r     t     y" form a word?
+Answer:
+
+White.
+Question: Can the letter sequence "b     l     a     c     k" form a word?
+Answer:
+
+Selection.
+Question: Can the letter sequence "b     l     a     c     k" form a word?
+Answer:
+
+Socks.
+Question: Can the letter sequence "s     h     o     e     s" form a word?
+Answer:
+
+Friar.
+Question: Can the letter sequence "s     h     o     e     s" form a word?
+Answer:
+
+Ghoul.
+Question: Can the letter sequence "g     h     o     s     t" form a word?
+Answer:
+
+Otter.
+Question: Can the letter sequence "g     h     o     s     t" form a word?
+Answer:
+
+Blouse.
+Question: Can the letter sequence "s     h     i     r     t" form a word?
+Answer:
+
+Human.
+Question: Can the letter sequence "s     h     i     r     t" form a word?
+Answer:
+
+Slacks.
+Question: Can the letter sequence "p     a     n     t     s" form a word?
+Answer:
+
+Spree.
+Question: Can the letter sequence "p     a     n     t     s" form a word?
+Answer:
+
+Bulletin.
+Question: Can the letter sequence "b     o     a     r     d" form a word?
+Answer:
+
+Brittle.
+Question: Can the letter sequence "b     o     a     r     d" form a word?
+Answer:
+
+Vacate.
+Question: Can the letter sequence "l     e     a     v     e" form a word?
+Answer:
+
+Trot.
+Question: Can the letter sequence "l     e     a     v     e" form a word?
+Answer:
+
+Here.
+Question: Can the letter sequence "t     h     e     r     e" form a word?
+Answer:
+
+Security.
+Question: Can the letter sequence "t     h     e     r     e" form a word?
+Answer:
+
+Escargot.
+Question: Can the letter sequence "s     n     a     i     l" form a word?
+Answer:
+
+Happiness.
+Question: Can the letter sequence "s     n     a     i     l" form a word?
+Answer:
+
+Groom.
+Question: Can the letter sequence "b     r     i     d     e" form a word?
+Answer:
+
+Belong.
+Question: Can the letter sequence "b     r     i     d     e" form a word?
+Answer:
+
+Toss.
+Question: Can the letter sequence "t     h     r     o     w" form a word?
+Answer:
+
+Knight.
+Question: Can the letter sequence "t     h     r     o     w" form a word?
+Answer:
+
+Men.
+Question: Can the letter sequence "w     o     m     e     n" form a word?
+Answer:
+
+Suffocate.
+Question: Can the letter sequence "w     o     m     e     n" form a word?
+Answer:
+
+Sprain.
+Question: Can the letter sequence "a     n     k     l     e" form a word?
+Answer:
+
+Term.
+Question: Can the letter sequence "a     n     k     l     e" form a word?
+Answer:
+
+Winner.
+Question: Can the letter sequence "l     o     s     e     r" form a word?
+Answer:
+
+Vent.
+Question: Can the letter sequence "l     o     s     e     r" form a word?
+Answer:
+
+Circus.
+Question: Can the letter sequence "c     l     o     w     n" form a word?
+Answer:
+
+Medical.
+Question: Can the letter sequence "c     l     o     w     n" form a word?
+Answer:
+
+Jaws.
+Question: Can the letter sequence "s     h     a     r     k" form a word?
+Answer:
+
+Bouillon.
+Question: Can the letter sequence "s     h     a     r     k" form a word?
+Answer:
+
+Lime.
+Question: Can the letter sequence "l     e     m     o     n" form a word?
+Answer:
+
+Escape.
+Question: Can the letter sequence "l     e     m     o     n" form a word?
+Answer:
+
+Loose.
+Question: Can the letter sequence "t     i     g     h     t" form a word?
+Answer:
+
+Check.
+Question: Can the letter sequence "t     i     g     h     t" form a word?
+Answer:
+
+Above.
+Question: Can the letter sequence "b     e     l     o     w" form a word?
+Answer:
+
+Stamp.
+Question: Can the letter sequence "b     e     l     o     w" form a word?
+Answer:
+
+Stench.
+Question: Can the letter sequence "s     m     e     l     l" form a word?
+Answer:
+
+Attitude.
+Question: Can the letter sequence "s     m     e     l     l" form a word?
+Answer:
+
+Mine.
+Question: Can the letter sequence "y     o     u     r     s" form a word?
+Answer:
+
+Rules.
+Question: Can the letter sequence "y     o     u     r     s" form a word?
+Answer:
+
+Correct.
+Question: Can the letter sequence "w     r     o     n     g" form a word?
+Answer:
+
+Harvest.
+Question: Can the letter sequence "w     r     o     n     g" form a word?
+Answer:
+
+Demon.
+Question: Can the letter sequence "d     e     v     i     l" form a word?
+Answer:
+
+Almanac.
+Question: Can the letter sequence "d     e     v     i     l" form a word?
+Answer:
+
+Hue.
+Question: Can the letter sequence "c     o     l     o     r" form a word?
+Answer:
+
+Hanger.
+Question: Can the letter sequence "c     o     l     o     r" form a word?
+Answer:
+
+Minor.
+Question: Can the letter sequence "m     a     j     o     r" form a word?
+Answer:
+
+Fury.
+Question: Can the letter sequence "m     a     j     o     r" form a word?
+Answer:
+
+Best.
+Question: Can the letter sequence "w     o     r     s     t" form a word?
+Answer:
+
+Hydrogen.
+Question: Can the letter sequence "w     o     r     s     t" form a word?
+Answer:
+
+Ounce.
+Question: Can the letter sequence "p     o     u     n     d" form a word?
+Answer:
+
+Grief.
+Question: Can the letter sequence "p     o     u     n     d" form a word?
+Answer:
+
+Clean.
+Question: Can the letter sequence "d     i     r     t     y" form a word?
+Answer:
+
+Gymnastics.
+Question: Can the letter sequence "d     i     r     t     y" form a word?
+Answer:
+
+Astronaut.
+Question: Can the letter sequence "s     p     a     c     e" form a word?
+Answer:
+
+Fighter.
+Question: Can the letter sequence "s     p     a     c     e" form a word?
+Answer:
+
+Volcano.
+Question: Can the letter sequence "e     r     u     p     t" form a word?
+Answer:
+
+Mediocre.
+Question: Can the letter sequence "e     r     u     p     t" form a word?
+Answer:
+
+Marsh.
+Question: Can the letter sequence "s     w     a     m     p" form a word?
+Answer:
+
+Drugs.
+Question: Can the letter sequence "s     w     a     m     p" form a word?
+Answer:
+
+Knight.
+Question: Can the letter sequence "a     r     m     o     r" form a word?
+Answer:
+
+Week.
+Question: Can the letter sequence "a     r     m     o     r" form a word?
+Answer:
+
+Precise.
+Question: Can the letter sequence "e     x     a     c     t" form a word?
+Answer:
+
+Wear.
+Question: Can the letter sequence "e     x     a     c     t" form a word?
+Answer:
+
+Motionless.
+Question: Can the letter sequence "s     t     i     l     l" form a word?
+Answer:
+
+Flow.
+Question: Can the letter sequence "s     t     i     l     l" form a word?
+Answer:
+
+Goodbye.
+Question: Can the letter sequence "h     e     l     l     o" form a word?
+Answer:
+
+Male.
+Question: Can the letter sequence "h     e     l     l     o" form a word?
+Answer:
+
+Pocketbook.
+Question: Can the letter sequence "p     u     r     s     e" form a word?
+Answer:
+
+Grind.
+Question: Can the letter sequence "p     u     r     s     e" form a word?
+Answer:
+
+Actress.
+Question: Can the letter sequence "a     c     t     o     r" form a word?
+Answer:
+
+Coast.
+Question: Can the letter sequence "a     c     t     o     r" form a word?
+Answer:
+
+Cigar.
+Question: Can the letter sequence "s     m     o     k     e" form a word?
+Answer:
+
+Lane.
+Question: Can the letter sequence "s     m     o     k     e" form a word?
+Answer:
+
+Below.
+Question: Can the letter sequence "a     b     o     v     e" form a word?
+Answer:
+
+Postage.
+Question: Can the letter sequence "a     b     o     v     e" form a word?
+Answer:
+
+Untrue.
+Question: Can the letter sequence "f     a     l     s     e" form a word?
+Answer:
+
+Rung.
+Question: Can the letter sequence "f     a     l     s     e" form a word?
+Answer:
+
+Observe.
+Question: Can the letter sequence "w     a     t     c     h" form a word?
+Answer:
+
+Wasp.
+Question: Can the letter sequence "w     a     t     c     h" form a word?
+Answer:
+
+Oregano.
+Question: Can the letter sequence "s     p     i     c     e" form a word?
+Answer:
+
+Knock.
+Question: Can the letter sequence "s     p     i     c     e" form a word?
+Answer:
+
+Beneath.
+Question: Can the letter sequence "u     n     d     e     r" form a word?
+Answer:
+
+Tricycle.
+Question: Can the letter sequence "u     n     d     e     r" form a word?
+Answer:
+
+Crevice.
+Question: Can the letter sequence "c     r     a     c     k" form a word?
+Answer:
+
+Annoy.
+Question: Can the letter sequence "c     r     a     c     k" form a word?
+Answer:
+
+Debate.
+Question: Can the letter sequence "a     r     g     u     e" form a word?
+Answer:
+
+Treasure.
+Question: Can the letter sequence "a     r     g     u     e" form a word?
+Answer:
+
+Kid.
+Question: Can the letter sequence "c     h     i     l     d" form a word?
+Answer:
+
+Ruler.
+Question: Can the letter sequence "c     h     i     l     d" form a word?
+Answer:
+
+Late.
+Question: Can the letter sequence "e     a     r     l     y" form a word?
+Answer:
+
+Core.
+Question: Can the letter sequence "e     a     r     l     y" form a word?
+Answer:
+
+Gander.
+Question: Can the letter sequence "g     o     o     s     e" form a word?
+Answer:
+
+Crescent.
+Question: Can the letter sequence "g     o     o     s     e" form a word?
+Answer:
+
+Sea.
+Question: Can the letter sequence "o     c     e     a     n" form a word?
+Answer:
+
+Salute.
+Question: Can the letter sequence "o     c     e     a     n" form a word?
+Answer:
+
+Garbage.
+Question: Can the letter sequence "t     r     a     s     h" form a word?
+Answer:
+
+Chapter.
+Question: Can the letter sequence "t     r     a     s     h" form a word?
+Answer:
+
+Disgusting.
+Question: Can the letter sequence "g     r     o     s     s" form a word?
+Answer:
+
+Astrology.
+Question: Can the letter sequence "g     r     o     s     s" form a word?
+Answer:
+
+Dial.
+Question: Can the letter sequence "p     h     o     n     e" form a word?
+Answer:
+
+Husk.
+Question: Can the letter sequence "p     h     o     n     e" form a word?
+Answer:
+
+Sentry.
+Question: Can the letter sequence "g     u     a     r     d" form a word?
+Answer:
+
+Underground.
+Question: Can the letter sequence "g     u     a     r     d" form a word?
+Answer:
+
+Honey.
+Question: Can the letter sequence "s     w     e     e     t" form a word?
+Answer:
+
+Physician.
+Question: Can the letter sequence "s     w     e     e     t" form a word?
+Answer:
+
+Weed.
+Question: Can the letter sequence "g     r     a     s     s" form a word?
+Answer:
+
+Complain.
+Question: Can the letter sequence "g     r     a     s     s" form a word?
+Answer:
+
+Mustache.
+Question: Can the letter sequence "b     e     a     r     d" form a word?
+Answer:
+
+Weights.
+Question: Can the letter sequence "b     e     a     r     d" form a word?
+Answer:
+
+Guys.
+Question: Can the letter sequence "g     i     r     l     s" form a word?
+Answer:
+
+Reprimand.
+Question: Can the letter sequence "g     i     r     l     s" form a word?
+Answer:
+
+Dim.
+Question: Can the letter sequence "l     i     g     h     t" form a word?
+Answer:
+
+Adjourn.
+Question: Can the letter sequence "l     i     g     h     t" form a word?
+Answer:
+
+Fork.
+Question: Can the letter sequence "s     p     o     o     n" form a word?
+Answer:
+
+Point.
+Question: Can the letter sequence "s     p     o     o     n" form a word?
+Answer:
+
+Tight.
+Question: Can the letter sequence "l     o     o     s     e" form a word?
+Answer:
+
+Associate.
+Question: Can the letter sequence "l     o     o     s     e" form a word?
+Answer:
+
+Seed.
+Question: Can the letter sequence "p     l     a     n     t" form a word?
+Answer:
+
+Lightning.
+Question: Can the letter sequence "p     l     a     n     t" form a word?
+Answer:
+
+Six.
+Question: Can the letter sequence "s     e     v     e     n" form a word?
+Answer:
+
+Fade.
+Question: Can the letter sequence "s     e     v     e     n" form a word?
+Answer:
+
+Bleach.
+Question: Can the letter sequence "w     h     i     t     e" form a word?
+Answer:
+
+Launch.
+Question: Can the letter sequence "w     h     i     t     e" form a word?
+Answer:
+
+Sandpaper.
+Question: Can the letter sequence "r     o     u     g     h" form a word?
+Answer:
+
+Slander.
+Question: Can the letter sequence "r     o     u     g     h" form a word?
+Answer:
+
+Ballet.
+Question: Can the letter sequence "d     a     n     c     e" form a word?
+Answer:
+
+Merit.
+Question: Can the letter sequence "d     a     n     c     e" form a word?
+Answer:
+
+Dressing.
+Question: Can the letter sequence "s     a     l     a     d" form a word?
+Answer:
+
+Car.
+Question: Can the letter sequence "s     a     l     a     d" form a word?
+Answer:
+
+Appearance.
+Question: Can the letter sequence "l     o     o     k     s" form a word?
+Answer:
+
+Floor.
+Question: Can the letter sequence "l     o     o     k     s" form a word?
+Answer:
+
+Grocery.
+Question: Can the letter sequence "s     t     o     r     e" form a word?
+Answer:
+
+English.
+Question: Can the letter sequence "s     t     o     r     e" form a word?
+Answer:
+
+Shatter.
+Question: Can the letter sequence "b     r     e     a     k" form a word?
+Answer:
+
+Yearly.
+Question: Can the letter sequence "b     r     e     a     k" form a word?
+Answer:
+
+Components.
+Question: Can the letter sequence "p     a     r     t     s" form a word?
+Answer:
+
+Fox.
+Question: Can the letter sequence "p     a     r     t     s" form a word?
+Answer:
+
+Push.
+Question: Can the letter sequence "s     h     o     v     e" form a word?
+Answer:
+
+Kleenex.
+Question: Can the letter sequence "s     h     o     v     e" form a word?
+Answer:
+
+Pancakes.
+Question: Can the letter sequence "s     y     r     u     p" form a word?
+Answer:
+
+Tortoise.
+Question: Can the letter sequence "s     y     r     u     p" form a word?
+Answer:
+
+Teach.
+Question: Can the letter sequence "l     e     a     r     n" form a word?
+Answer:
+
+Chop.
+Question: Can the letter sequence "l     e     a     r     n" form a word?
+Answer:
+
+Major.
+Question: Can the letter sequence "m     i     n     o     r" form a word?
+Answer:
+
+Trail.
+Question: Can the letter sequence "m     i     n     o     r" form a word?
+Answer:
+
+When.
+Question: Can the letter sequence "w     h     e     r     e" form a word?
+Answer:
+
+Gross.
+Question: Can the letter sequence "w     h     e     r     e" form a word?
+Answer:
+
+Bow.
+Question: Can the letter sequence "a     r     r     o     w" form a word?
+Answer:
+
+Parade.
+Question: Can the letter sequence "a     r     r     o     w" form a word?
+Answer:
+
+Link.
+Question: Can the letter sequence "c     h     a     i     n" form a word?
+Answer:
+
+Elements.
+Question: Can the letter sequence "c     h     a     i     n" form a word?
+Answer:
+
+Reef.
+Question: Can the letter sequence "c     o     r     a     l" form a word?
+Answer:
+
+Snob.
+Question: Can the letter sequence "c     o     r     a     l" form a word?
+Answer:
+
+Transplant.
+Question: Can the letter sequence "h     e     a     r     t" form a word?
+Answer:
+
+Hostage.
+Question: Can the letter sequence "h     e     a     r     t" form a word?
+Answer:
+
+Trot.
+Question: Can the letter sequence "h     o     r     s     e" form a word?
+Answer:
+
+Eight.
+Question: Can the letter sequence "h     o     r     s     e" form a word?
+Answer:
+
+Left.
+Question) Can the letter sequence "r     i     g     h     t" form a word?
+Answer)
+
+Liquid.
+Question) Can the letter sequence "r     i     g     h     t" form a word?
+Answer)
+
+Pepperoni.
+Question) Can the letter sequence "p     i     z     z     a" form a word?
+Answer)
+
+Dangerous.
+Question) Can the letter sequence "p     i     z     z     a" form a word?
+Answer)
+
+Cobra.
+Question) Can the letter sequence "s     n     a     k     e" form a word?
+Answer)
+
+Chimpanzee.
+Question) Can the letter sequence "s     n     a     k     e" form a word?
+Answer)
+
+Giggle.
+Question) Can the letter sequence "l     a     u     g     h" form a word?
+Answer)
+
+Vocabulary.
+Question) Can the letter sequence "l     a     u     g     h" form a word?
+Answer)
+
+King.
+Question) Can the letter sequence "q     u     e     e     n" form a word?
+Answer)
+
+Breakfast.
+Question) Can the letter sequence "q     u     e     e     n" form a word?
+Answer)
+
+North.
+Question) Can the letter sequence "s     o     u     t     h" form a word?
+Answer)
+
+Cigar.
+Question) Can the letter sequence "s     o     u     t     h" form a word?
+Answer)
+
+Airport.
+Question) Can the letter sequence "p     l     a     n     e" form a word?
+Answer)
+
+Inhale.
+Question) Can the letter sequence "p     l     a     n     e" form a word?
+Answer)
+
+Lost.
+Question) Can the letter sequence "f     o     u     n     d" form a word?
+Answer)
+
+Pedal.
+Question) Can the letter sequence "f     o     u     n     d" form a word?
+Answer)
+
+Aunt.
+Question) Can the letter sequence "u     n     c     l     e" form a word?
+Answer)
+
+Cereal.
+Question) Can the letter sequence "u     n     c     l     e" form a word?
+Answer)
+
+Postage.
+Question) Can the letter sequence "s     t     a     m     p" form a word?
+Answer)
+
+Drunk.
+Question) Can the letter sequence "s     t     a     m     p" form a word?
+Answer)
+
+Nap.
+Question) Can the letter sequence "s     l     e     e     p" form a word?
+Answer)
+
+Farmer.
+Question) Can the letter sequence "s     l     e     e     p" form a word?
+Answer)
+
+Open.
+Question) Can the letter sequence "c     l     o     s     e" form a word?
+Answer)
+
+Information.
+Question) Can the letter sequence "c     l     o     s     e" form a word?
+Answer)
+
+Gums.
+Question) Can the letter sequence "t     e     e     t     h" form a word?
+Answer)
+
+Invent.
+Question) Can the letter sequence "t     e     e     t     h" form a word?
+Answer)
+
+Tall.
+Question) Can the letter sequence "s     h     o     r     t" form a word?
+Answer)
+
+Nickel.
+Question) Can the letter sequence "s     h     o     r     t" form a word?
+Answer)
+
+Intoxicated.
+Question) Can the letter sequence "d     r     u     n     k" form a word?
+Answer)
+
+Diminish.
+Question) Can the letter sequence "d     r     u     n     k" form a word?
+Answer)
+
+Plus.
+Question) Can the letter sequence "m     i     n     u     s" form a word?
+Answer)
+
+Ancestor.
+Question) Can the letter sequence "m     i     n     u     s" form a word?
+Answer)
+
+Globe.
+Question) Can the letter sequence "w     o     r     l     d" form a word?
+Answer)
+
+Softball.
+Question) Can the letter sequence "w     o     r     l     d" form a word?
+Answer)
+
+Blackboard.
+Question) Can the letter sequence "c     h     a     l     k" form a word?
+Answer)
+
+Orchid.
+Question) Can the letter sequence "c     h     a     l     k" form a word?
+Answer)
+
+Man.
+Question) Can the letter sequence "w     o     m     a     n" form a word?
+Answer)
+
+Grade.
+Question) Can the letter sequence "w     o     m     a     n" form a word?
+Answer)
+
+Celebration.
+Question) Can the letter sequence "p     a     r     t     y" form a word?
+Answer)
+
+Parsley.
+Question) Can the letter sequence "p     a     r     t     y" form a word?
+Answer)
+
+White.
+Question) Can the letter sequence "b     l     a     c     k" form a word?
+Answer)
+
+Selection.
+Question) Can the letter sequence "b     l     a     c     k" form a word?
+Answer)
+
+Socks.
+Question) Can the letter sequence "s     h     o     e     s" form a word?
+Answer)
+
+Friar.
+Question) Can the letter sequence "s     h     o     e     s" form a word?
+Answer)
+
+Ghoul.
+Question) Can the letter sequence "g     h     o     s     t" form a word?
+Answer)
+
+Otter.
+Question) Can the letter sequence "g     h     o     s     t" form a word?
+Answer)
+
+Blouse.
+Question) Can the letter sequence "s     h     i     r     t" form a word?
+Answer)
+
+Human.
+Question) Can the letter sequence "s     h     i     r     t" form a word?
+Answer)
+
+Slacks.
+Question) Can the letter sequence "p     a     n     t     s" form a word?
+Answer)
+
+Spree.
+Question) Can the letter sequence "p     a     n     t     s" form a word?
+Answer)
+
+Bulletin.
+Question) Can the letter sequence "b     o     a     r     d" form a word?
+Answer)
+
+Brittle.
+Question) Can the letter sequence "b     o     a     r     d" form a word?
+Answer)
+
+Vacate.
+Question) Can the letter sequence "l     e     a     v     e" form a word?
+Answer)
+
+Trot.
+Question) Can the letter sequence "l     e     a     v     e" form a word?
+Answer)
+
+Here.
+Question) Can the letter sequence "t     h     e     r     e" form a word?
+Answer)
+
+Security.
+Question) Can the letter sequence "t     h     e     r     e" form a word?
+Answer)
+
+Escargot.
+Question) Can the letter sequence "s     n     a     i     l" form a word?
+Answer)
+
+Happiness.
+Question) Can the letter sequence "s     n     a     i     l" form a word?
+Answer)
+
+Groom.
+Question) Can the letter sequence "b     r     i     d     e" form a word?
+Answer)
+
+Belong.
+Question) Can the letter sequence "b     r     i     d     e" form a word?
+Answer)
+
+Toss.
+Question) Can the letter sequence "t     h     r     o     w" form a word?
+Answer)
+
+Knight.
+Question) Can the letter sequence "t     h     r     o     w" form a word?
+Answer)
+
+Men.
+Question) Can the letter sequence "w     o     m     e     n" form a word?
+Answer)
+
+Suffocate.
+Question) Can the letter sequence "w     o     m     e     n" form a word?
+Answer)
+
+Sprain.
+Question) Can the letter sequence "a     n     k     l     e" form a word?
+Answer)
+
+Term.
+Question) Can the letter sequence "a     n     k     l     e" form a word?
+Answer)
+
+Winner.
+Question) Can the letter sequence "l     o     s     e     r" form a word?
+Answer)
+
+Vent.
+Question) Can the letter sequence "l     o     s     e     r" form a word?
+Answer)
+
+Circus.
+Question) Can the letter sequence "c     l     o     w     n" form a word?
+Answer)
+
+Medical.
+Question) Can the letter sequence "c     l     o     w     n" form a word?
+Answer)
+
+Jaws.
+Question) Can the letter sequence "s     h     a     r     k" form a word?
+Answer)
+
+Bouillon.
+Question) Can the letter sequence "s     h     a     r     k" form a word?
+Answer)
+
+Lime.
+Question) Can the letter sequence "l     e     m     o     n" form a word?
+Answer)
+
+Escape.
+Question) Can the letter sequence "l     e     m     o     n" form a word?
+Answer)
+
+Loose.
+Question) Can the letter sequence "t     i     g     h     t" form a word?
+Answer)
+
+Check.
+Question) Can the letter sequence "t     i     g     h     t" form a word?
+Answer)
+
+Above.
+Question) Can the letter sequence "b     e     l     o     w" form a word?
+Answer)
+
+Stamp.
+Question) Can the letter sequence "b     e     l     o     w" form a word?
+Answer)
+
+Stench.
+Question) Can the letter sequence "s     m     e     l     l" form a word?
+Answer)
+
+Attitude.
+Question) Can the letter sequence "s     m     e     l     l" form a word?
+Answer)
+
+Mine.
+Question) Can the letter sequence "y     o     u     r     s" form a word?
+Answer)
+
+Rules.
+Question) Can the letter sequence "y     o     u     r     s" form a word?
+Answer)
+
+Correct.
+Question) Can the letter sequence "w     r     o     n     g" form a word?
+Answer)
+
+Harvest.
+Question) Can the letter sequence "w     r     o     n     g" form a word?
+Answer)
+
+Demon.
+Question) Can the letter sequence "d     e     v     i     l" form a word?
+Answer)
+
+Almanac.
+Question) Can the letter sequence "d     e     v     i     l" form a word?
+Answer)
+
+Hue.
+Question) Can the letter sequence "c     o     l     o     r" form a word?
+Answer)
+
+Hanger.
+Question) Can the letter sequence "c     o     l     o     r" form a word?
+Answer)
+
+Minor.
+Question) Can the letter sequence "m     a     j     o     r" form a word?
+Answer)
+
+Fury.
+Question) Can the letter sequence "m     a     j     o     r" form a word?
+Answer)
+
+Best.
+Question) Can the letter sequence "w     o     r     s     t" form a word?
+Answer)
+
+Hydrogen.
+Question) Can the letter sequence "w     o     r     s     t" form a word?
+Answer)
+
+Ounce.
+Question) Can the letter sequence "p     o     u     n     d" form a word?
+Answer)
+
+Grief.
+Question) Can the letter sequence "p     o     u     n     d" form a word?
+Answer)
+
+Clean.
+Question) Can the letter sequence "d     i     r     t     y" form a word?
+Answer)
+
+Gymnastics.
+Question) Can the letter sequence "d     i     r     t     y" form a word?
+Answer)
+
+Astronaut.
+Question) Can the letter sequence "s     p     a     c     e" form a word?
+Answer)
+
+Fighter.
+Question) Can the letter sequence "s     p     a     c     e" form a word?
+Answer)
+
+Volcano.
+Question) Can the letter sequence "e     r     u     p     t" form a word?
+Answer)
+
+Mediocre.
+Question) Can the letter sequence "e     r     u     p     t" form a word?
+Answer)
+
+Marsh.
+Question) Can the letter sequence "s     w     a     m     p" form a word?
+Answer)
+
+Drugs.
+Question) Can the letter sequence "s     w     a     m     p" form a word?
+Answer)
+
+Knight.
+Question) Can the letter sequence "a     r     m     o     r" form a word?
+Answer)
+
+Week.
+Question) Can the letter sequence "a     r     m     o     r" form a word?
+Answer)
+
+Precise.
+Question) Can the letter sequence "e     x     a     c     t" form a word?
+Answer)
+
+Wear.
+Question) Can the letter sequence "e     x     a     c     t" form a word?
+Answer)
+
+Motionless.
+Question) Can the letter sequence "s     t     i     l     l" form a word?
+Answer)
+
+Flow.
+Question) Can the letter sequence "s     t     i     l     l" form a word?
+Answer)
+
+Goodbye.
+Question) Can the letter sequence "h     e     l     l     o" form a word?
+Answer)
+
+Male.
+Question) Can the letter sequence "h     e     l     l     o" form a word?
+Answer)
+
+Pocketbook.
+Question) Can the letter sequence "p     u     r     s     e" form a word?
+Answer)
+
+Grind.
+Question) Can the letter sequence "p     u     r     s     e" form a word?
+Answer)
+
+Actress.
+Question) Can the letter sequence "a     c     t     o     r" form a word?
+Answer)
+
+Coast.
+Question) Can the letter sequence "a     c     t     o     r" form a word?
+Answer)
+
+Cigar.
+Question) Can the letter sequence "s     m     o     k     e" form a word?
+Answer)
+
+Lane.
+Question) Can the letter sequence "s     m     o     k     e" form a word?
+Answer)
+
+Below.
+Question) Can the letter sequence "a     b     o     v     e" form a word?
+Answer)
+
+Postage.
+Question) Can the letter sequence "a     b     o     v     e" form a word?
+Answer)
+
+Untrue.
+Question) Can the letter sequence "f     a     l     s     e" form a word?
+Answer)
+
+Rung.
+Question) Can the letter sequence "f     a     l     s     e" form a word?
+Answer)
+
+Observe.
+Question) Can the letter sequence "w     a     t     c     h" form a word?
+Answer)
+
+Wasp.
+Question) Can the letter sequence "w     a     t     c     h" form a word?
+Answer)
+
+Oregano.
+Question) Can the letter sequence "s     p     i     c     e" form a word?
+Answer)
+
+Knock.
+Question) Can the letter sequence "s     p     i     c     e" form a word?
+Answer)
+
+Beneath.
+Question) Can the letter sequence "u     n     d     e     r" form a word?
+Answer)
+
+Tricycle.
+Question) Can the letter sequence "u     n     d     e     r" form a word?
+Answer)
+
+Crevice.
+Question) Can the letter sequence "c     r     a     c     k" form a word?
+Answer)
+
+Annoy.
+Question) Can the letter sequence "c     r     a     c     k" form a word?
+Answer)
+
+Debate.
+Question) Can the letter sequence "a     r     g     u     e" form a word?
+Answer)
+
+Treasure.
+Question) Can the letter sequence "a     r     g     u     e" form a word?
+Answer)
+
+Kid.
+Question) Can the letter sequence "c     h     i     l     d" form a word?
+Answer)
+
+Ruler.
+Question) Can the letter sequence "c     h     i     l     d" form a word?
+Answer)
+
+Late.
+Question) Can the letter sequence "e     a     r     l     y" form a word?
+Answer)
+
+Core.
+Question) Can the letter sequence "e     a     r     l     y" form a word?
+Answer)
+
+Gander.
+Question) Can the letter sequence "g     o     o     s     e" form a word?
+Answer)
+
+Crescent.
+Question) Can the letter sequence "g     o     o     s     e" form a word?
+Answer)
+
+Sea.
+Question) Can the letter sequence "o     c     e     a     n" form a word?
+Answer)
+
+Salute.
+Question) Can the letter sequence "o     c     e     a     n" form a word?
+Answer)
+
+Garbage.
+Question) Can the letter sequence "t     r     a     s     h" form a word?
+Answer)
+
+Chapter.
+Question) Can the letter sequence "t     r     a     s     h" form a word?
+Answer)
+
+Disgusting.
+Question) Can the letter sequence "g     r     o     s     s" form a word?
+Answer)
+
+Astrology.
+Question) Can the letter sequence "g     r     o     s     s" form a word?
+Answer)
+
+Dial.
+Question) Can the letter sequence "p     h     o     n     e" form a word?
+Answer)
+
+Husk.
+Question) Can the letter sequence "p     h     o     n     e" form a word?
+Answer)
+
+Sentry.
+Question) Can the letter sequence "g     u     a     r     d" form a word?
+Answer)
+
+Underground.
+Question) Can the letter sequence "g     u     a     r     d" form a word?
+Answer)
+
+Honey.
+Question) Can the letter sequence "s     w     e     e     t" form a word?
+Answer)
+
+Physician.
+Question) Can the letter sequence "s     w     e     e     t" form a word?
+Answer)
+
+Weed.
+Question) Can the letter sequence "g     r     a     s     s" form a word?
+Answer)
+
+Complain.
+Question) Can the letter sequence "g     r     a     s     s" form a word?
+Answer)
+
+Mustache.
+Question) Can the letter sequence "b     e     a     r     d" form a word?
+Answer)
+
+Weights.
+Question) Can the letter sequence "b     e     a     r     d" form a word?
+Answer)
+
+Guys.
+Question) Can the letter sequence "g     i     r     l     s" form a word?
+Answer)
+
+Reprimand.
+Question) Can the letter sequence "g     i     r     l     s" form a word?
+Answer)
+
+Dim.
+Question) Can the letter sequence "l     i     g     h     t" form a word?
+Answer)
+
+Adjourn.
+Question) Can the letter sequence "l     i     g     h     t" form a word?
+Answer)
+
+Fork.
+Question) Can the letter sequence "s     p     o     o     n" form a word?
+Answer)
+
+Point.
+Question) Can the letter sequence "s     p     o     o     n" form a word?
+Answer)
+
+Tight.
+Question) Can the letter sequence "l     o     o     s     e" form a word?
+Answer)
+
+Associate.
+Question) Can the letter sequence "l     o     o     s     e" form a word?
+Answer)
+
+Seed.
+Question) Can the letter sequence "p     l     a     n     t" form a word?
+Answer)
+
+Lightning.
+Question) Can the letter sequence "p     l     a     n     t" form a word?
+Answer)
+
+Six.
+Question) Can the letter sequence "s     e     v     e     n" form a word?
+Answer)
+
+Fade.
+Question) Can the letter sequence "s     e     v     e     n" form a word?
+Answer)
+
+Bleach.
+Question) Can the letter sequence "w     h     i     t     e" form a word?
+Answer)
+
+Launch.
+Question) Can the letter sequence "w     h     i     t     e" form a word?
+Answer)
+
+Sandpaper.
+Question) Can the letter sequence "r     o     u     g     h" form a word?
+Answer)
+
+Slander.
+Question) Can the letter sequence "r     o     u     g     h" form a word?
+Answer)
+
+Ballet.
+Question) Can the letter sequence "d     a     n     c     e" form a word?
+Answer)
+
+Merit.
+Question) Can the letter sequence "d     a     n     c     e" form a word?
+Answer)
+
+Dressing.
+Question) Can the letter sequence "s     a     l     a     d" form a word?
+Answer)
+
+Car.
+Question) Can the letter sequence "s     a     l     a     d" form a word?
+Answer)
+
+Appearance.
+Question) Can the letter sequence "l     o     o     k     s" form a word?
+Answer)
+
+Floor.
+Question) Can the letter sequence "l     o     o     k     s" form a word?
+Answer)
+
+Grocery.
+Question) Can the letter sequence "s     t     o     r     e" form a word?
+Answer)
+
+English.
+Question) Can the letter sequence "s     t     o     r     e" form a word?
+Answer)
+
+Shatter.
+Question) Can the letter sequence "b     r     e     a     k" form a word?
+Answer)
+
+Yearly.
+Question) Can the letter sequence "b     r     e     a     k" form a word?
+Answer)
+
+Components.
+Question) Can the letter sequence "p     a     r     t     s" form a word?
+Answer)
+
+Fox.
+Question) Can the letter sequence "p     a     r     t     s" form a word?
+Answer)
+
+Push.
+Question) Can the letter sequence "s     h     o     v     e" form a word?
+Answer)
+
+Kleenex.
+Question) Can the letter sequence "s     h     o     v     e" form a word?
+Answer)
+
+Pancakes.
+Question) Can the letter sequence "s     y     r     u     p" form a word?
+Answer)
+
+Tortoise.
+Question) Can the letter sequence "s     y     r     u     p" form a word?
+Answer)
+
+Teach.
+Question) Can the letter sequence "l     e     a     r     n" form a word?
+Answer)
+
+Chop.
+Question) Can the letter sequence "l     e     a     r     n" form a word?
+Answer)
+
+Major.
+Question) Can the letter sequence "m     i     n     o     r" form a word?
+Answer)
+
+Trail.
+Question) Can the letter sequence "m     i     n     o     r" form a word?
+Answer)
+
+When.
+Question) Can the letter sequence "w     h     e     r     e" form a word?
+Answer)
+
+Gross.
+Question) Can the letter sequence "w     h     e     r     e" form a word?
+Answer)
+
+Bow.
+Question) Can the letter sequence "a     r     r     o     w" form a word?
+Answer)
+
+Parade.
+Question) Can the letter sequence "a     r     r     o     w" form a word?
+Answer)
+
+Link.
+Question) Can the letter sequence "c     h     a     i     n" form a word?
+Answer)
+
+Elements.
+Question) Can the letter sequence "c     h     a     i     n" form a word?
+Answer)
+
+Reef.
+Question) Can the letter sequence "c     o     r     a     l" form a word?
+Answer)
+
+Snob.
+Question) Can the letter sequence "c     o     r     a     l" form a word?
+Answer)
+
+Transplant.
+Question) Can the letter sequence "h     e     a     r     t" form a word?
+Answer)
+
+Hostage.
+Question) Can the letter sequence "h     e     a     r     t" form a word?
+Answer)
+
+Trot.
+Question) Can the letter sequence "h     o     r     s     e" form a word?
+Answer)
+
+Eight.
+Question) Can the letter sequence "h     o     r     s     e" form a word?
+Answer)
+
+Left.
+Question. Can the letter sequence "r     i     g     h     t" form a word?
+Answer.
+
+Liquid.
+Question. Can the letter sequence "r     i     g     h     t" form a word?
+Answer.
+
+Pepperoni.
+Question. Can the letter sequence "p     i     z     z     a" form a word?
+Answer.
+
+Dangerous.
+Question. Can the letter sequence "p     i     z     z     a" form a word?
+Answer.
+
+Cobra.
+Question. Can the letter sequence "s     n     a     k     e" form a word?
+Answer.
+
+Chimpanzee.
+Question. Can the letter sequence "s     n     a     k     e" form a word?
+Answer.
+
+Giggle.
+Question. Can the letter sequence "l     a     u     g     h" form a word?
+Answer.
+
+Vocabulary.
+Question. Can the letter sequence "l     a     u     g     h" form a word?
+Answer.
+
+King.
+Question. Can the letter sequence "q     u     e     e     n" form a word?
+Answer.
+
+Breakfast.
+Question. Can the letter sequence "q     u     e     e     n" form a word?
+Answer.
+
+North.
+Question. Can the letter sequence "s     o     u     t     h" form a word?
+Answer.
+
+Cigar.
+Question. Can the letter sequence "s     o     u     t     h" form a word?
+Answer.
+
+Airport.
+Question. Can the letter sequence "p     l     a     n     e" form a word?
+Answer.
+
+Inhale.
+Question. Can the letter sequence "p     l     a     n     e" form a word?
+Answer.
+
+Lost.
+Question. Can the letter sequence "f     o     u     n     d" form a word?
+Answer.
+
+Pedal.
+Question. Can the letter sequence "f     o     u     n     d" form a word?
+Answer.
+
+Aunt.
+Question. Can the letter sequence "u     n     c     l     e" form a word?
+Answer.
+
+Cereal.
+Question. Can the letter sequence "u     n     c     l     e" form a word?
+Answer.
+
+Postage.
+Question. Can the letter sequence "s     t     a     m     p" form a word?
+Answer.
+
+Drunk.
+Question. Can the letter sequence "s     t     a     m     p" form a word?
+Answer.
+
+Nap.
+Question. Can the letter sequence "s     l     e     e     p" form a word?
+Answer.
+
+Farmer.
+Question. Can the letter sequence "s     l     e     e     p" form a word?
+Answer.
+
+Open.
+Question. Can the letter sequence "c     l     o     s     e" form a word?
+Answer.
+
+Information.
+Question. Can the letter sequence "c     l     o     s     e" form a word?
+Answer.
+
+Gums.
+Question. Can the letter sequence "t     e     e     t     h" form a word?
+Answer.
+
+Invent.
+Question. Can the letter sequence "t     e     e     t     h" form a word?
+Answer.
+
+Tall.
+Question. Can the letter sequence "s     h     o     r     t" form a word?
+Answer.
+
+Nickel.
+Question. Can the letter sequence "s     h     o     r     t" form a word?
+Answer.
+
+Intoxicated.
+Question. Can the letter sequence "d     r     u     n     k" form a word?
+Answer.
+
+Diminish.
+Question. Can the letter sequence "d     r     u     n     k" form a word?
+Answer.
+
+Plus.
+Question. Can the letter sequence "m     i     n     u     s" form a word?
+Answer.
+
+Ancestor.
+Question. Can the letter sequence "m     i     n     u     s" form a word?
+Answer.
+
+Globe.
+Question. Can the letter sequence "w     o     r     l     d" form a word?
+Answer.
+
+Softball.
+Question. Can the letter sequence "w     o     r     l     d" form a word?
+Answer.
+
+Blackboard.
+Question. Can the letter sequence "c     h     a     l     k" form a word?
+Answer.
+
+Orchid.
+Question. Can the letter sequence "c     h     a     l     k" form a word?
+Answer.
+
+Man.
+Question. Can the letter sequence "w     o     m     a     n" form a word?
+Answer.
+
+Grade.
+Question. Can the letter sequence "w     o     m     a     n" form a word?
+Answer.
+
+Celebration.
+Question. Can the letter sequence "p     a     r     t     y" form a word?
+Answer.
+
+Parsley.
+Question. Can the letter sequence "p     a     r     t     y" form a word?
+Answer.
+
+White.
+Question. Can the letter sequence "b     l     a     c     k" form a word?
+Answer.
+
+Selection.
+Question. Can the letter sequence "b     l     a     c     k" form a word?
+Answer.
+
+Socks.
+Question. Can the letter sequence "s     h     o     e     s" form a word?
+Answer.
+
+Friar.
+Question. Can the letter sequence "s     h     o     e     s" form a word?
+Answer.
+
+Ghoul.
+Question. Can the letter sequence "g     h     o     s     t" form a word?
+Answer.
+
+Otter.
+Question. Can the letter sequence "g     h     o     s     t" form a word?
+Answer.
+
+Blouse.
+Question. Can the letter sequence "s     h     i     r     t" form a word?
+Answer.
+
+Human.
+Question. Can the letter sequence "s     h     i     r     t" form a word?
+Answer.
+
+Slacks.
+Question. Can the letter sequence "p     a     n     t     s" form a word?
+Answer.
+
+Spree.
+Question. Can the letter sequence "p     a     n     t     s" form a word?
+Answer.
+
+Bulletin.
+Question. Can the letter sequence "b     o     a     r     d" form a word?
+Answer.
+
+Brittle.
+Question. Can the letter sequence "b     o     a     r     d" form a word?
+Answer.
+
+Vacate.
+Question. Can the letter sequence "l     e     a     v     e" form a word?
+Answer.
+
+Trot.
+Question. Can the letter sequence "l     e     a     v     e" form a word?
+Answer.
+
+Here.
+Question. Can the letter sequence "t     h     e     r     e" form a word?
+Answer.
+
+Security.
+Question. Can the letter sequence "t     h     e     r     e" form a word?
+Answer.
+
+Escargot.
+Question. Can the letter sequence "s     n     a     i     l" form a word?
+Answer.
+
+Happiness.
+Question. Can the letter sequence "s     n     a     i     l" form a word?
+Answer.
+
+Groom.
+Question. Can the letter sequence "b     r     i     d     e" form a word?
+Answer.
+
+Belong.
+Question. Can the letter sequence "b     r     i     d     e" form a word?
+Answer.
+
+Toss.
+Question. Can the letter sequence "t     h     r     o     w" form a word?
+Answer.
+
+Knight.
+Question. Can the letter sequence "t     h     r     o     w" form a word?
+Answer.
+
+Men.
+Question. Can the letter sequence "w     o     m     e     n" form a word?
+Answer.
+
+Suffocate.
+Question. Can the letter sequence "w     o     m     e     n" form a word?
+Answer.
+
+Sprain.
+Question. Can the letter sequence "a     n     k     l     e" form a word?
+Answer.
+
+Term.
+Question. Can the letter sequence "a     n     k     l     e" form a word?
+Answer.
+
+Winner.
+Question. Can the letter sequence "l     o     s     e     r" form a word?
+Answer.
+
+Vent.
+Question. Can the letter sequence "l     o     s     e     r" form a word?
+Answer.
+
+Circus.
+Question. Can the letter sequence "c     l     o     w     n" form a word?
+Answer.
+
+Medical.
+Question. Can the letter sequence "c     l     o     w     n" form a word?
+Answer.
+
+Jaws.
+Question. Can the letter sequence "s     h     a     r     k" form a word?
+Answer.
+
+Bouillon.
+Question. Can the letter sequence "s     h     a     r     k" form a word?
+Answer.
+
+Lime.
+Question. Can the letter sequence "l     e     m     o     n" form a word?
+Answer.
+
+Escape.
+Question. Can the letter sequence "l     e     m     o     n" form a word?
+Answer.
+
+Loose.
+Question. Can the letter sequence "t     i     g     h     t" form a word?
+Answer.
+
+Check.
+Question. Can the letter sequence "t     i     g     h     t" form a word?
+Answer.
+
+Above.
+Question. Can the letter sequence "b     e     l     o     w" form a word?
+Answer.
+
+Stamp.
+Question. Can the letter sequence "b     e     l     o     w" form a word?
+Answer.
+
+Stench.
+Question. Can the letter sequence "s     m     e     l     l" form a word?
+Answer.
+
+Attitude.
+Question. Can the letter sequence "s     m     e     l     l" form a word?
+Answer.
+
+Mine.
+Question. Can the letter sequence "y     o     u     r     s" form a word?
+Answer.
+
+Rules.
+Question. Can the letter sequence "y     o     u     r     s" form a word?
+Answer.
+
+Correct.
+Question. Can the letter sequence "w     r     o     n     g" form a word?
+Answer.
+
+Harvest.
+Question. Can the letter sequence "w     r     o     n     g" form a word?
+Answer.
+
+Demon.
+Question. Can the letter sequence "d     e     v     i     l" form a word?
+Answer.
+
+Almanac.
+Question. Can the letter sequence "d     e     v     i     l" form a word?
+Answer.
+
+Hue.
+Question. Can the letter sequence "c     o     l     o     r" form a word?
+Answer.
+
+Hanger.
+Question. Can the letter sequence "c     o     l     o     r" form a word?
+Answer.
+
+Minor.
+Question. Can the letter sequence "m     a     j     o     r" form a word?
+Answer.
+
+Fury.
+Question. Can the letter sequence "m     a     j     o     r" form a word?
+Answer.
+
+Best.
+Question. Can the letter sequence "w     o     r     s     t" form a word?
+Answer.
+
+Hydrogen.
+Question. Can the letter sequence "w     o     r     s     t" form a word?
+Answer.
+
+Ounce.
+Question. Can the letter sequence "p     o     u     n     d" form a word?
+Answer.
+
+Grief.
+Question. Can the letter sequence "p     o     u     n     d" form a word?
+Answer.
+
+Clean.
+Question. Can the letter sequence "d     i     r     t     y" form a word?
+Answer.
+
+Gymnastics.
+Question. Can the letter sequence "d     i     r     t     y" form a word?
+Answer.
+
+Astronaut.
+Question. Can the letter sequence "s     p     a     c     e" form a word?
+Answer.
+
+Fighter.
+Question. Can the letter sequence "s     p     a     c     e" form a word?
+Answer.
+
+Volcano.
+Question. Can the letter sequence "e     r     u     p     t" form a word?
+Answer.
+
+Mediocre.
+Question. Can the letter sequence "e     r     u     p     t" form a word?
+Answer.
+
+Marsh.
+Question. Can the letter sequence "s     w     a     m     p" form a word?
+Answer.
+
+Drugs.
+Question. Can the letter sequence "s     w     a     m     p" form a word?
+Answer.
+
+Knight.
+Question. Can the letter sequence "a     r     m     o     r" form a word?
+Answer.
+
+Week.
+Question. Can the letter sequence "a     r     m     o     r" form a word?
+Answer.
+
+Precise.
+Question. Can the letter sequence "e     x     a     c     t" form a word?
+Answer.
+
+Wear.
+Question. Can the letter sequence "e     x     a     c     t" form a word?
+Answer.
+
+Motionless.
+Question. Can the letter sequence "s     t     i     l     l" form a word?
+Answer.
+
+Flow.
+Question. Can the letter sequence "s     t     i     l     l" form a word?
+Answer.
+
+Goodbye.
+Question. Can the letter sequence "h     e     l     l     o" form a word?
+Answer.
+
+Male.
+Question. Can the letter sequence "h     e     l     l     o" form a word?
+Answer.
+
+Pocketbook.
+Question. Can the letter sequence "p     u     r     s     e" form a word?
+Answer.
+
+Grind.
+Question. Can the letter sequence "p     u     r     s     e" form a word?
+Answer.
+
+Actress.
+Question. Can the letter sequence "a     c     t     o     r" form a word?
+Answer.
+
+Coast.
+Question. Can the letter sequence "a     c     t     o     r" form a word?
+Answer.
+
+Cigar.
+Question. Can the letter sequence "s     m     o     k     e" form a word?
+Answer.
+
+Lane.
+Question. Can the letter sequence "s     m     o     k     e" form a word?
+Answer.
+
+Below.
+Question. Can the letter sequence "a     b     o     v     e" form a word?
+Answer.
+
+Postage.
+Question. Can the letter sequence "a     b     o     v     e" form a word?
+Answer.
+
+Untrue.
+Question. Can the letter sequence "f     a     l     s     e" form a word?
+Answer.
+
+Rung.
+Question. Can the letter sequence "f     a     l     s     e" form a word?
+Answer.
+
+Observe.
+Question. Can the letter sequence "w     a     t     c     h" form a word?
+Answer.
+
+Wasp.
+Question. Can the letter sequence "w     a     t     c     h" form a word?
+Answer.
+
+Oregano.
+Question. Can the letter sequence "s     p     i     c     e" form a word?
+Answer.
+
+Knock.
+Question. Can the letter sequence "s     p     i     c     e" form a word?
+Answer.
+
+Beneath.
+Question. Can the letter sequence "u     n     d     e     r" form a word?
+Answer.
+
+Tricycle.
+Question. Can the letter sequence "u     n     d     e     r" form a word?
+Answer.
+
+Crevice.
+Question. Can the letter sequence "c     r     a     c     k" form a word?
+Answer.
+
+Annoy.
+Question. Can the letter sequence "c     r     a     c     k" form a word?
+Answer.
+
+Debate.
+Question. Can the letter sequence "a     r     g     u     e" form a word?
+Answer.
+
+Treasure.
+Question. Can the letter sequence "a     r     g     u     e" form a word?
+Answer.
+
+Kid.
+Question. Can the letter sequence "c     h     i     l     d" form a word?
+Answer.
+
+Ruler.
+Question. Can the letter sequence "c     h     i     l     d" form a word?
+Answer.
+
+Late.
+Question. Can the letter sequence "e     a     r     l     y" form a word?
+Answer.
+
+Core.
+Question. Can the letter sequence "e     a     r     l     y" form a word?
+Answer.
+
+Gander.
+Question. Can the letter sequence "g     o     o     s     e" form a word?
+Answer.
+
+Crescent.
+Question. Can the letter sequence "g     o     o     s     e" form a word?
+Answer.
+
+Sea.
+Question. Can the letter sequence "o     c     e     a     n" form a word?
+Answer.
+
+Salute.
+Question. Can the letter sequence "o     c     e     a     n" form a word?
+Answer.
+
+Garbage.
+Question. Can the letter sequence "t     r     a     s     h" form a word?
+Answer.
+
+Chapter.
+Question. Can the letter sequence "t     r     a     s     h" form a word?
+Answer.
+
+Disgusting.
+Question. Can the letter sequence "g     r     o     s     s" form a word?
+Answer.
+
+Astrology.
+Question. Can the letter sequence "g     r     o     s     s" form a word?
+Answer.
+
+Dial.
+Question. Can the letter sequence "p     h     o     n     e" form a word?
+Answer.
+
+Husk.
+Question. Can the letter sequence "p     h     o     n     e" form a word?
+Answer.
+
+Sentry.
+Question. Can the letter sequence "g     u     a     r     d" form a word?
+Answer.
+
+Underground.
+Question. Can the letter sequence "g     u     a     r     d" form a word?
+Answer.
+
+Honey.
+Question. Can the letter sequence "s     w     e     e     t" form a word?
+Answer.
+
+Physician.
+Question. Can the letter sequence "s     w     e     e     t" form a word?
+Answer.
+
+Weed.
+Question. Can the letter sequence "g     r     a     s     s" form a word?
+Answer.
+
+Complain.
+Question. Can the letter sequence "g     r     a     s     s" form a word?
+Answer.
+
+Mustache.
+Question. Can the letter sequence "b     e     a     r     d" form a word?
+Answer.
+
+Weights.
+Question. Can the letter sequence "b     e     a     r     d" form a word?
+Answer.
+
+Guys.
+Question. Can the letter sequence "g     i     r     l     s" form a word?
+Answer.
+
+Reprimand.
+Question. Can the letter sequence "g     i     r     l     s" form a word?
+Answer.
+
+Dim.
+Question. Can the letter sequence "l     i     g     h     t" form a word?
+Answer.
+
+Adjourn.
+Question. Can the letter sequence "l     i     g     h     t" form a word?
+Answer.
+
+Fork.
+Question. Can the letter sequence "s     p     o     o     n" form a word?
+Answer.
+
+Point.
+Question. Can the letter sequence "s     p     o     o     n" form a word?
+Answer.
+
+Tight.
+Question. Can the letter sequence "l     o     o     s     e" form a word?
+Answer.
+
+Associate.
+Question. Can the letter sequence "l     o     o     s     e" form a word?
+Answer.
+
+Seed.
+Question. Can the letter sequence "p     l     a     n     t" form a word?
+Answer.
+
+Lightning.
+Question. Can the letter sequence "p     l     a     n     t" form a word?
+Answer.
+
+Six.
+Question. Can the letter sequence "s     e     v     e     n" form a word?
+Answer.
+
+Fade.
+Question. Can the letter sequence "s     e     v     e     n" form a word?
+Answer.
+
+Bleach.
+Question. Can the letter sequence "w     h     i     t     e" form a word?
+Answer.
+
+Launch.
+Question. Can the letter sequence "w     h     i     t     e" form a word?
+Answer.
+
+Sandpaper.
+Question. Can the letter sequence "r     o     u     g     h" form a word?
+Answer.
+
+Slander.
+Question. Can the letter sequence "r     o     u     g     h" form a word?
+Answer.
+
+Ballet.
+Question. Can the letter sequence "d     a     n     c     e" form a word?
+Answer.
+
+Merit.
+Question. Can the letter sequence "d     a     n     c     e" form a word?
+Answer.
+
+Dressing.
+Question. Can the letter sequence "s     a     l     a     d" form a word?
+Answer.
+
+Car.
+Question. Can the letter sequence "s     a     l     a     d" form a word?
+Answer.
+
+Appearance.
+Question. Can the letter sequence "l     o     o     k     s" form a word?
+Answer.
+
+Floor.
+Question. Can the letter sequence "l     o     o     k     s" form a word?
+Answer.
+
+Grocery.
+Question. Can the letter sequence "s     t     o     r     e" form a word?
+Answer.
+
+English.
+Question. Can the letter sequence "s     t     o     r     e" form a word?
+Answer.
+
+Shatter.
+Question. Can the letter sequence "b     r     e     a     k" form a word?
+Answer.
+
+Yearly.
+Question. Can the letter sequence "b     r     e     a     k" form a word?
+Answer.
+
+Components.
+Question. Can the letter sequence "p     a     r     t     s" form a word?
+Answer.
+
+Fox.
+Question. Can the letter sequence "p     a     r     t     s" form a word?
+Answer.
+
+Push.
+Question. Can the letter sequence "s     h     o     v     e" form a word?
+Answer.
+
+Kleenex.
+Question. Can the letter sequence "s     h     o     v     e" form a word?
+Answer.
+
+Pancakes.
+Question. Can the letter sequence "s     y     r     u     p" form a word?
+Answer.
+
+Tortoise.
+Question. Can the letter sequence "s     y     r     u     p" form a word?
+Answer.
+
+Teach.
+Question. Can the letter sequence "l     e     a     r     n" form a word?
+Answer.
+
+Chop.
+Question. Can the letter sequence "l     e     a     r     n" form a word?
+Answer.
+
+Major.
+Question. Can the letter sequence "m     i     n     o     r" form a word?
+Answer.
+
+Trail.
+Question. Can the letter sequence "m     i     n     o     r" form a word?
+Answer.
+
+When.
+Question. Can the letter sequence "w     h     e     r     e" form a word?
+Answer.
+
+Gross.
+Question. Can the letter sequence "w     h     e     r     e" form a word?
+Answer.
+
+Bow.
+Question. Can the letter sequence "a     r     r     o     w" form a word?
+Answer.
+
+Parade.
+Question. Can the letter sequence "a     r     r     o     w" form a word?
+Answer.
+
+Link.
+Question. Can the letter sequence "c     h     a     i     n" form a word?
+Answer.
+
+Elements.
+Question. Can the letter sequence "c     h     a     i     n" form a word?
+Answer.
+
+Reef.
+Question. Can the letter sequence "c     o     r     a     l" form a word?
+Answer.
+
+Snob.
+Question. Can the letter sequence "c     o     r     a     l" form a word?
+Answer.
+
+Transplant.
+Question. Can the letter sequence "h     e     a     r     t" form a word?
+Answer.
+
+Hostage.
+Question. Can the letter sequence "h     e     a     r     t" form a word?
+Answer.
+
+Trot.
+Question. Can the letter sequence "h     o     r     s     e" form a word?
+Answer.
+
+Eight.
+Question. Can the letter sequence "h     o     r     s     e" form a word?
+Answer.
+
