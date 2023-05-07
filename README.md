@@ -9,6 +9,6 @@ For experiments for which there was some filtering before the examination of the
 Every directory also constains "script.py", a python script used to analyzed the statistical significance of the results, using ANOVA for the distance effect and T-Test for the rest of the experiments.
 
 ## Subdirectories
-Subdirectories contains the following files:
+Subdirectories contain the following files:
 * answers.txt - dictionaries that maps the possible completions to the probability assigned to them by GPT-3.
 * text.txt - the prompts to GPT, seperated by '\n\n'
