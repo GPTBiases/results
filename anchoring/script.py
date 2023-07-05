@@ -24,7 +24,7 @@ def analyze(experiment):
 
     print(f'Two-sided p-value: {"<0.001" if ttest_results.pvalue < 0.001 else "{:.16f}".format(ttest_results.pvalue)}')
     print(f't-statistic: {ttest_results.statistic}')
-    print(f'DF: {len(df[df["anchor"] == "small"]) - 1}')
+    print(f'DF: {len(df) - 2}')
 
 
 def main():
